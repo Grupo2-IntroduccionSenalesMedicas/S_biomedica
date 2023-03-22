@@ -2,7 +2,7 @@
 Somos un equipo de trabajo de estudiantes de Ingeniería Biomédica de las universidades PUCP y UPCH. Durante el semestre 2023-1 trabajaremos en un proyecto de adquisición y procesamiento de señales de EMG.
 
 # Integrantes
-![](https://drive.google.com/file/d/1bU6jSqSA4zfxRmBG7sTMUeYifoFlJlm1/view?usp=sharing)
+![](/Imagenes/FotoEquipo.jfif)
 
 
 ## Fernando Guevara
