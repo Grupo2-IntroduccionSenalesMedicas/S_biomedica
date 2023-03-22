@@ -1,7 +1,7 @@
 # S_biomedica
 Somos un equipo de trabajo de estudiantes de Ingeniería Biomédica de las universidades PUCP y UPCH. Durante el semestre 2023-1 trabajaremos en un proyecto de adquisición y procesamiento de señales de EMG.
 
-#Integrantes
+# Integrantes
 
 FERNANDO:
 Soy Fernando Guevara Remón, soy estudiante de Ingeniería Biomédica. Mi área de interés es la biomecánica relacionada a la adquisición de  señales biomédicas y sus aplicaciones en entornos clínicos. En este momento espero aprender sobre el procesamiento de señales de electromiografía (EMG)  y electroencefalograma (EEG).
