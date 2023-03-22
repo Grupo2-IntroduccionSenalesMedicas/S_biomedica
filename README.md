@@ -3,13 +3,19 @@ Somos un equipo de trabajo de estudiantes de Ingeniería Biomédica de las unive
 
 # Integrantes
 
-FERNANDO:
+## Fernando Guevara:
 Soy Fernando Guevara Remón, soy estudiante de Ingeniería Biomédica. Mi área de interés es la biomecánica relacionada a la adquisición de  señales biomédicas y sus aplicaciones en entornos clínicos. En este momento espero aprender sobre el procesamiento de señales de electromiografía (EMG)  y electroencefalograma (EEG).
-SANDRA:
+
+## Sandra Mozombite:
 Soy Sandra Mozombite Shishco, estudiante de 8vo ciclo de Ingeniería Biomédica. Me interesa el área de Ingeniería Clínica, en especial la Instrumentación Biomédica. Encuentro al estudio de señales biomédicas en conjunto con inteligencia artificial como una herramienta clave en el diseño de dispositivos. Además, quisiera poder involucrarme en el planeamiento de servicios clínicos para cuidados prenatales y neonatales. 
 
-CARLOS
-LUIS:
-Mi nombre es Luis Eduardo Barreto Espinosa, soy estudiante de 7mo ciclo en la carrera de ingeniería biomédica, interesado en las ramas de ingeniería de tejidos e Ingeniería de señales imágenes biomédicas, en esta oportunidad soy parte de un equipo interesado en la adquisición de señales, mi área de interés son las señales de electroencefalograma. 
-CARLA:
-DANIELA:
+## Carlos Pariona
+¡Hola! Soy Carlos, ingeniero industrial a punto de terminar una segunda carrera en ingeniería biomédica. Mi principal interés de investigación está en el campo de la ciencia de datos y el procesamiento de señales e imágenes, y estto y apasionado por las matemáticas detrás de las tecnologías que generan conocimiento a partir de datos. Además, soy un entusiasta de la fabricación digital ("Maker") y tengo experiencia en el campo de la impresión 3D y la electrónica.
+
+## Luis Barreto
+Mi nombre es Luis Eduardo Barreto Espinosa, soy estudiante de 7mo ciclo en la carrera de ingeniería biomédica, interesado en las ramas de ingeniería de tejidos e Ingeniería de señales imágenes biomédicas, en esta oportunidad soy parte de un equipo interesado en la adquisición de señales, mi área de interés son las señales de electroencefalograma.
+
+## Carla Solis
+
+
+## Daniela Sandoval
