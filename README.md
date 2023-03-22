@@ -21,5 +21,7 @@ Mi nombre es Luis Eduardo Barreto Espinosa, soy estudiante de 7mo ciclo en la ca
 
 
 ## Daniela Sandoval
+Mi nombre es Daniela Mareli Sandoval Reyes, soy estudiante de 7mo ciclo en la carrera de ingeniería biomédica,  con interés en consolidar el conocimiento adquirido mediante la práctica especialmente en el campo de Ingeniería Clínica con temas relacionados a metrología y calibración. Me considero una persona proactiva, comprometida a alcanzar nuevas metas en el ámbito de salud con miras al desarrollo del país, honesta, responsable, analítica y dispuesta a trabajar en equipo para lograr objetivos laborales y personales. 
+
 
 ![](https://istanbulonkoloji.com/Content/UserFiles/News/Orjinal/emg-nedir-ne-zaman-yapilir-p4793.jpg)
