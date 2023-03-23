@@ -2,14 +2,14 @@
 ## ¿Qué es una señal biomédica?
 Las señales biomédicas son observaciones de las actividades fisiológicas de los organismos, que van desde secuencias de genes y proteínas hasta ritmos neurales y cardíacos e imágenes de tejidos y órganos. El procesamiento de señales biomédicas tiene como objetivo extraer información significativa de las señales biomédicas.
 
-<p align="center"><img src="https://istanbulonkoloji.com/Content/UserFiles/News/Orjinal/emg-nedir-ne-zaman-yapilir-p4793.jpg"  width="300" height="250"></p>
+<p align="center"><img src="https://istanbulonkoloji.com/Content/UserFiles/News/Orjinal/emg-nedir-ne-zaman-yapilir-p4793.jpg"  width="600" height="300"></p>
 
 ***
 # S_biomedica
 Somos un equipo de trabajo de estudiantes de Ingeniería Biomédica de las universidades PUCP y UPCH. Durante el semestre 2023-1 trabajaremos en un proyecto de adquisición y procesamiento de señales de EMG.
 
 # *Integrantes*
-<p align="center"><img src="/Imagenes/FotoEquipo.jfif"  width="300" height="250"></p>
+<p align="center"><img src="/Imagenes/FotoEquipo.jfif"  width="400" height="250"></p>
 
 ## Fernando Guevara
 <p align="justify">
