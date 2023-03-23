@@ -11,8 +11,8 @@ Somos un equipo de trabajo de estudiantes de Ingeniería Biomédica de las unive
 ![|100](/Imagenes/FotoEquipo.jfif)
 
 <p align="justify">
-## Fernando Guevara
-Soy Fernando Guevara Remón, soy estudiante de Ingeniería Biomédica. Mi área de interés es la biomecánica relacionada a la adquisición de  señales biomédicas y sus aplicaciones en entornos clínicos. En este momento espero aprender sobre el procesamiento de señales de electromiografía (EMG)  y electroencefalograma (EEG).
+## Fernando Guevara\n
+Soy Fernando Guevara Remón, soy estudiante de Ingeniería Biomédica. Mi área de interés es la biomecánica relacionada a la adquisición de  señales biomédicas y sus aplicaciones en entornos clínicos. En este momento espero aprender sobre el procesamiento de señales de electromiografía (EMG)  y electroencefalograma (EEG).\newpage
 
 <p align="center"><img src="/Imagenes/fernando.jpg"  width="200" height="266"></p>
 
