@@ -8,7 +8,7 @@ Las señales biomédicas son observaciones de las actividades fisiológicas de l
 Somos un equipo de trabajo de estudiantes de Ingeniería Biomédica de las universidades PUCP y UPCH. Durante el semestre 2023-1 trabajaremos en un proyecto de adquisición y procesamiento de señales de EMG.
 
 # *Integrantes*
-![](/Imagenes/FotoEquipo.jfif)
+![|100](/Imagenes/FotoEquipo.jfif)
 
 
 ## Fernando Guevara
