@@ -13,7 +13,8 @@ Somos un equipo de trabajo de estudiantes de Ingeniería Biomédica de las unive
 
 ## Fernando Guevara
 Soy Fernando Guevara Remón, soy estudiante de Ingeniería Biomédica. Mi área de interés es la biomecánica relacionada a la adquisición de  señales biomédicas y sus aplicaciones en entornos clínicos. En este momento espero aprender sobre el procesamiento de señales de electromiografía (EMG)  y electroencefalograma (EEG).
-<img src="/Imagenes/fernando.jpg"  width="600" height="300">
+
+<img src="/Imagenes/fernando.jpg"  width="200" height="300">
 ## Sandra Mozombite
 Soy Sandra Mozombite Shishco, estudiante de 8vo ciclo de Ingeniería Biomédica. Me interesa el área de Ingeniería Clínica, en especial la Instrumentación Biomédica. Encuentro al estudio de señales biomédicas en conjunto con inteligencia artificial como una herramienta clave en el diseño de dispositivos. Además, quisiera poder involucrarme en el planeamiento de servicios clínicos para cuidados prenatales y neonatales. 
 ![](/Imagenes/sandra.jpg)
