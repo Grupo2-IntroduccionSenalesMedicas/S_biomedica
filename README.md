@@ -1,3 +1,9 @@
+# *INTRODUCCIÓN A SEÑALES BIOMÉDICAS*
+## ¿Qué es una señal biomédica?
+Las señales biomédicas son observaciones de las actividades fisiológicas de los organismos, que van desde secuencias de genes y proteínas hasta ritmos neurales y cardíacos e imágenes de tejidos y órganos. El procesamiento de señales biomédicas tiene como objetivo extraer información significativa de las señales biomédicas.
+
+![](https://istanbulonkoloji.com/Content/UserFiles/News/Orjinal/emg-nedir-ne-zaman-yapilir-p4793.jpg)
+***
 # S_biomedica
 Somos un equipo de trabajo de estudiantes de Ingeniería Biomédica de las universidades PUCP y UPCH. Durante el semestre 2023-1 trabajaremos en un proyecto de adquisición y procesamiento de señales de EMG.
 
@@ -24,4 +30,3 @@ Mi nombre es Carla Alexandra Solis Bocanegra, soy estudiante del 7mo ciclo de la
 Mi nombre es Daniela Mareli Sandoval Reyes, soy estudiante de 7mo ciclo en la carrera de ingeniería biomédica,  con interés en consolidar el conocimiento adquirido mediante la práctica especialmente en el campo de Ingeniería Clínica con temas relacionados a metrología y calibración. Me considero una persona proactiva, comprometida a alcanzar nuevas metas en el ámbito de salud con miras al desarrollo del país, honesta, responsable, analítica y dispuesta a trabajar en equipo para lograr objetivos laborales y personales. 
 ![](/Imagenes/dani.jpg)
 
-![](https://istanbulonkoloji.com/Content/UserFiles/News/Orjinal/emg-nedir-ne-zaman-yapilir-p4793.jpg)
