@@ -1,7 +1,7 @@
 # *INTRODUCCIÓN A SEÑALES BIOMÉDICAS*
 ## ¿Qué es una señal biomédica?
 <p align="justify">
-Una señal biomédica es una señal eléctrica, mecánica, química u óptica que se origina en el cuerpo humano o en un animal y que puede ser medida y analizada con fines médicos o biológicos. Las señales biomédicas son generadas por los procesos fisiológicos y patológicos del cuerpo, y pueden ser medidas en diferentes partes del cuerpo, tales como el cerebro, el corazón, los músculos, la piel, entre otros.<br>
+Una señal biomédica es una señal eléctrica, mecánica, química u óptica que se origina en el cuerpo humano o en un animal y que puede ser medida y analizada con fines médicos o biológicos. Las señales biomédicas son generadas por los procesos fisiológicos y patológicos del cuerpo, y pueden ser medidas en diferentes partes del cuerpo, tales como el cerebro, el corazón, los músculos, la piel, entre otros.<br><br>
 Ejemplos de señales biomédicas incluyen la actividad eléctrica del cerebro medida por un electroencefalograma (EEG), el ritmo cardíaco medido por un electrocardiograma (ECG), la presión arterial medida por un esfigmomanómetro, la fuerza muscular medida por un dinamómetro, la temperatura corporal medida por un termómetro, entre otras. Estas señales biomédicas se utilizan en la práctica clínica para el diagnóstico, monitoreo y tratamiento de diferentes enfermedades y trastornos médicos.
 </p>
 
