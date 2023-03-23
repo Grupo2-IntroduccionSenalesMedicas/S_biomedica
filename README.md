@@ -16,6 +16,7 @@ Soy Fernando Guevara Remón, soy estudiante de Ingeniería Biomédica. Mi área 
 ![](/Imagenes/fernando.jpg)
 ## Sandra Mozombite
 Soy Sandra Mozombite Shishco, estudiante de 8vo ciclo de Ingeniería Biomédica. Me interesa el área de Ingeniería Clínica, en especial la Instrumentación Biomédica. Encuentro al estudio de señales biomédicas en conjunto con inteligencia artificial como una herramienta clave en el diseño de dispositivos. Además, quisiera poder involucrarme en el planeamiento de servicios clínicos para cuidados prenatales y neonatales. 
+![](/Imagenes/sandra.jpg)
 
 ## Carlos Pariona
 ¡Hola! Soy Carlos, ingeniero industrial a punto de terminar una segunda carrera en ingeniería biomédica. Mi principal interés de investigación está en el campo de la ciencia de datos y el procesamiento de señales e imágenes, y estto y apasionado por las matemáticas detrás de las tecnologías que generan conocimiento a partir de datos. Además, soy un entusiasta de la fabricación digital ("Maker") y tengo experiencia en el campo de la impresión 3D y la electrónica.
