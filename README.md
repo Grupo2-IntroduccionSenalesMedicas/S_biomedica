@@ -10,7 +10,7 @@ Somos un equipo de trabajo de estudiantes de Ingeniería Biomédica de las unive
 # *Integrantes*
 ![|100](/Imagenes/FotoEquipo.jfif)
 
-
+<p style="text-align: justify;">
 ## Fernando Guevara
 Soy Fernando Guevara Remón, soy estudiante de Ingeniería Biomédica. Mi área de interés es la biomecánica relacionada a la adquisición de  señales biomédicas y sus aplicaciones en entornos clínicos. En este momento espero aprender sobre el procesamiento de señales de electromiografía (EMG)  y electroencefalograma (EEG).
 
@@ -33,4 +33,4 @@ Mi nombre es Carla Alexandra Solis Bocanegra, soy estudiante del 7mo ciclo de la
 ## Daniela Sandoval
 Mi nombre es Daniela Mareli Sandoval Reyes, soy estudiante de 7mo ciclo en la carrera de ingeniería biomédica,  con interés en consolidar el conocimiento adquirido mediante la práctica especialmente en el campo de Ingeniería Clínica con temas relacionados a metrología y calibración. Me considero una persona proactiva, comprometida a alcanzar nuevas metas en el ámbito de salud con miras al desarrollo del país, honesta, responsable, analítica y dispuesta a trabajar en equipo para lograr objetivos laborales y personales. 
 <img src="/Imagenes/dani.jpg"  width="200" height="236">
-
+</p>
