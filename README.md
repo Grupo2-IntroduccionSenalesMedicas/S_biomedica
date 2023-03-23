@@ -23,7 +23,7 @@ Soy Sandra Mozombite Shishco, estudiante de 8vo ciclo de Ingeniería Biomédica.
 ![](/Imagenes/carlos.jpg)
 ## Luis Barreto
 Mi nombre es Luis Eduardo Barreto Espinosa, soy estudiante de 7mo ciclo en la carrera de ingeniería biomédica, interesado en las ramas de ingeniería de tejidos e Ingeniería de señales imágenes biomédicas, en esta oportunidad soy parte del equipo 2, interesado en la adquisición de señales, mi área de interés son las señales de electroencefalograma.
-
+![](/Imagenes/luis.jpg)
 ## Carla Solis
 Mi nombre es Carla Alexandra Solis Bocanegra, soy estudiante del 7mo ciclo de la carrera de ingeniería biomédica. Estoy interesada en el área de Biomecánica y rehabilitación. Me considero una persona responsable, dedicada e innovadora. En este curso busco aprender sobre el procesamiento de señales.
 ![](/Imagenes/carla.jpg)
