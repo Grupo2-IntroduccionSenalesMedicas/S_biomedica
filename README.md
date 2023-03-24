@@ -18,7 +18,8 @@ Somos un equipo de trabajo de estudiantes de Ingeniería Biomédica de las unive
 
 ## ¿Qué es una señal biomédica?<a name="id1"></a>
 <p align="justify">
-Una señal biomédica es una señal eléctrica, mecánica, química u óptica que se origina en el cuerpo humano o en un animal y que puede ser medida y analizada con fines médicos o biológicos. Las señales biomédicas son generadas por los procesos fisiológicos y patológicos del cuerpo, y pueden ser medidas en diferentes partes del cuerpo, tales como el cerebro, el corazón, los músculos, la piel, entre otros.<br><br>
+Una señal biomédica es una señal eléctrica, mecánica, química u óptica que se origina en el cuerpo humano o en un animal y que puede ser medida y analizada con fines médicos o biológicos. Las señales biomédicas son generadas por los procesos fisiológicos y patológicos del cuerpo, y pueden ser medidas en diferentes partes del cuerpo, tales como el cerebro, el corazón, los músculos, la piel, entre otros.<br>
+
 Ejemplos de señales biomédicas incluyen la actividad eléctrica del cerebro medida por un electroencefalograma (EEG), el ritmo cardíaco medido por un electrocardiograma (ECG), la presión arterial medida por un esfigmomanómetro, la actividad muscular medida por un electromiograma (EMG), la temperatura corporal medida por un termómetro, entre otras. Estas señales biomédicas se utilizan en la práctica clínica para el diagnóstico, monitoreo y tratamiento de diferentes enfermedades y trastornos médicos.
 </p>
 
@@ -39,9 +40,9 @@ Ejemplos de señales biomédicas incluyen la actividad eléctrica del cerebro me
 <p align="justify">
 Adquisición y procesamiento de señales de EMG<br><br>
 
-La electromiografía (EMG) es una técnica que se utiliza para medir la actividad eléctrica de los músculos. La adquisición de señales de EMG implica colocar electrodos en la superficie de la piel sobre el músculo de interés, mientras que el procesamiento de señales de EMG implica amplificar y filtrar la señal registrada para extraer información relevante.<br><br>
+La electromiografía (EMG) es una técnica que se utiliza para medir la actividad eléctrica de los músculos. La adquisición de señales de EMG implica colocar electrodos en la superficie de la piel sobre el músculo de interés, mientras que el procesamiento de señales de EMG implica amplificar y filtrar la señal registrada para extraer información relevante.<br>
 
-Las aplicaciones de la EMG incluyen:<br><br>
+Las aplicaciones de la EMG incluyen:<br>
 
 - Evaluación de la función muscular en pacientes con trastornos neuromusculares, como la distrofia muscular y la esclerosis lateral amiotrófica.
 - Investigación de la actividad muscular en deportistas y atletas para mejorar el rendimiento y prevenir lesiones.
