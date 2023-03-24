@@ -36,10 +36,9 @@ Ejemplos de señales biomédicas incluyen la actividad eléctrica del cerebro me
 ***
 
 # Temática del proyecto<a name="id4"></a>
+## Adquisición y procesamiento de señales de EMG<br>
 
 <p align="justify">
-Adquisición y procesamiento de señales de EMG<br><br>
-
 La electromiografía (EMG) es una técnica que se utiliza para medir la actividad eléctrica de los músculos. La adquisición de señales de EMG implica colocar electrodos en la superficie de la piel sobre el músculo de interés, mientras que el procesamiento de señales de EMG implica amplificar y filtrar la señal registrada para extraer información relevante.<br>
 
 Las aplicaciones de la EMG incluyen:<br>
