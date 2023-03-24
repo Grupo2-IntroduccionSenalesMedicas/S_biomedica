@@ -1,5 +1,23 @@
-# *Curso: INTRODUCCIÓN A SEÑALES BIOMÉDICAS*
-## ¿Qué es una señal biomédica?
+# **Curso: INTRODUCCIÓN A SEÑALES BIOMÉDICAS**
+
+# S_biomedica
+Somos un equipo de trabajo de estudiantes de Ingeniería Biomédica de las universidades PUCP y UPCH. Durante el semestre 2023-1 trabajaremos en un proyecto de adquisición y procesamiento de señales de EMG.
+
+***
+
+# **Tabla de contenidos**
+1. [¿Qué es una señal biomédica?](#id1)
+2. [Integrantes](#id2)
+3. [Materiales](#id3)
+4. [Metodología](#id4)
+5. [Temática del proyecto](#id5)
+6. [Contenido del curso](#id6)
+7. [Participantes](#id7)
+8. [Docentes del curso](#id8)
+
+***
+
+## ¿Qué es una señal biomédica?<a name="id1"></a>
 <p align="justify">
 Una señal biomédica es una señal eléctrica, mecánica, química u óptica que se origina en el cuerpo humano o en un animal y que puede ser medida y analizada con fines médicos o biológicos. Las señales biomédicas son generadas por los procesos fisiológicos y patológicos del cuerpo, y pueden ser medidas en diferentes partes del cuerpo, tales como el cerebro, el corazón, los músculos, la piel, entre otros.<br><br>
 Ejemplos de señales biomédicas incluyen la actividad eléctrica del cerebro medida por un electroencefalograma (EEG), el ritmo cardíaco medido por un electrocardiograma (ECG), la presión arterial medida por un esfigmomanómetro, la actividad muscular medida por un electromiograma (EMG), la temperatura corporal medida por un termómetro, entre otras. Estas señales biomédicas se utilizan en la práctica clínica para el diagnóstico, monitoreo y tratamiento de diferentes enfermedades y trastornos médicos.
@@ -8,10 +26,8 @@ Ejemplos de señales biomédicas incluyen la actividad eléctrica del cerebro me
 <p align="center"><img src="https://istanbulonkoloji.com/Content/UserFiles/News/Orjinal/emg-nedir-ne-zaman-yapilir-p4793.jpg"  width="600" height="300"></p>
 
 ***
-# S_biomedica
-Somos un equipo de trabajo de estudiantes de Ingeniería Biomédica de las universidades PUCP y UPCH. Durante el semestre 2023-1 trabajaremos en un proyecto de adquisición y procesamiento de señales de EMG.
 
-# *Integrantes*
+# Integrantes<a name="id2"></a>
 <p align="center"><img src="/Imagenes/FotoEquipo.jfif"  width="400" height="250"></p>
 
 ## Fernando Guevara
@@ -36,6 +52,7 @@ Soy Sandra Mozombite Shishco, estudiante de 8vo ciclo de Ingeniería Biomédica.
 <p align="center"><img src="/Imagenes/carlos.jpg"  width="200" height="266"></p>
 
 ## Luis Barreto
+#### [luis.barreto@upch.pe]
 <p align="justify">
 Mi nombre es Luis Eduardo Barreto Espinosa, soy estudiante de 7mo ciclo en la carrera de ingeniería biomédica, interesado en las ramas de ingeniería de tejidos e Ingeniería de señales imágenes biomédicas, en esta oportunidad soy parte del equipo 2, interesado en la adquisición de señales, mi área de interés son las señales de electroencefalograma.
 </p>
@@ -44,7 +61,7 @@ Mi nombre es Luis Eduardo Barreto Espinosa, soy estudiante de 7mo ciclo en la ca
 
 ## Carla Solis
 <p align="justify">
-Mi nombre es Carla Alexandra Solis Bocanegra, soy estudiante del 7mo ciclo de la carrera de ingeniería biomédica. Estoy interesada en el área de Biomecánica y rehabilitación. Me considero una persona responsable, dedicada e innovadora. En este curso busco aprender sobre el procesamiento de señales y desarrollar un proyecto con lo aprendido.
+Mi nombre es Carla Alexandra Solis Bocanegra, soy estudiante del 7mo ciclo de la carrera de ingeniería biomédica. Estoy interesada en el área de Biomecánica y rehabilitación. Me considero una persona responsable, dedicada e innovadora. En este curso busco aprender sobre el procesamiento de señales.
 </p>
 
 <p align="center"><img src="/Imagenes/carla.jpg"  width="200" height="266"></p>
@@ -55,3 +72,11 @@ Mi nombre es Daniela Mareli Sandoval Reyes, soy estudiante de 7mo ciclo en la ca
 </p>
 
 <p align="center"><img src="/Imagenes/dani.jpg"  width="200" height="236"></p>
+
+***
+
+# Docentes del curso<a name="id8"></a>
+
+- Umbert Lewis De La Cruz Rodríguez (Coordinador del curso) [umbert.de.la.cruz@upch.pe]
+- Moisés Stevend Meza Rodríguez (Coordinador adjunto)
+- Julissa Elvira Venancio Huerta (Coordinador adjunto)
