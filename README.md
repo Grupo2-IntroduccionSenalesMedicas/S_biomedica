@@ -7,13 +7,12 @@ Somos un equipo de trabajo de estudiantes de Ingeniería Biomédica de las unive
 
 # **Tabla de contenidos**
 1. [¿Qué es una señal biomédica?](#id1)
-2. [Integrantes](#id2)
-3. [Materiales](#id3)
-4. [Metodología](#id4)
-5. [Temática del proyecto](#id5)
-6. [Contenido del curso](#id6)
-7. [Participantes](#id7)
-8. [Docentes del curso](#id8)
+3. [Materiales](#id2)
+4. [Metodología](#id3)
+5. [Temática del proyecto](#id4)
+6. [Contenido del curso](#id5)
+7. [Integrantes](#id6)
+8. [Docentes del curso](#id7)
 
 ***
 
@@ -27,7 +26,23 @@ Ejemplos de señales biomédicas incluyen la actividad eléctrica del cerebro me
 
 ***
 
-# Integrantes<a name="id2"></a>
+# Materiales<a name="id2"></a>
+
+***
+
+# Metodología<a name="id3"></a>
+
+***
+
+# Temática del proyecto<a name="id4"></a>
+
+***
+
+# Contenido del curso<a name="id5"></a>
+
+***
+
+# Integrantes<a name="id6"></a>
 <p align="center"><img src="/Imagenes/FotoEquipo.jfif"  width="400" height="250"></p>
 
 ## Fernando Guevara
@@ -51,8 +66,7 @@ Soy Sandra Mozombite Shishco, estudiante de 8vo ciclo de Ingeniería Biomédica.
 
 <p align="center"><img src="/Imagenes/carlos.jpg"  width="200" height="266"></p>
 
-## Luis Barreto
-#### [luis.barreto@upch.pe]
+## Luis Barreto [luis.barreto@upch.pe]
 <p align="justify">
 Mi nombre es Luis Eduardo Barreto Espinosa, soy estudiante de 7mo ciclo en la carrera de ingeniería biomédica, interesado en las ramas de ingeniería de tejidos e Ingeniería de señales imágenes biomédicas, en esta oportunidad soy parte del equipo 2, interesado en la adquisición de señales, mi área de interés son las señales de electroencefalograma.
 </p>
@@ -75,7 +89,7 @@ Mi nombre es Daniela Mareli Sandoval Reyes, soy estudiante de 7mo ciclo en la ca
 
 ***
 
-# Docentes del curso<a name="id8"></a>
+# Docentes del curso<a name="id7"></a>
 
 - Umbert Lewis De La Cruz Rodríguez (Coordinador del curso) [umbert.de.la.cruz@upch.pe]
 - Moisés Stevend Meza Rodríguez (Coordinador adjunto)
