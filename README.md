@@ -70,6 +70,16 @@ Este curso desarrollará los conocimientos necesarios para el tratamiento de se�
 - Integrar los principios básicos de la construcción de sistemas de información a la telemedicina aplicando los conocimientos sobre señales biomédicas.
 - Producir soluciones de ingeniería mediante un prototipo aplicando los conocimientos discutidos en el curso y los principios del método científico.
 
+## Unidades
+
+El curso consta de 4 unidades las cuales se desarrollaran a lo largo del semestre:
+
+- UNIDAD 1: Introducción, adquisición y principios fisiológicos de las señales biomédicas
+- UNIDAD 2: Análisis de ECG, EMG y EEG
+- UNIDAD 3: Introducción al tratamiento digital de señales
+- UNIDAD 4: Informática biomédica e introducción a la inteligencia artificial en señales biomédicas
+
+
 <p align="center"><img src="/Imagenes/contenidos.png"  width="900" height="1620"></p>
 
 ***
