@@ -59,6 +59,10 @@ Las aplicaciones de la EMG incluyen:<br>
 
 # Contenido del curso<a name="id5"></a>
 
+<p align="justify">
+Este curso desarrollará los conocimientos necesarios para el tratamiento de señales provenientes de dispositivos médicos. Se abordaron temas como: el estudio de los sensores, la tecnología de adquisición, los procesos clínicos en los que se dan y protocolos que se usan para compartir la información entre los diferentes equipos que brindan señales. Las clases se desarrollarán en un laboratorio donde se complementará la teoría brindada con simulaciones en computadora utilizando programas desarrollados en Python y kits de desarrollo para la adquisición de bioseñales.
+</p>
+
 ***
 
 # Integrantes<a name="id6"></a>
