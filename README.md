@@ -63,6 +63,15 @@ Las aplicaciones de la EMG incluyen:<br>
 Este curso desarrollará los conocimientos necesarios para el tratamiento de señales provenientes de dispositivos médicos. Se abordaron temas como: el estudio de los sensores, la tecnología de adquisición, los procesos clínicos en los que se dan y protocolos que se usan para compartir la información entre los diferentes equipos que brindan señales. Las clases se desarrollarán en un laboratorio donde se complementará la teoría brindada con simulaciones en computadora utilizando programas desarrollados en Python y kits de desarrollo para la adquisición de bioseñales.
 </p>
 
+## Objetivos del curso
+
+- Describir las características intrínsecas de las diferentes señales biomédicas teniendo en cuenta los principios fisiológicos y la metodología de adquisición.
+- Implementa algoritmos de procesamiento de señales electrocardiográficas, electromiográficas y electroencefalográficas en un computador o en un microcontrolador usando el lenguaje de programación Python.
+- Integrar los principios básicos de la construcción de sistemas de información a la telemedicina aplicando los conocimientos sobre señales biomédicas.
+- Producir soluciones de ingeniería mediante un prototipo aplicando los conocimientos discutidos en el curso y los principios del método científico.
+
+
+
 ***
 
 # Integrantes<a name="id6"></a>
