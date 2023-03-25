@@ -64,7 +64,7 @@ Las aplicaciones de la EMG incluyen:<br>
 # Integrantes<a name="id6"></a>
 <p align="center"><img src="/Imagenes/FotoEquipo.jfif"  width="400" height="250"></p>
 
-## Fernando Guevara
+## Fernando Guevara [fernando.guevara@upch.pe]
 <p align="justify">
 Soy Fernando Guevara Remón, soy estudiante de Ingeniería Biomédica. Mi área de interés es la biomecánica relacionada a la adquisición de  señales biomédicas y sus aplicaciones en entornos clínicos. En este momento espero aprender sobre el procesamiento de señales de electromiografía (EMG)  y electroencefalograma (EEG).
 </p>
