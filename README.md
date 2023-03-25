@@ -7,12 +7,12 @@ Somos un equipo de trabajo de estudiantes de Ingeniería Biomédica de las unive
 
 # **Tabla de contenidos**
 1. [¿Qué es una señal biomédica?](#id1)
-3. [Materiales](#id2)
-4. [Metodología](#id3)
-5. [Temática del proyecto](#id4)
-6. [Contenido del curso](#id5)
-7. [Integrantes](#id6)
-8. [Docentes del curso](#id7)
+2. [Temática del proyecto](#id2)
+3. [Materiales](#id3)
+4. [Metodología](#id4)
+5. [Contenido del curso](#id5)
+6. [Integrantes](#id6)
+7. [Docentes del curso](#id7)
 
 ***
 
@@ -25,23 +25,7 @@ Ejemplos de señales biomédicas incluyen la actividad eléctrica del cerebro me
 <p align="center"><img src="https://istanbulonkoloji.com/Content/UserFiles/News/Orjinal/emg-nedir-ne-zaman-yapilir-p4793.jpg"  width="600" height="300"></p>
 
 ***
-
-# Materiales<a name="id2"></a>
-
-|       Nombre       |                                                                                                                                                     Descripción                                                                                                                                                    |                                                  Imagen referencial                                                  |
-|:------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|
-|   Arduino 33 IoT   |                                                                             El Arduino Nano 33 IoT es una pequeña placa de desarrollo que incluye conectividad WiFi y Bluetooth LE, diseñada para proyectos IoT (Internet of things).                                                                              |        <img src = "https://m.media-amazon.com/images/I/61VqCKv6yHL._AC_SL1000_.jpg" width="122" height="51.4">       |
-| Arduino TinyML Kit |             El Arduino Tiny Machine Learning Kit es un kit de desarrollo de inteligencia artificial que combina hardware de Arduino con capacidades de aprendizaje automático, usando la biblioteca TensorFlow Lite. Es adecuado para crear proyectos de IoT y aplicaciones de bajo consumo energético.            | <img src = "https://botland.store/img/art/inne/19352_19.jpg" width="108" height="113"> |
-| Fluke ProSim 4     |                                                      El Fluke ProSim 4 es un simulador de pacientes utilizado para la calibración y verificación de equipos médicos, simulando parámetros fisiológicos para asegurar la precisión de los dispositivos médicos.                                                     |      <img src = "https://setgad.com/wp/wp-content/uploads/2019/04/fb-prosim4_01b_c.jpg" width="90" height="105">     |
-| BITalino           | BITalino es un kit de desarrollo de hardware y software de bajo costo utilizado para la monitorización y adquisición de datos biométricos, como la actividad muscular, el electrocardiograma, la frecuencia respiratoria, entre otros, para su uso en aplicaciones de investigación, educación y proyectos de IoT. |       <img src = "https://pplware.sapo.pt/wp-content/uploads/2014/08/bitalino_00.jpg" width="116" height="86">       |
-
-***
-
-# Metodología<a name="id3"></a>
-
-***
-
-# Temática del proyecto<a name="id4"></a>
+# Temática del proyecto<a name="id2"></a>
 ## Adquisición y procesamiento de señales de EMG<br>
 
 <p align="justify">
@@ -55,6 +39,21 @@ Las aplicaciones de la EMG incluyen:<br>
 - Control de prótesis y dispositivos de asistencia para personas con discapacidades motoras.
 - Análisis de la actividad muscular durante el sueño para el diagnóstico de trastornos del sueño, como el síndrome de apnea del sueño.
 - Estudio de la actividad muscular en animales para comprender mejor el comportamiento y la biomecánica.
+
+***
+
+# Materiales<a name="id3"></a>
+
+|       Nombre       |                                                                                                                                                     Descripción                                                                                                                                                    |                                                  Imagen referencial                                                  |
+|:------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|
+|   Arduino 33 IoT   |                                                                             El Arduino Nano 33 IoT es una pequeña placa de desarrollo que incluye conectividad WiFi y Bluetooth LE, diseñada para proyectos IoT (Internet of things).                                                                              |        <img src = "https://m.media-amazon.com/images/I/61VqCKv6yHL._AC_SL1000_.jpg" width="122" height="51.4">       |
+| Arduino TinyML Kit |             El Arduino Tiny Machine Learning Kit es un kit de desarrollo de inteligencia artificial que combina hardware de Arduino con capacidades de aprendizaje automático, usando la biblioteca TensorFlow Lite. Es adecuado para crear proyectos de IoT y aplicaciones de bajo consumo energético.            | <img src = "https://botland.store/img/art/inne/19352_19.jpg" width="108" height="113"> |
+| Fluke ProSim 4     |                                                      El Fluke ProSim 4 es un simulador de pacientes utilizado para la calibración y verificación de equipos médicos, simulando parámetros fisiológicos para asegurar la precisión de los dispositivos médicos.                                                     |      <img src = "https://setgad.com/wp/wp-content/uploads/2019/04/fb-prosim4_01b_c.jpg" width="90" height="105">     |
+| BITalino           | BITalino es un kit de desarrollo de hardware y software de bajo costo utilizado para la monitorización y adquisición de datos biométricos, como la actividad muscular, el electrocardiograma, la frecuencia respiratoria, entre otros, para su uso en aplicaciones de investigación, educación y proyectos de IoT. |       <img src = "https://pplware.sapo.pt/wp-content/uploads/2014/08/bitalino_00.jpg" width="116" height="86">       |
+
+***
+
+# Metodología<a name="id4"></a>
   
 ***
 
