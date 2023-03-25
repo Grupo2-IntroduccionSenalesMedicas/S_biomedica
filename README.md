@@ -110,7 +110,7 @@ Mi nombre es Daniela Mareli Sandoval Reyes, soy estudiante de 7mo ciclo en la ca
 ***
 
 # Docentes del curso<a name="id7"></a>
-## Profesores del curso
+## Profesores
 - Umbert Lewis De La Cruz Rodriguez [umbert.de.la.cruz@upch.pe]
 - Moisés Stevend Meza Rodriguez [moises.meza@upch.pe]
 - Avid Roman Gonzalez [avid.roman-gonzalez@ieee.org]
