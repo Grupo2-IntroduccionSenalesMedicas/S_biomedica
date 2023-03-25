@@ -1,6 +1,6 @@
 # **INTRODUCCIÓN A SEÑALES BIOMÉDICAS**
 
-# S_biomedica
+# S_biomédica
 Somos un equipo de trabajo de estudiantes de Ingeniería Biomédica de las universidades PUCP y UPCH. Durante el semestre 2023-1 trabajaremos en un proyecto de adquisición y procesamiento de señales de EMG.
 
 ***
