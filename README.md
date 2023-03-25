@@ -70,7 +70,7 @@ Este curso desarrollará los conocimientos necesarios para el tratamiento de se�
 - Integrar los principios básicos de la construcción de sistemas de información a la telemedicina aplicando los conocimientos sobre señales biomédicas.
 - Producir soluciones de ingeniería mediante un prototipo aplicando los conocimientos discutidos en el curso y los principios del método científico.
 
-
+<p align="center"><img src="/Imagenes/contenidos.png"  width="400" height="250"></p>
 
 ***
 
