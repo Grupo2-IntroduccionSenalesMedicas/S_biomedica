@@ -73,14 +73,14 @@ Soy Fernando Guevara Remón, soy estudiante de Ingeniería Biomédica. Mi área 
 
 <p align="center"><img src="/Imagenes/fernando.jpg"  width="200" height="266"></p>
 
-## Sandra Mozombite
+## Sandra Mozombite [sandra.mozombite@upch.pe]
 <p align="justify">
 Soy Sandra Mozombite Shishco, estudiante de 8vo ciclo de Ingeniería Biomédica. Me interesa el área de Ingeniería Clínica, en especial la Instrumentación Biomédica. Encuentro al estudio de señales biomédicas en conjunto con inteligencia artificial como una herramienta clave en el diseño de dispositivos. Además, quisiera poder involucrarme en el planeamiento de servicios clínicos para cuidados prenatales y neonatales.
 </p>
 
 <p align="center"><img src="/Imagenes/sandra.jpg"  width="150" height="266"></p>
 
-## Carlos Pariona
+## Carlos Pariona [carlos.pariona@upch.pe]
 <p align="justify">
 ¡Hola! Soy Carlos, ingeniero industrial a punto de terminar una segunda carrera en ingeniería biomédica. Mi principal interés de investigación está en el campo de la ciencia de datos y el procesamiento de señales e imágenes, y estto y apasionado por las matemáticas detrás de las tecnologías que generan conocimiento a partir de datos. Además, soy un entusiasta de la fabricación digital ("Maker") y tengo experiencia en el campo de la impresión 3D y la electrónica.
 </p>
@@ -111,7 +111,11 @@ Mi nombre es Daniela Mareli Sandoval Reyes, soy estudiante de 7mo ciclo en la ca
 ***
 
 # Docentes del curso<a name="id7"></a>
+## Profesores del curso
+- Umbert Lewis De La Cruz Rodriguez [umbert.de.la.cruz@upch.pe]
+- Moisés Stevend Meza Rodriguez [moises.meza@upch.pe]
+- Avid Roman Gonzalez [avid.roman-gonzalez@ieee.org]
 
-- Umbert Lewis De La Cruz Rodríguez (Coordinador del curso) [umbert.de.la.cruz@upch.pe]
-- Moisés Stevend Meza Rodríguez (Coordinador adjunto)
-- Julissa Elvira Venancio Huerta (Coordinador adjunto)
+## Jefes de Prácticas
+- Julissa Elvira Venancio Huerta [julissa.venancio@upch.pe]
+- Jose Alonso Cáceres del Aguila [jo.alonsok@gmail.com]
