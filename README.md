@@ -93,14 +93,14 @@ Mi nombre es Luis Eduardo Barreto Espinosa, soy estudiante de 7mo ciclo en la ca
 
 <p align="center"><img src="/Imagenes/luis.jpg"  width="200" height="250"></p>
 
-## Carla Solis
+## Carla Solis [carla.solis@upch.pe]
 <p align="justify">
 Mi nombre es Carla Alexandra Solis Bocanegra, soy estudiante del 7mo ciclo de la carrera de ingeniería biomédica. Estoy interesada en el área de Biomecánica y rehabilitación. Me considero una persona responsable, dedicada e innovadora. En este curso busco aprender sobre el procesamiento de señales.
 </p>
 
 <p align="center"><img src="/Imagenes/carla.jpg"  width="200" height="266"></p>
 
-## Daniela Sandoval
+## Daniela Sandoval [daniela.sandoval@upch.pe]
 <p align="justify">
 Mi nombre es Daniela Mareli Sandoval Reyes, soy estudiante de 7mo ciclo en la carrera de ingeniería biomédica,  con interés en consolidar el conocimiento adquirido mediante la práctica especialmente en el campo de Ingeniería Clínica con temas relacionados a metrología y calibración. Me considero una persona proactiva, comprometida a alcanzar nuevas metas en el ámbito de salud con miras al desarrollo del país, honesta, responsable, analítica y dispuesta a trabajar en equipo para lograr objetivos laborales y personales. 
 </p>
