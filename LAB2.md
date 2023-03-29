@@ -1,15 +1,16 @@
-# **INTRODUCCIÓN A SEÑALES BIOMÉDICAS**
+# **LABORATORIO 2: ADQUISICIÓN DE SEÑALES Y GRAFICACIÓN EN ARDUINO**
 
-# S_biomédica
-Somos un equipo de trabajo de estudiantes de Ingeniería Biomédica de las universidades PUCP y UPCH. Durante el semestre 2023-1 trabajaremos en un proyecto de adquisición y procesamiento de señales de EMG.
+# OBJETIVOS
+- Generar 3 señales sinusoidales con cierta frecuencia y amplitud 
+- Guardar las señales adquiridas en el osciloscopio en archivo CSV y las adquiridas en ARDUINO mediante el ploteo por el código en ARDUINO IDLE.
+- Comparar una señal leída de un osciloscopio y el arduino Nano 33 IoT 
 
 ***
 
 # **Tabla de contenidos**
-1. [¿Qué es una señal biomédica?](#id1)
-2. [Temática del proyecto](#id2)
-3. [Materiales](#id3)
-4. [Metodología](#id4)
-5. [Contenido del curso](#id5)
-6. [Integrantes](#id6)
-7. [Docentes del curso](#id7)
+
+1. [Materiales](#id3)
+2. [Procedimientos](#id4)
+3. [Resultaods](#id5)
+4. [Conclusiones](#id6)
+
