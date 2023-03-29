@@ -4,6 +4,7 @@ double Fs = 10*F;
 double Ts_ms = (1/Fs)*1000;
 
 void setup() {
+  pinMode(A0,INPUT);
   Serial.begin(9600);
   while(!Serial);
 
@@ -13,16 +14,12 @@ void loop() {
   unsigned long now = millis();
   if (now - lastMsg > Ts_ms){
     lastMsg = now;
-
-    int r1 = random(10);
-    int r2 = random(10);
-
-    Serial.print("Signal1:");
-    Serial.print(r1);
-    Serial.print(",");
-    Serial.print("Signal2:");
-    Serial.print(r2);
     
+    double s1 = analogRead(A0);
+    
+    Serial.print("Signal:");
+    Serial.print(r1);
+     
   }
 
 }
