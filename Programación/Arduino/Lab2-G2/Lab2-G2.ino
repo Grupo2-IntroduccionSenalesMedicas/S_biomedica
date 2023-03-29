@@ -1,5 +1,5 @@
 unsigned long lastMsg = 0;
-float F=1;
+float F=10;
 double Fs = 10*F;
 double Ts_ms = (1/Fs)*1000;
 
@@ -18,7 +18,7 @@ void loop() {
     double s1 = analogRead(A0);
     
     Serial.print("Signal:");
-    Serial.print(r1);
+    Serial.println(s1);
      
   }
 
