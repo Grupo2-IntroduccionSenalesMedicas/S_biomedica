@@ -1,5 +1,5 @@
 unsigned long lastMsg = 0;
-float F=10;
+float F=1;
 double Fs = 10*F;
 double Ts_ms = (1/Fs)*1000;
 
