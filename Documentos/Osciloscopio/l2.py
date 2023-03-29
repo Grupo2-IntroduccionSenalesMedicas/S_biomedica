@@ -1,5 +1,6 @@
-import pandas as pd
+import serial
+import time
 
-df = pd.read_csv('TEK00000.csv')
+Serialport = serial.Serial(port = 'COM18', baudrate = 9600, timeout = 1)
 
-print(df)
+print(Serialport.name)
