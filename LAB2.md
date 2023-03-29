@@ -16,5 +16,5 @@
 
 # MATERIALES <a name="id3"></a>
 <p align="justify">
-<p align="center"><img src="/Imagenes/materiales_lab2.png"  width="160" height="266"></p>
+<p align="center"><img src="/Imagenes/materiales_lab2.png"></p>
 </p>
