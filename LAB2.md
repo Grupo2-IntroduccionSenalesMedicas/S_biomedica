@@ -28,9 +28,17 @@
 a) Se quiere generar 3 señales en el Generador: </p>
 ### 1 Voltio , 10 Hertz </p>
 <p align="center"><img src="/Imagenes/1V.jpg" width="400" height="200"></p>
-### 2 Voltio , 20 Hertz </p>
+
+
+### 2 Voltio , 20 Hertz
+
 <p align="center"><img src="/Imagenes/2V.jpg" width="400" height="200"></p>
-### 3 Voltios, 20 Hertz </p>
+
+
+
+### 3 Voltio , 20 Hertz
+
+
 <p align="center"><img src="/Imagenes/3V.jpg" width="400" height="200"></p>
 </p> 
 
@@ -60,11 +68,19 @@ Considerando que el eje X es el tiempo y el eje Y la amplitud de la señal en re
 ## 1 Voltio con 10 Hertz<br>
 
 <p align="center"><img src="/Imagenes/Screenshot (444).png" width="900" height="600"></p>
+
+
 ## 2 Voltio con 20 Hertz<br>
 
 <p align="center"><img src="/Imagenes/Screenshot (446).png" width="900" height="600"></p>
+
+
 ## 3 Voltio con 20 Hertz<br>
 
 <p align="center"><img src="/Imagenes/Screenshot (445).png" width="900" height="600"></p>
+
+
 ## Comparación entre las 3 señales<br>
+
+
 <p align="center"><img src="/Imagenes/COMPARACION.jpg" width="900" height="600"></p>
