@@ -18,3 +18,20 @@
 <p align="justify">
 <p align="center"><img src="/Imagenes/materiales_lab2.png"></p>
 </p>
+***
+# PROCEDIMIENTOS <a name="id4"></a>
+*Uso del Generador de Señales y Osciloscopio*
+a) Se quiere generar 3 señales en el Generador:
+- 1 Voltio , 10 Hertz 
+- 2 Voltios, 20 Hertz
+- 3 Voltios, 20 Hertz 
+b) Conectar un extremo del cable BNC en el canal 1 del generador de señales y el otro extremo en el canal 1 del osciloscopio
+c)Haciendo uso de los cursores, calcular y mostrar en el osciloscopio las magnitudes mencionadas en a)
+d)Obtener archivo tipo CSV del osciloscopio por cada señal leída 
+
+*Uso del arduino IoT*
+e)Conecta el Arduino a tu computadora: Una vez que tengas tu placa Arduino y el software instalado
+f) 
+
+
+</p>
