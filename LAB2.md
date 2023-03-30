@@ -21,7 +21,9 @@
 ***
 # PROCEDIMIENTOS <a name="id4"></a>
 <p align="justify">
+
 </p>
+***
 ## Uso del Generador de Señales y Osciloscopio<br>
 
 a) Se quiere generar 3 señales en el Generador:
