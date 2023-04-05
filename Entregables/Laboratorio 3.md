@@ -29,7 +29,7 @@
 
 
 <p align="justify">
-<p align="center"><img src="/Imagenes/Bitalino/bIt-working.jpg"></p>
+<p align="center"><img src="/Imagenes/Bitalino/bit-working.jpg"></p>
 </p>
 
 ## **Resultados** <a name="id3"></a>
@@ -40,6 +40,24 @@
 </p>
 
 ### **Video de la señal** <a name="id5"></a>
+### PRUEBA 1 <br>
+
+<p align="justify">
+En la prueba 1 se tomo señales del reposo y contracción del dedo pulgar, teniendo la conexión de tierra en el dorso de la mano.<br>
+</p>
+
+### PRUEBA 2 <br>
+
+<p align="justify">
+En la prueba 2 se tomo señales del reposo y contracción del biceps, teniendo la conexión de tierra a la altura de la muñeca.<br>
+</p>
+
+### PRUEBA 3 <br>
+
+<p align="justify">
+En la prueba 3 se tomo señales del reposo y contracción del músculo gastrocnemio, teniendo la conexión de tierra en la parte anterior de la tibia.<br>
+</p>
+
 ### **Ploteo de la señal en OpenSignal** <a name="id6"></a>
 ### **Archivos** <a name="id7"></a>
 ### **Ploteo de la señal en Python** <a name="id8"></a>
