@@ -47,7 +47,7 @@ El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario 
 ### PRUEBA 1 <br>
 
 <p align="justify">
-En la prueba 1 se tomo señales del reposo y contracción del dedo pulgar, teniendo la conexión de tierra en el dorso de la mano.<br>
+En la prueba 1 se tomo señales del reposo y contracción del dedo pulgar, teniendo la conexión de tierra en el dorso de la mano.Presione el icono de video rojo para acceder a la lista de reproducción de la primera prueba.<br>
 </p>
 <p align="center"><img src="/Imagenes/Bitalino/electrodos_dedo1.png" width="400" height="300"></p>
 
@@ -60,7 +60,7 @@ En la prueba 1 se tomo señales del reposo y contracción del dedo pulgar, tenie
 ### PRUEBA 2 <br>
 
 <p align="justify">
-En la prueba 2 se tomo señales del reposo y contracción del biceps, teniendo la conexión de tierra a la altura de la muñeca.<br>
+En la prueba 2 se tomo señales del reposo y contracción del biceps, teniendo la conexión de tierra a la altura de la muñeca.Presione el icono de video rojo para acceder a la lista de reproducción de la segunda prueba<br>
 </p>
 <p align="center"><img src="/Imagenes/Bitalino/electrodos_brazo1.png" width="400" height="300"></p>
 
@@ -73,7 +73,7 @@ En la prueba 2 se tomo señales del reposo y contracción del biceps, teniendo l
 ### PRUEBA 3 <br>
 
 <p align="justify">
-En la prueba 3 se tomo señales del reposo y contracción del músculo gastrocnemio, teniendo la conexión de tierra en la parte anterior de la tibia.<br>
+En la prueba 3 se tomo señales del reposo y contracción del músculo gastrocnemio, teniendo la conexión de tierra en la parte anterior de la tibia.Presione el icono de video rojo para acceder a la lista de reproducción de la tercera prueba<br>
 </p>
 <p align="center"><img src="/Imagenes/Bitalino/electrodos_pantorrilla1.png" width="400" height="300"></p>
 
