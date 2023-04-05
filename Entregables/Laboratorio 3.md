@@ -66,6 +66,8 @@ En la prueba 3 se tomo señales del reposo y contracción del músculo gastrocne
 </p>
 <p align="center"><img src="/Imagenes/Bitalino/electrodos_pantorrilla1.png" width="400" height="300"></p>
 
+[![EMG brazo contrayendose con fuerza en oposición](https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png)](https://youtu.be/OC1sGy-e34A)
+
 ### **Ploteo de la señal en OpenSignal** <a name="id6"></a>
 ### **Archivos** <a name="id7"></a>
 ### **Ploteo de la señal en Python** <a name="id8"></a>
