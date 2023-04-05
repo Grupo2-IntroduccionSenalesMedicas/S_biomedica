@@ -36,7 +36,7 @@
 ### **Conexión usada** <a name="id4"></a>
 
 <p align="justify">
-<p align="center"><img src="/Imagenes/materiales_lab2.png"></p>
+<p align="center"><img src="/Imagenes/Bitalino/bit-con2.jpg"></p>
 </p>
 
 ### **Video de la señal** <a name="id5"></a>
