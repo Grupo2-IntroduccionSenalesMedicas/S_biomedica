@@ -84,7 +84,10 @@ En la prueba 3 se tomo señales del reposo y contracción del músculo gastrocne
 </div>
 
 ### **Ploteo de la señal en OpenSignal** <a name="id6"></a>
+
 ### **Archivos** <a name="id7"></a>
+- Documentos (txt)
+- Programa de ploteo (Jupyter Notebook)
 ### **Ploteo de la señal en Python** <a name="id8"></a>
 <p align="justify">
 La primera prueba se realizo con el dedo pulgar en el cuál se tomaron muestras del dedo en reposo, contra fuerza y en posición de pinza con el dedo índice.<br>
