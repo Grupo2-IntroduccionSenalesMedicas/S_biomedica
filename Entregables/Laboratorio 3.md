@@ -87,7 +87,7 @@ En la prueba 3 se tomo señales del reposo y contracción del músculo gastrocne
 
 ### **Archivos** <a name="id7"></a>
 - [Documentos (.txt)](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/tree/main/Documentos/BiTalino)
-- [Programa de ploteo (Jupyter Notebook)](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/tree/main/Programaci%C3%B3n/Laboratorio%203)
+- [Programa de ploteo (Jupyter Notebook)](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/blob/main/Programaci%C3%B3n/Laboratorio%203/SignalPlot.ipynb)
 ### **Ploteo de la señal en Python** <a name="id8"></a>
 <p align="justify">
 La primera prueba se realizo con el dedo pulgar en el cuál se tomaron muestras del dedo en reposo, contra fuerza y en posición de pinza con el dedo índice.
