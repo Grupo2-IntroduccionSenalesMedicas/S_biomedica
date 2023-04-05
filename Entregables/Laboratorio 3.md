@@ -93,10 +93,10 @@ La primera prueba se realizo con el dedo pulgar en el cuál se tomaron muestras 
 <p align="center"><img src="/Imagenes/Bitalino/EMG_Python_dedo_pinza.png" width="400" height="300"></p>
 En la segunda prueba se realizó con el biceps del brazo el cual se sometio a contra fuerza y contracción máxima. <br>
 </p>
-<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_biceps_contraccion.png" width="400" height="300"></p>
-<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_biceps_contrafuerza.png" width="400" height="300"></p>
+<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_biceps_contraccion.jpg" width="800" height="500"></p>
+<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_biceps_contrafuerza.jpg" width="800" height="500"></p>
 
 En la tercera prueba, el usuario estuvo en posición sentado y parado, y de las dos formas se sometió a contracción el músculo gastrocnemio.<br>
 </p>
-<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_pantorrilla_parado.png" width="400" height="300"></p>
-<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_pantorrilla_sentado.png" width="400" height="300"></p>
+<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_pantorrilla_parado.jpg" width="800" height="500"></p>
+<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_pantorrilla_sentado.jpg" width="800" height="500"></p>
