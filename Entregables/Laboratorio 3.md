@@ -29,7 +29,7 @@
 
 
 <p align="justify">
-<p align="center"><img src="/Imagenes/Bitalino/blt-working.jpg"></p>
+<p align="center"><img src="/Imagenes/Bitalino/bIt-working.jpg"></p>
 </p>
 
 ## **Resultados** <a name="id3"></a>
