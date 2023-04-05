@@ -1,6 +1,9 @@
+import pandas as pd
+import matplotlib.pyplot as plt
 import serial
-import time
 
-Serialport = serial.Serial(port = 'COM18', baudrate = 9600, timeout = 1)
+df1 = pd.read_csv('TEK00000.csv')
+df2 = pd.read_csv('TEK00001.csv')
+df3 = pd.read_csv('TEK00002.csv')
 
-print(Serialport.name)
+plt.plot(df1['CH1'])
