@@ -58,6 +58,7 @@ En la prueba 2 se tomo señales del reposo y contracción del biceps, teniendo l
 </p>
 <p align="center"><img src="/Imagenes/Bitalino/electrodos_brazo1.png" width="400" height="300"></p>
 
+[![EMG brazo contrayendose con fuerza en oposición](https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png)](https://www.youtube.com/playlist?list=PLZDUFkiHuQKhhKAlygeNMoSdIRdmgaqWJ)
 ### PRUEBA 3 <br>
 
 <p align="justify">
