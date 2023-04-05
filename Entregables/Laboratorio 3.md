@@ -53,7 +53,7 @@ En la prueba 1 se tomo señales del reposo y contracción del dedo pulgar, tenie
 
 <div align="center">
 
-[<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="40%" height="40%">](https://www.youtube.com/playlist?list=PLZDUFkiHuQKhex5qfmNXrVl5pFNnRhcRX)
+[<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="20%" height="20%">](https://www.youtube.com/playlist?list=PLZDUFkiHuQKhex5qfmNXrVl5pFNnRhcRX)
 
 </div>
 
@@ -66,7 +66,7 @@ En la prueba 2 se tomo señales del reposo y contracción del biceps, teniendo l
 
 <div align="center">
 
-[<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="40%" height="40%">](https://www.youtube.com/playlist?list=PLZDUFkiHuQKhhKAlygeNMoSdIRdmgaqWJ)
+[<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="20%" height="20%">](https://www.youtube.com/playlist?list=PLZDUFkiHuQKhhKAlygeNMoSdIRdmgaqWJ)
 
 </div>
 
@@ -79,7 +79,7 @@ En la prueba 3 se tomo señales del reposo y contracción del músculo gastrocne
 
 <div align="center">
 
-[<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="50%" height="50%">](https://youtu.be/OC1sGy-e34A)
+[<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="20%" height="20%">](https://youtu.be/OC1sGy-e34A)
 
 </div>
 
