@@ -47,25 +47,21 @@ El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario 
 <p align="justify">
 En la prueba 1 se tomo señales del reposo y contracción del dedo pulgar, teniendo la conexión de tierra en el dorso de la mano.<br>
 </p>
-
-
-[![EMG con el dedo en reposo](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
-
-[![EMG con el dedo contrayendo con una fuerza en oposición](https://img.youtube.com/vi/IBuOq4eIaFo/0.jpg)](https://youtu.be/IBuOq4eIaFo)
-
-[![EMG con el dedo contrayendo sin una fuerza en oposición](https://img.youtube.com/vi/IBuOq4eIaFo/0.jpg)](https://youtu.be/ZPWyUwYuvEw)
+<p align="center"><img src="/Imagenes/Bitalino/electrodos_dedo.jpg" width="600" height="266"></p>
 
 ### PRUEBA 2 <br>
 
 <p align="justify">
 En la prueba 2 se tomo señales del reposo y contracción del biceps, teniendo la conexión de tierra a la altura de la muñeca.<br>
 </p>
+<p align="center"><img src="/Imagenes/Bitalino/electrodos_brazo.jpg" width="600" height="266"></p>
 
 ### PRUEBA 3 <br>
 
 <p align="justify">
 En la prueba 3 se tomo señales del reposo y contracción del músculo gastrocnemio, teniendo la conexión de tierra en la parte anterior de la tibia.<br>
 </p>
+<p align="center"><img src="/Imagenes/Bitalino/electrodos_pantorrilla.jpg" width="600" height="266"></p>
 
 ### **Ploteo de la señal en OpenSignal** <a name="id6"></a>
 ### **Archivos** <a name="id7"></a>
