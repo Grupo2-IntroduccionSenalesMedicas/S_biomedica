@@ -79,7 +79,7 @@ En la prueba 3 se tomo señales del reposo y contracción del músculo gastrocne
 
 <div align="center">
 
-[<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="40%" height="40%">](https://youtu.be/OC1sGy-e34A)
+[<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="50%" height="50%">](https://youtu.be/OC1sGy-e34A)
 
 </div>
 
