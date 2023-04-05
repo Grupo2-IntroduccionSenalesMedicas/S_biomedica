@@ -91,8 +91,8 @@ En la prueba 3 se tomo señales del reposo y contracción del músculo gastrocne
 ### **Ploteo de la señal en Python** <a name="id8"></a>
 <p align="justify">
 La primera prueba se realizo con el dedo pulgar en el cuál se tomaron muestras del dedo en reposo, contra fuerza y en posición de pinza con el dedo índice.<br>
+Señal de dedo con contrafuerza:<br>
 </p>
-Señal de dedo con contrafuerza:
 <p align="center"><img src="/Imagenes/Bitalino/EMG_Python_dedo_contrafuerza.jpg" width="800" height="500"></p>
 Señal de dedo en posición de pinza:
 <p align="center"><img src="/Imagenes/Bitalino/EMG_Python_dedo_pinza.jpg" width="800" height="500"></p>
