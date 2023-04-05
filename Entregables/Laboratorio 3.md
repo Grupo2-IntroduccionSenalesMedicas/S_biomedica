@@ -92,21 +92,21 @@ En la prueba 3 se tomo señales del reposo y contracción del músculo gastrocne
 <p align="justify">
 La primera prueba se realizo con el dedo pulgar en el cuál se tomaron muestras del dedo en reposo, contra fuerza y en posición de pinza con el dedo índice.
 </p>
-**Señal de dedo con contrafuerza:**</p>
+#### **Señal de dedo con contrafuerza:**</p>
 <p align="center"><img src="/Imagenes/Bitalino/EMG_Python_dedo_contrafuerza.jpg" width="800" height="500"></p>
-**Señal de dedo en posición de pinza:**</p>
+####**Señal de dedo en posición de pinza:**</p>
 <p align="center"><img src="/Imagenes/Bitalino/EMG_Python_dedo_pinza.jpg" width="800" height="500"></p>
 
 En la segunda prueba se realizó con el biceps del brazo el cual se sometio a contra fuerza y contracción máxima.
 </p>
-**Señal de biceps en contracción:**</p>
+#### **Señal de biceps en contracción:**</p>
 <p align="center"><img src="/Imagenes/Bitalino/EMG_Python_biceps_contraccion.jpg" width="800" height="500"></p>
-**Señal de biceps con contrafuerza:**</p>
+#### **Señal de biceps con contrafuerza:**</p>
 <p align="center"><img src="/Imagenes/Bitalino/EMG_Python_biceps_contrafuerza.jpg" width="800" height="500"></p>
 
 En la tercera prueba, el usuario estuvo en posición sentado y parado, y de las dos formas se sometió a contracción el músculo gastrocnemio.
 </p>
-**Señal de contracción del gastrocnemio en posición parado:**</p>
+#### **Señal de contracción del gastrocnemio en posición parado:**</p>
 <p align="center"><img src="/Imagenes/Bitalino/EMG_Python_pantorrilla_parado.jpg" width="800" height="500"></p>
-**Señal de contracción del gastrocnemio en posición sentado:**</p>
+#### **Señal de contracción del gastrocnemio en posición sentado:**</p>
 <p align="center"><img src="/Imagenes/Bitalino/EMG_Python_pantorrilla_sentado.jpg" width="800" height="500"></p>
