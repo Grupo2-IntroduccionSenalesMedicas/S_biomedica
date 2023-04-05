@@ -49,7 +49,7 @@ En la prueba 1 se tomo señales del reposo y contracción del dedo pulgar, tenie
 </p>
 <p align="center"><img src="/Imagenes/Bitalino/electrodos_dedo1.png" width="400" height="300"></p>
 
-[![EMG dedo contrayendose con fuerza en oposición](https://i.imgur.com/1qwswwX.jpeg)](https://www.youtube.com/playlist?list=PLZDUFkiHuQKhex5qfmNXrVl5pFNnRhcRX)
+[![EMG dedo contrayendose con fuerza en oposición](https://depor.com/resizer/ddajG0etRCXfbPlmRtSKOrYhwNw=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/4FUHIRZXHJGVVDZWIFWWODHW6M.jpg)](https://www.youtube.com/playlist?list=PLZDUFkiHuQKhex5qfmNXrVl5pFNnRhcRX)
 
 ### PRUEBA 2 <br>
 
