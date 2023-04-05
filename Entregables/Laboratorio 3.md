@@ -68,3 +68,6 @@ En la prueba 3 se tomo señales del reposo y contracción del músculo gastrocne
 ### **Ploteo de la señal en OpenSignal** <a name="id6"></a>
 ### **Archivos** <a name="id7"></a>
 ### **Ploteo de la señal en Python** <a name="id8"></a>
+La primera prueba se realizo con el dedo pulgar en el cuál se tomaron muestras del dedo en reposo, contra fuerza y en posición de pinza con el dedo índice.<br>
+En la segunda prueba se realizó con el biceps del brazo el cual se sometio a contra fuerza y contracción máxima. <br>
+En la tercera prueba, el usuario estuvo en posición sentado y parado, y de las dos formas se sometió a contracción el músculo gastrocnemio.<br> 
