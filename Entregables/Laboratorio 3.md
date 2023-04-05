@@ -32,7 +32,7 @@
 <p align="center"><img src="/Imagenes/Bitalino/bit-working.jpg"></p>
 </p>
 
-## **Resultados** <a name="id3"></a>
+## **RESULTADOS** <a name="id3"></a>
 ### **Conexión usada** <a name="id4"></a>
 
 <p align="justify">
