@@ -29,7 +29,7 @@
 
 
 <p align="justify">
-<p align="center"><img src="/Imagenes/Bitalino/bit-working.png"></p>
+<p align="center"><img src="/Imagenes/Bitalino/bit-working.jpg"></p>
 </p>
 
 ## **Resultados** <a name="id3"></a>
