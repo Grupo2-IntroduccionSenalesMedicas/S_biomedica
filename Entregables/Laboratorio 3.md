@@ -21,13 +21,14 @@
 
 ## **Materiales y equipos** <a name="id2"></a>
 
+<div align="center">
 
-<p align="center">
 |  **Modelo**  | **Descripción** | **Cantidad** |
 |:------------:|:---------------:|:------------:|
 | (R)EVOLUTION |   Kit BITalino  |       1      |
 |       -      |      Laptop     |       1      |
-</p>
+
+</div>
 
 <p align="justify">
 <p align="center"><img src="/Imagenes/Bitalino/working1.jpeg" width="400" height="266"></p>
