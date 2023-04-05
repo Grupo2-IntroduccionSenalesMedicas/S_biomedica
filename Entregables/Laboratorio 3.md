@@ -21,14 +21,24 @@
 
 ## **Materiales y equipos** <a name="id2"></a>
 
+
 |  **Modelo**  | **Descripción** | **Cantidad** |
 |:------------:|:---------------:|:------------:|
 | (R)EVOLUTION |   Kit BITalino  |       1      |
 |       -      |      Laptop     |       1      |
 
 
+<p align="justify">
+<p align="center"><img src="/Imagenes/Bitalino/bit-woorking.png"></p>
+</p>
+
 ## **Resultados** <a name="id3"></a>
 ### **Conexión usada** <a name="id4"></a>
+
+<p align="justify">
+<p align="center"><img src="/Imagenes/materiales_lab2.png"></p>
+</p>
+
 ### **Video de la señal** <a name="id5"></a>
 ### **Ploteo de la señal en OpenSignal** <a name="id6"></a>
 ### **Archivos** <a name="id7"></a>
