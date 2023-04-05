@@ -51,7 +51,11 @@ En la prueba 1 se tomo señales del reposo y contracción del dedo pulgar, tenie
 </p>
 <p align="center"><img src="/Imagenes/Bitalino/electrodos_dedo1.png" width="400" height="300"></p>
 
-[![EMG dedo contrayendose con fuerza en oposición](https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png)](https://www.youtube.com/playlist?list=PLZDUFkiHuQKhex5qfmNXrVl5pFNnRhcRX)
+<center>
+
+[<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="40%" height="40%">](https://www.youtube.com/playlist?list=PLZDUFkiHuQKhex5qfmNXrVl5pFNnRhcRX)
+
+</center>
 
 ### PRUEBA 2 <br>
 
@@ -60,7 +64,12 @@ En la prueba 2 se tomo señales del reposo y contracción del biceps, teniendo l
 </p>
 <p align="center"><img src="/Imagenes/Bitalino/electrodos_brazo1.png" width="400" height="300"></p>
 
-[![EMG brazo contrayendose con fuerza en oposición](https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png)](https://www.youtube.com/playlist?list=PLZDUFkiHuQKhhKAlygeNMoSdIRdmgaqWJ)
+<center>
+
+[<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="40%" height="40%">](https://www.youtube.com/playlist?list=PLZDUFkiHuQKhhKAlygeNMoSdIRdmgaqWJ)
+
+</center>
+
 ### PRUEBA 3 <br>
 
 <p align="justify">
@@ -68,7 +77,11 @@ En la prueba 3 se tomo señales del reposo y contracción del músculo gastrocne
 </p>
 <p align="center"><img src="/Imagenes/Bitalino/electrodos_pantorrilla1.png" width="400" height="300"></p>
 
-[![EMG brazo contrayendose con fuerza en oposición](https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png)](https://youtu.be/OC1sGy-e34A)
+<center>
+
+[<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="40%" height="40%">](https://youtu.be/OC1sGy-e34A)
+
+</center>
 
 ### **Ploteo de la señal en OpenSignal** <a name="id6"></a>
 ### **Archivos** <a name="id7"></a>
