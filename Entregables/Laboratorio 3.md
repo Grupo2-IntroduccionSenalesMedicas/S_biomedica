@@ -1,4 +1,4 @@
-# **LABORATORIO 3: – USO DE BiTalino PARA EMG y ECG**
+# **LABORATORIO 3: – USO DE BITalino PARA EMG y ECG**
 # **Tabla de contenidos**
 
 1. [Objetivos](#id1)
