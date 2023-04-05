@@ -51,11 +51,11 @@ En la prueba 1 se tomo señales del reposo y contracción del dedo pulgar, tenie
 </p>
 <p align="center"><img src="/Imagenes/Bitalino/electrodos_dedo1.png" width="400" height="300"></p>
 
-<center>
+<div align="center">
 
-[<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="40%" height="40%">](https://www.youtube.com/playlist?list=PLZDUFkiHuQKhex5qfmNXrVl5pFNnRhcRX)
+[<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="20%" height="20%">](https://www.youtube.com/playlist?list=PLZDUFkiHuQKhex5qfmNXrVl5pFNnRhcRX)
 
-</center>
+</div>
 
 ### PRUEBA 2 <br>
 
@@ -64,11 +64,11 @@ En la prueba 2 se tomo señales del reposo y contracción del biceps, teniendo l
 </p>
 <p align="center"><img src="/Imagenes/Bitalino/electrodos_brazo1.png" width="400" height="300"></p>
 
-<center>
+<div align="center">
 
-[<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="40%" height="40%">](https://www.youtube.com/playlist?list=PLZDUFkiHuQKhhKAlygeNMoSdIRdmgaqWJ)
+[<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="20%" height="20%">](https://www.youtube.com/playlist?list=PLZDUFkiHuQKhhKAlygeNMoSdIRdmgaqWJ)
 
-</center>
+</div>
 
 ### PRUEBA 3 <br>
 
@@ -77,11 +77,11 @@ En la prueba 3 se tomo señales del reposo y contracción del músculo gastrocne
 </p>
 <p align="center"><img src="/Imagenes/Bitalino/electrodos_pantorrilla1.png" width="400" height="300"></p>
 
-<center>
+<div align="center">
 
-[<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="40%" height="40%" alt="Hola" title="Video de Youtube">](https://youtu.be/OC1sGy-e34A)
+[<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="20%" height="20%">](https://youtu.be/OC1sGy-e34A)
 
-</center>
+</div>
 
 ### **Ploteo de la señal en OpenSignal** <a name="id6"></a>
 ### **Archivos** <a name="id7"></a>
@@ -89,14 +89,14 @@ En la prueba 3 se tomo señales del reposo y contracción del músculo gastrocne
 <p align="justify">
 La primera prueba se realizo con el dedo pulgar en el cuál se tomaron muestras del dedo en reposo, contra fuerza y en posición de pinza con el dedo índice.<br>
 </p>
-<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_dedo_contrafuerza.png" width="400" height="300"></p>
-<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_dedo_pinza.png" width="400" height="300"></p>
+<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_dedo_contrafuerza.png" width="600" height="500"></p>
+<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_dedo_pinza.png" width="600" height="500"></p>
 En la segunda prueba se realizó con el biceps del brazo el cual se sometio a contra fuerza y contracción máxima. <br>
 </p>
-<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_biceps_contraccion.jpg" width="800" height="500"></p>
-<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_biceps_contrafuerza.jpg" width="800" height="500"></p>
+<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_biceps_contraccion.png" width="400" height="300"></p>
+<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_biceps_contrafuerza.png" width="400" height="300"></p>
 
 En la tercera prueba, el usuario estuvo en posición sentado y parado, y de las dos formas se sometió a contracción el músculo gastrocnemio.<br>
 </p>
-<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_pantorrilla_parado.jpg" width="800" height="500"></p>
-<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_pantorrilla_sentado.jpg" width="800" height="500"></p>
+<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_pantorrilla_parado.png" width="400" height="300"></p>
+<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_pantorrilla_sentado.png" width="400" height="300"></p>
