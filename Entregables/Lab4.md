@@ -52,7 +52,7 @@ Para la conexion electrodos al cuerpo utilizamos la guía proporcionada por el p
 
 Se posicionaron los electrodos en base a la segunda guía mencionada:
 <p align="center"><img src="/Imagenes/Bitalino/pos_electrodos.png" width="300" height="400"></p>
-Figura 1. Posición de los electrodos.[4]
+<p align="center">Figura 1. Posición de los electrodos.[4]
 
 ### **Video de la señal** <a name="id5"></a>
 #
