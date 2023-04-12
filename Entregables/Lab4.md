@@ -26,7 +26,7 @@ Fecha: 12-04-2023
 * Enfermedades cardiovasculares
 
 <p align="justify"> En base a lo mencionado anteriormente,el presente laboratorio presenta el uso de la placa de desarrollo Bitalino para obtener señales de electrocardiograma (ECG) de interés. La placa Bitalino es una herramienta innovadora que nos permitirá registrar y analizar la actividad eléctrica del corazón de forma no invasiva y en tiempo real. A través de esta experiencia práctica, los se espera  aprender sobre la obtención y análisis de señales ECG, así como familiarizarse con los procedimientos y protocolos de utilización de electrodos ECG.
-<p align="center"><img src="/Imagenes/Bitalino/ecg_señal.png" width="600" height="500"></p>
+<p align="center"><img src="/Imagenes/Bitalino/ecg_señal.png" width="600" height="300"></p>
 
 ## **Objetivos** <a name="id1"></a>
 ---
