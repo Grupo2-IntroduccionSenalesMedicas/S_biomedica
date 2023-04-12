@@ -68,7 +68,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
 <p align="center"><img src="/Imagenes/Bitalino/pos_electrodos.png" width="600" height="300"></p>
 <p align="center">Figura 2. Posición de los electrodos.
 
-<p align="center"><img src="/Imagenes/Bitalino/conexión_bitalino.jpg" width="600" height="300"></p>
+<p align="center"><img src="/Imagenes/Bitalino/conexión_bitalino.jpg" width="400" height="300"></p>
 <p align="center">Figura 3. Conexión con el Bitalino.
      
 ### **Video de la señal** <a name="id6"></a>
