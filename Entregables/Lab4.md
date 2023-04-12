@@ -46,6 +46,15 @@ Extremidades estándar (I, II, III):
 * I ⇒ Mano derecha (-) y  la mano izquierda(+)
 * II ⇒ Mano derecha (-) y Pierna izquierda(+)
 * III ⇒Mano izquierda(-) y pierna izquierda(+) 
+Derivaciones de extremidades aumentadas (aVR, aVL, aVF):
+Consta de 3 conexiones, dos de ellas van al terminal negativo del EGK, mediante una resistencia eléctrica y la otra al terminal positivo:
+Si el terminal positivo es:
+o	En el brazo derecho ⇒  aVR
+o	En el brazo izquierdo  ⇒ aVL 
+o	En la pierna izquierda  ⇒ aVF (La señal es invertida)
+<p align="center"><img src="/Imagenes/Bitalino/deri.png" width="600" height="300"></p>
+<p align="center">Figura 2. Derivaciones.[6] </p>
+
 
 
 
