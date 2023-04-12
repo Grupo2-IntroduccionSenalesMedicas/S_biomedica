@@ -32,7 +32,7 @@ Fecha: 12-04-2023
 * El complejo QRS, representa la despolarización ventricular
 * La onda T, representa la repolarización ventricular
      
-<p align="center"><img src="/Imagenes/Bitalino/señal_ecg.jpeg" width="600" height="300"></p>
+<p align="center"><img src="/Imagenes/Bitalino/señal_ecg.jpeg" width="400" height="300"></p>
 <p align="center">Figura 1. Señal ECG. []
 
 
