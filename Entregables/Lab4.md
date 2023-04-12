@@ -89,6 +89,8 @@ Se posicionaron los electrodos en base las guías mencionadas:
      
 ## **Conclusiones** <a name="id10"></a>
 ---
+1. Durante el desarrollo del laboratorio se evidenció problemas en la adquisición de señal pues el ruido fue evidente y anormal. Para solucionar dicho problema, el grupo planteó diversas soluciones como el cambio de sujeto de prueba, cambio de electrodos, cambio del BiTalino. Sin embargo, dicho problema se pudo suplir satisfactoriamente al cambiar el puerto 2 en el software OpenSignal.
+2. Al iniciar la primera adquisicón de señal ECG, la batería del BiTalino se encontraba descargada completamente lo cual retrasó considerablemente la adqusición de la señal.
 ## **Referencias** <a name="id9"></a>
 ---
 [1] Instituto Nacional de Estadística e Informática, “Condiciones de Riesgo Cardiovasculares”,2012 [En línea]. Disponible en: https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1146/cap02.pdf </p>
