@@ -52,7 +52,7 @@ Los objetivos del laboratorio son:
 Para la conexion electrodos al cuerpo utilizamos la guía proporcionada por el propio Bitalino de nombre: "BITalino HOME-GUIDE #2 ELECTROCARDIOGRAPHY (ECG) Exploring Cardiac Signals at the Skin Surface" y a su vez la “GUÍA DE PROCEDIMIENTO ASISTENCIAL: TOMA DE ELECTROCARDIOGRAMA DEL HOSPITAL NACIONAL HIPOLITO UNANUE”.
 
 Se posicionaron los electrodos en base las guías mencionadas:
-<p align="center"><img src="/Imagenes/Bitalino/pos_electrodos.png" width="600" height="400"></p>
+<p align="center"><img src="/Imagenes/Bitalino/pos_electrodos.png" width="600" height="500"></p>
 <p align="center">Figura 1. Posición de los electrodos.
 
 ### **Video de la señal** <a name="id5"></a>
