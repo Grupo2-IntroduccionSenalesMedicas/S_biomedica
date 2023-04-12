@@ -26,6 +26,13 @@ Fecha: 12-04-2023
 
 <p align="justify"> En base a lo mencionado anteriormente,el presente laboratorio presenta el uso de la placa de desarrollo Bitalino para obtener señales de electrocardiograma (ECG) de interés. La placa Bitalino es una herramienta innovadora que nos permitirá registrar y analizar la actividad eléctrica del corazón de forma no invasiva y en tiempo real. A través de esta experiencia práctica, los se espera  aprender sobre la obtención y análisis de señales ECG, así como familiarizarse con los procedimientos y protocolos de utilización de electrodos ECG.
 
+<p align="justify"> Con respecto a la teoría de una señal de ECG, se puede diferenciar entre 3 fases:
+<p align="center"><img src="/Imagenes/Bitalino/señal_ecg.jpg" width="600" height="300"></p>
+<p align="center">Figura 1. Posición de los electrodos.
+* La onda P, describe los impulsos eléctricos a lo largo de las aurículas, o la despolarización auricular
+* El complejo QRS, representa la despolarización ventricular
+* La onda T, representa la repolarización ventricular
+
 
 ## **Objetivos** <a name="id1"></a>
 ---
@@ -53,7 +60,7 @@ Para la conexion electrodos al cuerpo utilizamos la guía proporcionada por el p
 
 Se posicionaron los electrodos en base las guías mencionadas:
 <p align="center"><img src="/Imagenes/Bitalino/pos_electrodos.png" width="600" height="300"></p>
-<p align="center">Figura 1. Posición de los electrodos.
+<p align="center">Figura 2. Posición de los electrodos.
 
 ### **Video de la señal** <a name="id5"></a>
 #
