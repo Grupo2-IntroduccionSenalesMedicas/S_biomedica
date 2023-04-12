@@ -104,10 +104,11 @@ Se posicionaron los electrodos en base las guías mencionadas:
      
 ### **Video de la señal** <a name="id6"></a>
 #
-     a)   Estado basal: El sujeto de prueba se quedó quieto y manteniendo la calma
-     b)   Manteniendo la respiración por 10 segundos: El sujeto de prueba mantuvo la respiración por 10 segundos y se midió la inspiración y expiración
-     c)   Reposo basal: Reposo después de mantener la respiración
-     d)   Después de una actividad física:El sujeto de prueba realizó movimientos aeróbicos por 2 minutos
+1. **Estado basal**: El sujeto de prueba se quedó quieto y manteniendo la calma
+2. **Manteniendo la respiración por 10 segundos**: El sujeto de prueba mantuvo la respiración por 10 segundos y se midió la inspiración y expiración
+3. **Reposo basal**: Reposo después de mantener la respiración
+4. **Después de una actividad física**:El sujeto de prueba realizó movimientos aeróbicos por 2 minutos
+    
 |                 **Modelo**                 | **Video** |
 |:------------------------------------------:|:---------:|
 |                Estado Basal                |           |
