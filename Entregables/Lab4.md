@@ -28,8 +28,8 @@ Fecha: 12-04-2023
 
 <p align="justify"> Con respecto a la teoría de una señal de ECG, se puede diferenciar entre 3 fases:
 <p align="center"><img src="/Imagenes/Bitalino/señal_ecg.jpg" width="600" height="300"></p>
-<p align="center">Figura 1. Posición de los electrodos.
-* La onda P, describe los impulsos eléctricos a lo largo de las aurículas, o la despolarización auricular
+<p align="center">Figura 1. Señal ECG. []
+<p align="justify"> * La onda P, describe los impulsos eléctricos a lo largo de las aurículas, o la despolarización auricular
 * El complejo QRS, representa la despolarización ventricular
 * La onda T, representa la repolarización ventricular
 
