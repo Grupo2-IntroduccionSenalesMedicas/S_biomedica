@@ -49,8 +49,6 @@ Los objetivos del laboratorio son:
 
 1. Preparación de la piel: se lavo con agua y jabón la zona en la que se colocaron los electrodos. Posteriormente, se seco cuidadosamente para eliminar todo residuo de agua
 2. Ubicación de los electrodos: para ello se uso la configuración bipolar [3]. Primero se colocaron los electrodos y luego se conectaron al bitalino
-     <p align="center"><img src="/Imagenes/Bitalino/electrodos_pantorrilla1.png" width="400" height="300"> Colocación de electrodos para el plomo I: IN+ (rojo) e IN-(negro) en las muñecas y REF (blanco) en la cresta ilíaca [3]. </p>
-     
 3. Registro de la señal ECG: Se grabó la señal en 3 momentos
      * Estado basal
      * Respiración prolongada: 10 segundos de inspiración y 10 segundos de espiración
@@ -70,6 +68,8 @@ Se posicionaron los electrodos en base las guías mencionadas:
 <p align="center"><img src="/Imagenes/Bitalino/pos_electrodos.png" width="600" height="300"></p>
 <p align="center">Figura 2. Posición de los electrodos.
 
+<p align="center"><img src="/Imagenes/Bitalino/conexión_bitalino.png" width="600" height="300"></p>
+<p align="center">Figura 3. Conexión con el Bitalino.
 ### **Video de la señal** <a name="id6"></a>
 #
      a)   Estado basal
