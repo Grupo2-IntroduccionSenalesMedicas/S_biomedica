@@ -30,8 +30,8 @@ Fecha: 12-04-2023
 <p align="center"><img src="/Imagenes/Bitalino/señal_ecg.jpg" width="600" height="300"></p>
 <p align="center">Figura 1. Señal ECG. []
 <p align="justify"> * La onda P, describe los impulsos eléctricos a lo largo de las aurículas, o la despolarización auricular
-* El complejo QRS, representa la despolarización ventricular
-* La onda T, representa la repolarización ventricular
+<p align="justify"> * El complejo QRS, representa la despolarización ventricular
+<p align="justify"> * La onda T, representa la repolarización ventricular
 
 
 ## **Objetivos** <a name="id1"></a>
