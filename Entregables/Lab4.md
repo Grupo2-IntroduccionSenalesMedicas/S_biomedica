@@ -6,14 +6,15 @@ Fecha: 12-04-2023
 1. [Introducción](#id0)
 2. [Objetivos](#id1)
 3. [Materiales y equipos](#id2)
-4. [Resultados](#id3)\
-     4.1 [Conexión usada](#id4)\
-     4.2 [Video de la señal](#id5)\
-     4.3 [Ploteo de la señal en OpenSignal](#id6)\
-     4.4 [Archivos](#id7)\
-     4.5 [Ploteo de la señal en Python](#id8)
-5. [Conclusiones](#id10)
-6. [Referencias](#id9)
+4. [Procedimiento](#id3)
+5. [Resultados](#id4)\
+     4.1 [Conexión usada](#id5)\
+     4.2 [Video de la señal](#id6)\
+     4.3 [Ploteo de la señal en OpenSignal](#id7)\
+     4.4 [Archivos](#id8)\
+     4.5 [Ploteo de la señal en Python](#id9)
+6. [Conclusiones](#id10)
+7. [Referencias](#id11)
 
 ## **Introducción al laboratorio** <a name="id0"></a>
 ---
@@ -43,21 +44,20 @@ Los objetivos del laboratorio son:
 | (R)EVOLUTION |   Kit BITalino  |       1      |
 |       -      |      Laptop     |       1      |
 
-## **Procedimiento** <a name="id2"></a>
-     Para el paso 1 y 2 se usa
-     
-     1. Preparación de la piel: se lavo con agua y jabón la zona en la que se colocaron los electrodos. Posteriormente, se seco cuidadosamente para eliminar todo residuo de agua
-     2. Ubicación de los electrodos: para ello se uso la configuración bipolar [3]. Primero se colocaron los electrodos y luego se conectaron al bitalino
-     3. Registro de la señal ECG: Se grabó la señal en 3 momentos
-          * Estado basal
-          * Respiración prolongada: 10 segundos de inspiración y 10 segundos de espiración
-          * Ejercicio intenso: lectura posterior 4 minutos de burpees
+## **Procedimiento** <a name="id3"></a>
+
+1. Preparación de la piel: se lavo con agua y jabón la zona en la que se colocaron los electrodos. Posteriormente, se seco cuidadosamente para eliminar todo residuo de agua
+2. Ubicación de los electrodos: para ello se uso la configuración bipolar [3]. Primero se colocaron los electrodos y luego se conectaron al bitalino
+3. Registro de la señal ECG: Se grabó la señal en 3 momentos
+     * Estado basal
+     * Respiración prolongada: 10 segundos de inspiración y 10 segundos de espiración
+     * Ejercicio intenso: lectura posterior 4 minutos de burpees
 
  
-## **Resultados** <a name="id3"></a>
+## **Resultados** <a name="id4"></a>
 ---
 
-### **Conexión usada** <a name="id4"></a>
+### **Conexión usada** <a name="id5"></a>
 #
 Para la conexion electrodos al cuerpo utilizamos la guía proporcionada por el propio Bitalino de nombre: "BITalino HOME-GUIDE #2 ELECTROCARDIOGRAPHY (ECG) Exploring Cardiac Signals at the Skin Surface" y a su vez la “GUÍA DE PROCEDIMIENTO ASISTENCIAL: TOMA DE ELECTROCARDIOGRAMA DEL HOSPITAL NACIONAL HIPOLITO UNANUE”.
 
@@ -65,22 +65,22 @@ Se posicionaron los electrodos en base las guías mencionadas:
 
 <p align="center">Figura 1. Posición de los electrodos.[4]
 
-### **Video de la señal** <a name="id5"></a>
+### **Video de la señal** <a name="id6"></a>
 #
      a)   Estado basal
      b)   Manteniendo la respiración por 10 segundos
      c)   Reposo basal
      d)   Después de una actividad física
-### **Ploteo de la señal en OpenSignal** <a name="id6"></a>
+### **Ploteo de la señal en OpenSignal** <a name="id7"></a>
 #
      a)   Estado basal
      b)   Manteniendo la respiración por 10 segundos
      c)   Reposo basal
      d)   Después de una actividad física
      
-### **Archivos** <a name="id7"></a>
+### **Archivos** <a name="id8"></a>
 #
-### **Ploteo de la señal en Python** <a name="id8"></a>
+### **Ploteo de la señal en Python** <a name="id9"></a>
 #
      a)   Estado basal
      b)   Manteniendo la respiración por 10 segundos
@@ -89,10 +89,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
      
 ## **Conclusiones** <a name="id10"></a>
 ---
-1. Al iniciar la primera adquisicón de señal ECG, la batería del BiTalino se encontraba descargada completamente lo cual retrasó considerablemente la adqusición de la señal.
-2. Durante el desarrollo del laboratorio se evidenció problemas en la adquisición de señal pues el ruido fue evidente y anormal. Para solucionar dicho problema, el grupo planteó diversas soluciones como el cambio de sujeto de prueba, cambio de electrodos, cambio del BiTalino. Sin embargo, dicho problema se pudo suplir satisfactoriamente al cambiar el puerto 2 en el software OpenSignal.
-
-## **Referencias** <a name="id9"></a>
+## **Referencias** <a name="id11"></a>
 ---
 [1] Instituto Nacional de Estadística e Informática, “Condiciones de Riesgo Cardiovasculares”,2012 [En línea]. Disponible en: https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1146/cap02.pdf </p>
 [2] "Electrocardiograma: Prueba de laboratorio de MedlinePlus". MedlinePlus - Health Information from the National Library of Medicine. https://medlineplus.gov/spanish/pruebas-de-laboratorio/electrocardiograma/ (accedido el 12 de abril de 2023). </p>
