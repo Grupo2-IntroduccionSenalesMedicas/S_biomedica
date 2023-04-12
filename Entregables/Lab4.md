@@ -52,7 +52,7 @@ Si el terminal positivo es:
 o	En el brazo derecho ⇒  aVR
 o	En el brazo izquierdo  ⇒ aVL 
 o	En la pierna izquierda  ⇒ aVF (La señal es invertida)
-<p align="center"><img src="/Imagenes/Bitalino/deri.png" width="600" height="300"></p>
+<p align="center"><img src="/Imagenes/entregable4/deri.png" width="600" height="300"></p>
 <p align="center">Figura 2. Derivaciones.[6] </p>
 
 
