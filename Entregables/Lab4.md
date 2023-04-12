@@ -26,7 +26,7 @@ Fecha: 12-04-2023
 * Enfermedades cardiovasculares
 
 <p align="justify"> En base a lo mencionado anteriormente,el presente laboratorio presenta el uso de la placa de desarrollo Bitalino para obtener señales de electrocardiograma (ECG) de interés. La placa Bitalino es una herramienta innovadora que nos permitirá registrar y analizar la actividad eléctrica del corazón de forma no invasiva y en tiempo real. A través de esta experiencia práctica, los se espera  aprender sobre la obtención y análisis de señales ECG, así como familiarizarse con los procedimientos y protocolos de utilización de electrodos ECG.
-<p align="center"><img src="/Imagenes/Bitalino/ecg_señal.png" width="600" height="300"></p>
+<p align="center"><img src="/Imagenes/Bitalino/intervalos_ecg.png" width="600" height="300"></p>
 
 ## **Objetivos** <a name="id1"></a>
 ---
@@ -64,7 +64,7 @@ https://user-images.githubusercontent.com/43428232/231537596-8f684d32-26c2-4d7b-
 Para la conexion electrodos al cuerpo utilizamos la guía proporcionada por el propio Bitalino de nombre: "BITalino HOME-GUIDE #2 ELECTROCARDIOGRAPHY (ECG) Exploring Cardiac Signals at the Skin Surface" y a su vez la “GUÍA DE PROCEDIMIENTO ASISTENCIAL: TOMA DE ELECTROCARDIOGRAMA DEL HOSPITAL NACIONAL HIPOLITO UNANUE”.
 
 Se posicionaron los electrodos en base las guías mencionadas:
-<p align="center"><img src="/Imagenes/Bitalino/pos_electrodos.png" width="600" height="500"></p>
+<p align="center"><img src="/Imagenes/Bitalino/pos_electrodos.png" width="600" height="300"></p>
 <p align="center">Figura 2. Posición de los electrodos.[4]
 
 ### **Video de la señal** <a name="id6"></a>
