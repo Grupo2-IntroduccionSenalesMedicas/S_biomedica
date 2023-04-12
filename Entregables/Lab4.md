@@ -52,7 +52,7 @@ Los objetivos del laboratorio son:
      <p align="center"><img src="/Imagenes/Bit-ECG/UbicacionBitalino.png" width="600" height="300"></p>
      <p align="center">Colocación de electrodos para el plomo I: IN+ (rojo) e IN-(negro) en las muñecas y REF (blanco) en la cresta ilíaca [3].
 
-     3. Registro de la señal ECG: Se grabó la señal en 3 momentos
+3. Registro de la señal ECG: Se grabó la señal en 3 momentos
      * Estado basal
      * Respiración prolongada: 10 segundos de inspiración y 10 segundos de espiración
      * Ejercicio intenso: lectura posterior 4 minutos de burpees
