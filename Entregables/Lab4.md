@@ -109,12 +109,13 @@ Se posicionaron los electrodos en base las guías mencionadas:
 3. **Reposo basal**: Reposo después de mantener la respiración
 4. **Después de una actividad física**:El sujeto de prueba realizó movimientos aeróbicos por 2 minutos
     
+     
 |                 **Modelo**                 | **Video** |
 |:------------------------------------------:|:---------:|
-|                Estado Basal                |           |
-| Manteniendo la respiración por 10 segundos |           |
-|                Reposo basal                |           |
-|       Después de la actividad física       |           |
+|                **Estado Basal**                |<video src="https://user-images.githubusercontent.com/128627001/231584957-8ee3fbcc-b6b3-440b-9237-7660d613ff81.mp4"></video>|
+| **Manteniendo la respiración por 10 segundos** |<video src="https://user-images.githubusercontent.com/128627001/231585634-4ff1e093-c272-44b3-9570-a781d223fcda.mp4"></video>|
+|                **Reposo basal**                |<video src="https://user-images.githubusercontent.com/128627001/231586327-8ea808a1-fc5f-4bc7-bb96-a590a6cf875a.mp4"></video>|
+|       **Después de la actividad física**       |<video src="https://user-images.githubusercontent.com/128627001/231586016-d47e613a-6b33-4284-9bc8-8974b8fd2e24.mp4"></video>|
      
 ### **Ploteo de la señal en OpenSignal** <a name="id7"></a>
 #
