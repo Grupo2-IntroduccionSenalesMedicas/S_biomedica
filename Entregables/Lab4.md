@@ -27,6 +27,7 @@ Fecha: 12-04-2023
 
 <p align="justify"> En base a lo mencionado anteriormente,el presente laboratorio presenta el uso de la placa de desarrollo Bitalino para obtener señales de electrocardiograma (ECG) de interés. La placa Bitalino es una herramienta innovadora que nos permitirá registrar y analizar la actividad eléctrica del corazón de forma no invasiva y en tiempo real. A través de esta experiencia práctica, los se espera  aprender sobre la obtención y análisis de señales ECG, así como familiarizarse con los procedimientos y protocolos de utilización de electrodos ECG.
 <p align="center"><img src="/Imagenes/Bitalino/intervalos_ecg.png" width="600" height="300"></p>
+<p align="center">Figura 1. Intervalos y segmentos de ECG.[5]
 
 ## **Objetivos** <a name="id1"></a>
 ---
@@ -65,7 +66,7 @@ Para la conexion electrodos al cuerpo utilizamos la guía proporcionada por el p
 
 Se posicionaron los electrodos en base las guías mencionadas:
 <p align="center"><img src="/Imagenes/Bitalino/pos_electrodos.png" width="600" height="300"></p>
-<p align="center">Figura 2. Posición de los electrodos.[4]
+<p align="center">Figura 2. Posición de los electrodos.
 
 ### **Video de la señal** <a name="id6"></a>
 #
@@ -97,3 +98,5 @@ Se posicionaron los electrodos en base las guías mencionadas:
 [2] "Electrocardiograma: Prueba de laboratorio de MedlinePlus". MedlinePlus - Health Information from the National Library of Medicine. https://medlineplus.gov/spanish/pruebas-de-laboratorio/electrocardiograma/ (accedido el 12 de abril de 2023). </p>
 [3] BITalino, “BITalino HOME-GUIDE #2 ELECTROCARDIOGRAPHY (ECG) Exploring Cardiac Signals at the Skin Surface” 2020 Accessed: Apr. 12, 2023. [Online]. Available from: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide2_ECG.pdf </p>
 [4] Ministerio de Salud, “GUÍA DE PROCEDIMIENTO ASISTENCIAL: TOMA DE ELECTROCARDIOGRAMA DEL HOSPITAL NACIONAL HIPOLITO UNANUE” Abr. 2022. Disponible en: https://www.gob.pe/institucion/hnhu/normas-legales/3304579-192-2022-hnhu-dg </p>
+[5] “VICERRECTORADO DE INVESTIGACIÓN, INNOVACIÓN Y TRANSFERENCIA DE TECNOLOGÍA.” Accessed: Apr. 12, 2023. [Online]. Available: http://repositorio.espe.edu.ec/xmlui/bitstream/handle/21000/21202/T-ESPE-042196.pdf?sequence=1&isAllowed=y
+‌
