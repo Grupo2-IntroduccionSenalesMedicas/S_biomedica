@@ -86,6 +86,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
 2. Manteniendo la respiración por 10 segundos: El sujeto de prueba mantuvo la respiración por 10 segundos y se midió la inspiración y expiración
 3. Reposo basal: Reposo después de mantener la respiración
 4. Después de una actividad física:El sujeto de prueba realizó movimientos aeróbicos por 2 minutos
+     
 |                 **Modelo**                 | **Video** |
 |:------------------------------------------:|:---------:|
 |                **Estado Basal**                |<video src="https://user-images.githubusercontent.com/128627001/231584957-8ee3fbcc-b6b3-440b-9237-7660d613ff81.mp4"></video>|
