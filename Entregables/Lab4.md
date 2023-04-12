@@ -88,7 +88,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
      d)   Después de una actividad física:El sujeto de prueba realizó movimientos aeróbicos por 2 minutos
 |                 **Modelo**                 | **Video** |
 |:------------------------------------------:|:---------:|
-|                Estado Basal                |           |
+|                Estado Basal                |<video src="https://user-images.githubusercontent.com/128627001/231584957-8ee3fbcc-b6b3-440b-9237-7660d613ff81.mp4"></video>|
 | Manteniendo la respiración por 10 segundos |           |
 |                Reposo basal                |           |
 |       Después de la actividad física       |           |
