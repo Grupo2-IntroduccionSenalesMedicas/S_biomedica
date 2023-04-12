@@ -86,6 +86,13 @@ Se posicionaron los electrodos en base las guías mencionadas:
      b)   Manteniendo la respiración por 10 segundos
      c)   Reposo basal
      d)   Después de una actividad física
+     |                 **Modelo**                 |                                          **Descripción**                                          | **Video** |
+|:------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:---------:|
+|                Estado Basal                |                     El sujeto de prueba se quedó quieto y manteniendo la calma                    |           |
+| Manteniendo la respiración por 10 segundos | El sujeto de prueba mantuvo la respiración por 10 segundos y se midió la inspiración y expiración |           |
+|                Reposo basal                |                             Reposo después de mantener la respiración                             |           |
+|       Después de la actividad física       |                  El sujeto de prueba realizó movimientos aeróbicos por 2 minutos                  |           |
+     
 ### **Ploteo de la señal en OpenSignal** <a name="id7"></a>
 #
      a)   Estado basal
