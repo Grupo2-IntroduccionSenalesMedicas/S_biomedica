@@ -12,7 +12,8 @@ Fecha: 12-04-2023
      4.3 [Ploteo de la señal en OpenSignal](#id6)\
      4.4 [Archivos](#id7)\
      4.5 [Ploteo de la señal en Python](#id8)
-5. [Referencias](#id9)
+5. [Conclusiones](#id10)
+6. [Referencias](#id9)
 
 ## **Introducción al laboratorio** <a name="id0"></a>
 ---
@@ -75,6 +76,9 @@ Se posicionaron los electrodos en base a la segunda guía mencionada:
      b)   Manteniendo la respiración por 10 segundos
      c)   Reposo basal
      d)   Después de una actividad física
+     
+## **Conclusiones** <a name="id10"></a>
+---
 ## **Referencias** <a name="id9"></a>
 ---
 [1] Instituto Nacional de Estadística e Informática, “Condiciones de Riesgo Cardiovasculares”,2012 [En línea]. Disponible en: https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1146/cap02.pdf </p>
