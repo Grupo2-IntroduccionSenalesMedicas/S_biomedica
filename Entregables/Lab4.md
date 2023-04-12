@@ -31,10 +31,7 @@ A través de esta experiencia práctica, se espera  aprender sobre la obtención
 ### Señal de EKG </p>
 Con respecto a la teoría de una señal de ECG, se puede diferenciar entre 3 fases:
 
-* La onda P, describe los impulsos eléctricos a lo largo de las aurículas, o la despolarización auricular
-* El complejo QRS, representa la despolarización ventricular
-* La onda T, representa la repolarización ventricular
-<p align="center"><img src="/Imagenes/Bitalino/intervalos_ecg.png" width="600" height="300"></p>
+<p align="center"><img src="/Imagenes/entregable4/du.png" width="600" height="600"></p>
 <p align="center">Figura 1. Intervalos y segmentos de ECG.[5] </p>
 
 ### ELECTROCARDIOGRAMA</p>
