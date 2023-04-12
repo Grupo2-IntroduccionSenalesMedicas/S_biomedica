@@ -70,6 +70,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
 
 <p align="center"><img src="/Imagenes/Bitalino/conexión_bitalino.png" width="600" height="300"></p>
 <p align="center">Figura 3. Conexión con el Bitalino.
+     
 ### **Video de la señal** <a name="id6"></a>
 #
      a)   Estado basal
