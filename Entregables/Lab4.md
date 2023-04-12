@@ -26,6 +26,12 @@ Fecha: 12-04-2023
 * Enfermedades cardiovasculares
 
 <p align="justify"> En base a lo mencionado anteriormente,el presente laboratorio presenta el uso de la placa de desarrollo Bitalino para obtener señales de electrocardiograma (ECG) de interés. La placa Bitalino es una herramienta innovadora que nos permitirá registrar y analizar la actividad eléctrica del corazón de forma no invasiva y en tiempo real. A través de esta experiencia práctica, los se espera  aprender sobre la obtención y análisis de señales ECG, así como familiarizarse con los procedimientos y protocolos de utilización de electrodos ECG.
+Con respecto a la teoría de una señal de ECG, se puede diferenciar entre 3 fases:
+
+* La onda P, describe los impulsos eléctricos a lo largo de las aurículas, o la despolarización auricular
+* El complejo QRS, representa la despolarización ventricular
+* La onda T, representa la repolarización ventricular
+     
 <p align="center"><img src="/Imagenes/Bitalino/intervalos_ecg.png" width="600" height="300"></p>
 <p align="center">Figura 1. Intervalos y segmentos de ECG.[5]
 
@@ -50,7 +56,7 @@ Los objetivos del laboratorio son:
 1. Preparación de la piel: se lavo con agua y jabón la zona en la que se colocaron los electrodos. Posteriormente, se seco cuidadosamente para eliminar todo residuo de agua
 2. Ubicación de los electrodos: para ello se uso la configuración bipolar [3]. Primero se colocaron los electrodos y luego se conectaron al bitalino
      <p align="center"><img src="/Imagenes/Bit-ECG/UbicacionBitalino.png" width="600" height="300"></p>
-     <p align="center">Colocación de electrodos para el plomo I: IN+ (rojo) e IN-(negro) en las muñecas y REF (blanco) en la cresta ilíaca [3].
+     <p align="center">Figura 2. Colocación de electrodos para el plomo I: IN+ (rojo) e IN-(negro) en las muñecas y REF (blanco) en la cresta ilíaca [3].
 
 3. Registro de la señal ECG: Se grabó la señal en 3 momentos
      * Estado basal
@@ -69,10 +75,10 @@ Para la conexion electrodos al cuerpo utilizamos la guía proporcionada por el p
 
 Se posicionaron los electrodos en base las guías mencionadas:
 <p align="center"><img src="/Imagenes/Bitalino/pos_electrodos.png" width="600" height="300"></p>
-<p align="center">Figura 2. Posición de los electrodos.
+<p align="center">Figura 3. Posición de los electrodos.
 
 <p align="center"><img src="/Imagenes/Bitalino/conexión_bitalino.jpg" width="400" height="300"></p>
-<p align="center">Figura 3. Conexión con el Bitalino.
+<p align="center">Figura 4. Conexión con el Bitalino.
      
 ### **Video de la señal** <a name="id6"></a>
 #
