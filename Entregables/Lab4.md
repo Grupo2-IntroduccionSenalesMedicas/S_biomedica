@@ -86,7 +86,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
      b)   Manteniendo la respiración por 10 segundos
      c)   Reposo basal
      d)   Después de una actividad física
-     |                 **Modelo**                 |                                          **Descripción**                                          | **Video** |
+|                 **Modelo**                 |                                          **Descripción**                                          | **Video** |
 |:------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:---------:|
 |                Estado Basal                |                     El sujeto de prueba se quedó quieto y manteniendo la calma                    |           |
 | Manteniendo la respiración por 10 segundos | El sujeto de prueba mantuvo la respiración por 10 segundos y se midió la inspiración y expiración |           |
