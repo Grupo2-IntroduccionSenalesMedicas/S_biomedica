@@ -52,12 +52,25 @@ Para la conexion electrodos al cuerpo utilizamos la guía proporcionada por el p
 
 ### **Video de la señal** <a name="id5"></a>
 #
+     a)   Estado basal
+     b)   Manteniendo la respiración por 10 segundos
+     c)   Reposo basal
+     d)   Después de una actividad física
 ### **Ploteo de la señal en OpenSignal** <a name="id6"></a>
 #
+     a)   Estado basal
+     b)   Manteniendo la respiración por 10 segundos
+     c)   Reposo basal
+     d)   Después de una actividad física
+     
 ### **Archivos** <a name="id7"></a>
 #
 ### **Ploteo de la señal en Python** <a name="id8"></a>
 #
+     a)   Estado basal
+     b)   Manteniendo la respiración por 10 segundos
+     c)   Reposo basal
+     d)   Después de una actividad física
 ## **Referencias** <a name="id9"></a>
 ---
 [1] Instituto Nacional de Estadística e Informática, “Condiciones de Riesgo Cardiovasculares”,2012 [En línea]. Disponible en: https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1146/cap02.pdf </p>
