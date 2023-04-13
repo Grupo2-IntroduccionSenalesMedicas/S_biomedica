@@ -132,7 +132,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
 <p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Respiracion Freq_response.png" width="600" height="300"></p>
 <p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Respiracion Amplitudes_Analysis Raw_Signal.png" width="600" height="300"></p>
      c)   Reposo basal
-<p align="center"><img src="/Imagenes/entrgable4/Basal2_señal.png" width="600" height="300"></p>
+<p align="center"><img src="/Imagenes/entregable4/Basal2_señal.png" width="600" height="300"></p>
 <p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Post-ejercicio Freq_response.png" width="600" height="300"></p>
      d)   Después de una actividad física
 <p align="center"><img src="/Imagenes/entregable4/Post_ejercicio_señal.png" width="600" height="300"></p>
