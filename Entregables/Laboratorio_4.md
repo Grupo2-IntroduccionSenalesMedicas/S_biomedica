@@ -111,7 +111,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
 2. **Manteniendo la respiración por 10 segundos**: El sujeto de prueba mantuvo la respiración por 10 segundos y se midió la inspiración y expiración
 3. **Reposo basal**: Reposo después de mantener la respiración
 4. **Después de una actividad física**:El sujeto de prueba realizó movimientos aeróbicos por 2 minutos
-    
+   
      
 |                 **Modelo**                 | **Video** |
 |:------------------------------------------:|:---------:|
@@ -120,6 +120,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
 |                **Reposo basal**                |<video src="https://user-images.githubusercontent.com/128627001/231586327-8ea808a1-fc5f-4bc7-bb96-a590a6cf875a.mp4"></video>|
 |       **Después de la actividad física**       |<video src="https://user-images.githubusercontent.com/128627001/231586016-d47e613a-6b33-4284-9bc8-8974b8fd2e24.mp4"></video>|
 
+     
 ### **Archivos** <a name="id8"></a>
 #
 - [Documentos (.txt)](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/tree/main/Programación/Laboratorio%204)
@@ -147,13 +148,17 @@ En este parámetro, se volvió a establecer al usuario en un estado basal despu�
 Inmediatamente, después de la actividad física de 5 minutos, el intervalo R-R es de 0.45 que equivale a 133 latidos por minuto.</p> 
 
 ### **Señal del Promsim4 (dispositivo de metrología que genera una señal patrón)** <a name="id9"></a>
-#
-|                 **Simulación**                 | **Toma ** |
+
+<div align="center">
+
+|                 **Simulación**                 | **Toma** |
 |:------------------------------------------:|:---------:|
 |**Simulación de 60lpm - estado basal** </p><img src="/Imagenes/entregable4/60lpm_toma1.jpg" width="300" height="300">|<img src="/Imagenes/entregable4/60lpm_toma11.jpg" width="300" height="300">|
 | **Simulación de 120lpm - empieza a agitarse**</p><img src="/Imagenes/entregable4/120lpm_toma2.jpg" width="300" height="300">|<img src="/Imagenes/entregable4/120lpm_toma22.jpg" width="300" height="300">|
 |                **Simulación de 150lpm - haciendo ejercicio**</p><img src="/Imagenes/entregable4/150lpm_toma3.jpg" width="300" height="300">|<img src="/Imagenes/entregable4/150lpm_toma33.jpg" width="300" height="300"></p>|
 |       **Simulación de 90lpm - reponiendose**</p><img src="/Imagenes/entregable4/90lpm_toma4.jpg" width="300" height="300">      |<img src="/Imagenes/entregable4/90lpm_toma44.jpg" width="300" height="300"></p>|
+
+</div>
      
 ## **Conclusiones** <a name="id10"></a>
 * La formación de las ondas de la señal ECG se dan gracias a las diferentes conducciones eléctricas del corazón, las cuales dependerán del estado en el que se encuentre la persona. 
