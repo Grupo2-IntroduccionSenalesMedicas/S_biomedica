@@ -79,9 +79,9 @@ Los objetivos del laboratorio son:
 ## **Procedimiento** <a name="id3"></a>
 
 1. Preparación de la piel: se lavo con agua y jabón la zona en la que se colocaron los electrodos. Posteriormente, se seco cuidadosamente para eliminar todo residuo de agua
-2. Ubicación de los electrodos: para ello se uso la configuración bipolar [3]. Primero se colocaron los electrodos y luego se conectaron al bitalino
+2. Ubicación de los electrodos: para ello se uso la configuración bipolar [3]. Primero se colocaron los electrodos y luego se conectaron al BITalino
      <p align="center"><img src="/Imagenes/Bit-ECG/UbicacionBitalino.png" width="600" height="300"></p>
-     <p align="center">Figura 2. Colocación de electrodos para el plomo I: IN+ (rojo) e IN-(negro) en las muñecas y REF (blanco) en la cresta ilíaca [3].
+     <p align="center">Figura 3. Colocación de electrodos para el plomo I: IN+ (rojo) e IN-(negro) en las muñecas y REF (blanco) en la cresta ilíaca [3].
 
 3. Registro de la señal ECG: Se grabó la señal en 3 momentos
      * Estado basal: Evaluar el estado de reposo
@@ -96,21 +96,21 @@ https://user-images.githubusercontent.com/43428232/231537596-8f684d32-26c2-4d7b-
 
 ### **Conexión usada** <a name="id5"></a>
 #
-<p align="justify">Para la conexion electrodos al cuerpo utilizamos la guía proporcionada por el propio Bitalino de nombre: "BITalino HOME-GUIDE #2 ELECTROCARDIOGRAPHY (ECG) Exploring Cardiac Signals at the Skin Surface" y a su vez la “GUÍA DE PROCEDIMIENTO ASISTENCIAL: TOMA DE ELECTROCARDIOGRAMA DEL HOSPITAL NACIONAL HIPOLITO UNANUE”.</p>
+<p align="justify">Para la conexión de electrodos al cuerpo utilizamos la guía proporcionada por el propio Bitalino de nombre: "BITalino HOME-GUIDE #2 ELECTROCARDIOGRAPHY (ECG) Exploring Cardiac Signals at the Skin Surface" y a su vez la “GUÍA DE PROCEDIMIENTO ASISTENCIAL: TOMA DE ELECTROCARDIOGRAMA DEL HOSPITAL NACIONAL HIPOLITO UNANUE”.</p>
 
 Se posicionaron los electrodos en base las guías mencionadas:
 <p align="center"><img src="/Imagenes/Bitalino/pos_electrodos.png" width="600" height="300"></p>
-<p align="center">Figura 3. Posición de los electrodos.
+<p align="center">Figura 4. Posición de los electrodos.
 
 <p align="center"><img src="/Imagenes/Bitalino/conexión_bitalino.jpg" width="400" height="300"></p>
-<p align="center">Figura 4. Conexión con el Bitalino.
+<p align="center">Figura 5. Conexión con el Bitalino.
      
 ### **Video de la señal** <a name="id6"></a>
 #
 1. **Estado basal**: El sujeto de prueba se quedó quieto y manteniendo la calma
 2. **Manteniendo la respiración por 10 segundos**: El sujeto de prueba mantuvo la respiración por 10 segundos y se midió la inspiración y expiración
 3. **Reposo basal**: Reposo después de mantener la respiración
-4. **Después de una actividad física**:El sujeto de prueba realizó movimientos aeróbicos por 2 minutos
+4. **Después de una actividad física**:El sujeto de prueba realizó movimientos aeróbicos por 5 minutos
    
      
 |                 **Modelo**                 | **Video** |
@@ -128,11 +128,11 @@ Se posicionaron los electrodos en base las guías mencionadas:
 - [Programa de ploteo en Google Colab](https://colab.research.google.com/drive/1u2PKFSx2E9Nheg8XYQldKUHyYO6rB3Q5?usp=sharing) 
      
 ### **Ploteo de la señal en Python** <a name="id9"></a>
-<p align="justify">Se ha realizado un ploteo de las señales en python para poder analizar segmentos especificos. Para poder calcular los lpm y compararlos con el dispositivo patron , se calculo el intervalo R-R en las señales. En un electrocardiograma con ritmo regular el cálculo es simple, solo hay que dividir 6000 entre la frecuencia cardiaca. Además, se permite observar las frecuencias de la señal.</p>
+<p align="justify">Se ha realizado un ploteo de las señales en python para poder analizar segmentos específicos. Para poder calcular los latidos por minuto (lpm) y compararlos con el dispositivo patron, se calculó el intervalo R-R en las señales. En un electrocardiograma con ritmo regular el cálculo es simple, solo hay que dividir 6000 entre la frecuencia cardiaca. Además, se permite observar las frecuencias de la señal.</p>
      a)   Estado basal</p>
 <p align="center"><img src="/Imagenes/entregable4/Basal1_señal.png" width="600" height="300"></p>
 <p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Basal 1 Freq_response.png" width="600" height="300"></p>
-En estado basal, el usuario se encontraba en reposo por lo cuál el valor de R-R es 0,98s que equivale a 61 latidos por minuto que esta dentro del rango normal de palpitaciones cardiacas.</p>
+En estado basal, el usuario se encontraba en reposo por lo cuál el valor de R-R es 0.98s que equivale a 61 latidos por minuto que esta dentro del rango normal de palpitaciones cardiacas.</p>
      b)   Manteniendo la respiración por 10 segundos</p>
 <p align="center"><img src="/Imagenes/entregable4/Respiración_señal.png" width="600" height="300"></p>
 <p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Respiracion Freq_response.png" width="600" height="300"></p>
@@ -161,11 +161,11 @@ Inmediatamente, después de la actividad física de 5 minutos, el intervalo R-R 
 </div>
      
 ## **Conclusiones** <a name="id10"></a>
-* La formación de las ondas de la señal ECG se dan gracias a las diferentes conducciones eléctricas del corazón, las cuales dependerán del estado en el que se encuentre la persona. 
+* La formación de las ondas de la señal ECG se dan gracias a las diferentes conducciones eléctricas del corazón, las cuales dependerán del estado en el que se encuentre la persona. Estas señales ECG se lograron estudiar gracias al empleo del BITalino, electrodos ECG, el software OpenSignals y el lenguaje de programación en Python que nos permitió extraer datos para un análisis cuantitativo.
 
-* El intervalo RR que al principio tuvo un valor de 0.9 segundos en el reposo basal, presentó un valor de 0.45 segundos después de la realización de actividades físicas por 2 minutos. Además, el número de complejos QRS en el intervalo de 14.0 a 16.0 segundos se incrementó; por lo que esto indicaría un aumento en la frecuencia cardiaca.
+* El intervalo RR que al principio tuvo un valor de 0.9 segundos en el reposo basal, presentó un valor de 0.45 segundos después de la realización de actividades físicas por 5 minutos. Además, el número de complejos QRS en el intervalo de 14.0 a 16.0 segundos se incrementó; por lo que esto indicaría un aumento en la frecuencia cardiaca.
 
-* Para el uso de electrodos de superficie se deben considerar las características eléctricas de la piel. Tras el ploteo de las señales se pudo observar que el mal acoplamiento electrodo-piel o la impedancia de este órgano nos brinda resultados de baja calidad.
+* Para el uso de electrodos de superficie se deben considerar las características eléctricas de la piel. Tras el ploteo de las señales se pudo observar que el mal acoplamiento electrodo-piel o la impedancia de este órgano nos brinda resultados de baja calidad. Durante este laboratorio se trabajó en el análisis de señales de ECG de un estudiante que padecía una condición de la piel, por lo que este factor ha sido influyente en la obtención de señales.
 
 * Así mismo, factores como interferencias provenientes de la red eléctrica terminan contaminando la señal ECG y para ello se aplican las distintas herramientas de filtrado.
 
