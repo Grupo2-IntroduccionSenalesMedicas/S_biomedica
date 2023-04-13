@@ -35,27 +35,29 @@ Con respecto a la teoría de una señal de ECG, se puede diferenciar entre 3 fas
 <p align="center"><img src="/Imagenes/Bitalino/intervalos_ecg.png" width="600" height="400"></p>
 <p align="center">Figura 1. Intervalos y segmentos de ECG.[5] </p>
 
-### ELECTROCARDIOGRAMA</p>
-Es la representación visual de la actividad eléctrica del corazón en función del tiempo, que se obtiene, desde la superficie corporal, en el pecho, con un electrocardiógrafo en forma de cinta continua.
+### Electrocardiograma
 
+<p align="justify">
+Es la representación visual de la actividad eléctrica del corazón en función del tiempo, que se obtiene, desde la superficie corporal, en el pecho, con un electrocardiógrafo en forma de cinta continua.<br><br>
 Dicha actividad eléctrica está registrada hasta con 12 derivaciones, lo cual permite reconstruir mejor la actividad cardiaca en el plano frontal y horizontal [6].
 Las desviaciones para el plano frontal son las derivadas de extremidades estándar (I, II, III) y las derivaciones de extremidades aumentadas (aVR, aVL, aV) 
 Extremidades estándar (I, II, III): 
 * I ⇒ Mano derecha (-) y  la mano izquierda(+)
 * II ⇒ Mano derecha (-) y Pierna izquierda(+)
-* III ⇒Mano izquierda(-) y pierna izquierda(+) </p>
-
-Derivaciones de extremidades aumentadas (aVR, aVL, aVF):</p>
+* III ⇒Mano izquierda(-) y pierna izquierda(+) <br><br>
+Derivaciones de extremidades aumentadas (aVR, aVL, aVF):
 Consta de 3 conexiones, dos de ellas van al terminal negativo del EGK, mediante una resistencia eléctrica y la otra al terminal positivo:
 Si el terminal positivo es:
 * En el brazo derecho ⇒  aVR
 * En el brazo izquierdo  ⇒ aVL 
-* En la pierna izquierda  ⇒ aVF (La señal es invertida)
+* En la pierna izquierda  ⇒ aVF (La señal es invertida)</p>
 <p align="center"><img src="/Imagenes/entregable4/deri.png" width="300" height="300"></p>
 <p align="center">Figura 2. Derivaciones.[6] </p>
 
+### Ejercicios
 
-
+<p align="justify">Los ejercicios aeróbicos y anaeróbicos son dos tipos de ejercicios que se diferencian en la forma en que el cuerpo produce energía. Los ejercicios aeróbicos son aquellos que se realizan a una intensidad moderada y durante un período prolongado de tiempo, como correr o nadar. Estos ejercicios utilizan oxígeno para producir energía y son beneficiosos para el sistema cardiovascular y respiratorio [a]. Por otro lado, los ejercicios anaeróbicos son aquellos que se realizan a una alta intensidad y durante un corto período de tiempo, como levantar pesas o hacer sprints. Estos ejercicios no utilizan oxígeno para producir energía y son beneficiosos para el desarrollo muscular [b].<br>
+La señal ECG es una herramienta útil para evaluar la salud del corazón y detectar posibles problemas cardíacos. Durante el ejercicio, la señal ECG puede mostrar cambios en la frecuencia cardíaca y la amplitud de las ondas [c]. En general, los ejercicios aeróbicos son más beneficiosos para la salud cardiovascular y respiratoria, mientras que los ejercicios anaeróbicos son más beneficiosos para el desarrollo muscular [a][b]. </p>
 
 ## **Objetivos** <a name="id1"></a>
 ---
@@ -64,6 +66,7 @@ Los objetivos del laboratorio son:
 * Hacer una correcta configuración de BiTalino.
 * Extraer la información de las señales ECG del software OpenSignals (r)evolution 
 
+<div align="center">
 
 ## **Materiales y equipos** <a name="id2"></a>
 ---
@@ -73,6 +76,8 @@ Los objetivos del laboratorio son:
 | (R)EVOLUTION |   Kit BITalino  |       1      |
 |       -      |      Laptop     |       1      |
 
+</div>
+
 ## **Procedimiento** <a name="id3"></a>
 
 1. Preparación de la piel: se lavo con agua y jabón la zona en la que se colocaron los electrodos. Posteriormente, se seco cuidadosamente para eliminar todo residuo de agua
@@ -81,19 +86,19 @@ Los objetivos del laboratorio son:
      <p align="center">Figura 2. Colocación de electrodos para el plomo I: IN+ (rojo) e IN-(negro) en las muñecas y REF (blanco) en la cresta ilíaca [3].
 
 3. Registro de la señal ECG: Se grabó la señal en 3 momentos
-     * Estado basal
-     * Respiración prolongada: 10 segundos de inspiración y 10 segundos de espiración
-     * Ejercicio intenso: lectura posterior 4 minutos de burpees
+     * Estado basal: Evaluar el estado de reposo
+     * Respiración prolongada: Evaluar al mantener la respiración por 10 segundos y el estado basal
+     * Ejercicio intenso: Evaluar luego de 5 minutos de burpees
 
 https://user-images.githubusercontent.com/43428232/231537596-8f684d32-26c2-4d7b-a5d4-7bdbe838e545.mp4
 
  
 ## **Resultados** <a name="id4"></a>
----
+<p align="justify">Antes de proceder a la lectura de los resultados cabe mencionar que el sujeto al que se le tomaron las medidas tiene problemas... (aqui explican lo q sea que tenga carlos xd)</p>
 
 ### **Conexión usada** <a name="id5"></a>
 #
-Para la conexion electrodos al cuerpo utilizamos la guía proporcionada por el propio Bitalino de nombre: "BITalino HOME-GUIDE #2 ELECTROCARDIOGRAPHY (ECG) Exploring Cardiac Signals at the Skin Surface" y a su vez la “GUÍA DE PROCEDIMIENTO ASISTENCIAL: TOMA DE ELECTROCARDIOGRAMA DEL HOSPITAL NACIONAL HIPOLITO UNANUE”.
+<p align="justify">Para la conexion electrodos al cuerpo utilizamos la guía proporcionada por el propio Bitalino de nombre: "BITalino HOME-GUIDE #2 ELECTROCARDIOGRAPHY (ECG) Exploring Cardiac Signals at the Skin Surface" y a su vez la “GUÍA DE PROCEDIMIENTO ASISTENCIAL: TOMA DE ELECTROCARDIOGRAMA DEL HOSPITAL NACIONAL HIPOLITO UNANUE”.</p>
 
 Se posicionaron los electrodos en base las guías mencionadas:
 <p align="center"><img src="/Imagenes/Bitalino/pos_electrodos.png" width="600" height="300"></p>
@@ -118,6 +123,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
 |       **Después de la actividad física**       |<video src="https://user-images.githubusercontent.com/128627001/231586016-d47e613a-6b33-4284-9bc8-8974b8fd2e24.mp4"></video>|
      
 ### **Ploteo de la señal en Python** <a name="id9"></a>
+<p align="justify">Se ha realizado un ploteo de las señales en python para poder analizar segmentos especificos y hallar el Intervalo RR que... (aqui explicar pa q sirve ese intervalo). Además, se permite observar las frecuencias de la señal.</p>
 #
      a)   Estado basal
      b)   Manteniendo la respiración por 10 segundos
