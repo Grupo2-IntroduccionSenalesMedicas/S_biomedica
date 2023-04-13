@@ -127,20 +127,24 @@ Se posicionaron los electrodos en base las guías mencionadas:
 - [Programa de ploteo en Google Colab](https://colab.research.google.com/drive/1u2PKFSx2E9Nheg8XYQldKUHyYO6rB3Q5?usp=sharing) 
      
 ### **Ploteo de la señal en Python** <a name="id9"></a>
-<p align="justify">Se ha realizado un ploteo de las señales en python para poder analizar segmentos especificos y hallar el Intervalo RR que... (aqui explicar pa q sirve ese intervalo). Además, se permite observar las frecuencias de la señal.</p>
-     a)   Estado basal
+<p align="justify">Se ha realizado un ploteo de las señales en python para poder analizar segmentos especificos. Para poder calcular los lpm y compararlos con el dispositivo patron , se calculo el intervalo R-R en las señales. En un electrocardiograma con ritmo regular el cálculo es simple, solo hay que dividir 6000 entre la frecuencia cardiaca. Además, se permite observar las frecuencias de la señal.</p>
+     a)   Estado basal</p>
 <p align="center"><img src="/Imagenes/entregable4/Basal1_señal.png" width="600" height="300"></p>
 <p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Basal 1 Freq_response.png" width="600" height="300"></p>
-     b)   Manteniendo la respiración por 10 segundos
+En estado basal, el usuario se encontraba en reposo por lo cuál el valor de R-R es 0,98s que equivale a 61 latidos por minuto que esta dentro del rango normal de palpitaciones cardiacas.</p>
+     b)   Manteniendo la respiración por 10 segundos</p>
 <p align="center"><img src="/Imagenes/entregable4/Respiración_señal.png" width="600" height="300"></p>
 <p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Respiracion Freq_response.png" width="600" height="300"></p>
 <p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Respiracion Amplitudes_Analysis Raw_Signal.png" width="600" height="300"></p>
-     c)   Reposo basal
+En este parámetro, el usuario contuvo la respiración durante 10 segundos por lo cuál el valor del intervalo R-R es de 0.9s que equivale a 67 latidos por minuto.</p> 
+     c)   Reposo basal</p>
 <p align="center"><img src="/Imagenes/entregable4/Basal2_señal.png" width="600" height="300"></p>
 <p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Post-ejercicio Freq_response.png" width="600" height="300"></p>
-     d)   Después de una actividad física
+En este parámetro, se volvió a establecer al usuario en un estado basal después de haber inspirado y expirado por lo cuál, el valor del intervalo R-R es de 0.9s que equivale a 67 latidos por minuto.</p>
+     d)   Después de una actividad física</p>
 <p align="center"><img src="/Imagenes/entregable4/Post_ejercicio_señal.png" width="600" height="300"></p>
 <p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Basal 2 Freq_response.png" width="600" height="300"></p>
+Inmediatamente, después de la actividad física de 5 minutos, el intervalo R-R es de 0.45 que equivale a 133 latidos por minuto.</p> 
 
 ### **Señal del Promsim4 (dispositivo de metrología que genera una señal patrón)** <a name="id9"></a>
 #
@@ -152,6 +156,14 @@ Se posicionaron los electrodos en base las guías mencionadas:
 |       **Simulación de 90lpm - reponiendose**</p><img src="/Imagenes/entregable4/90lpm_toma4.jpg" width="300" height="300">      |<img src="/Imagenes/entregable4/90lpm_toma44.jpg" width="300" height="300"></p>|
      
 ## **Conclusiones** <a name="id10"></a>
+* La formación de las ondas de la señal ECG se dan gracias a las diferentes conducciones eléctricas del corazón, las cuales dependerán del estado en el que se encuentre la persona. 
+
+* El intervalo RR que al principio tuvo un valor de 0.9 segundos en el reposo basal, presentó un valor de 0.45 segundos después de la realización de actividades físicas por 2 minutos. Además, el número de complejos QRS en el intervalo de 14.0 a 16.0 segundos se incrementó; por lo que esto indicaría un aumento en la frecuencia cardiaca.
+
+* Para el uso de electrodos de superficie se deben considerar las características eléctricas de la piel. Tras el ploteo de las señales se pudo observar que el mal acoplamiento electrodo-piel o la impedancia de este órgano nos brinda resultados de baja calidad.
+
+* Así mismo, factores como interferencias provenientes de la red eléctrica terminan contaminando la señal ECG y para ello se aplican las distintas herramientas de filtrado.
+
 ---
 ## **Referencias** <a name="id11"></a>
 ---
