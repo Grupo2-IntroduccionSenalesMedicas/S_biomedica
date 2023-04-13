@@ -45,7 +45,7 @@ Extremidades estándar (I, II, III):
 * II ⇒ Mano derecha (-) y Pierna izquierda(+)
 * III ⇒Mano izquierda(-) y pierna izquierda(+) <br><br>
 Derivaciones de extremidades aumentadas (aVR, aVL, aVF):
-Consta de 3 conexiones, dos de ellas van al terminal negativo del EGK, mediante una resistencia eléctrica y la otra al terminal positivo:
+Consta de 3 conexiones, dos de ellas van al terminal negativo del ECG, mediante una resistencia eléctrica y la otra al terminal positivo:
 Si el terminal positivo es:
 * En el brazo derecho ⇒  aVR
 * En el brazo izquierdo  ⇒ aVL 
@@ -55,8 +55,7 @@ Si el terminal positivo es:
 
 ### Ejercicios
 
-<p align="justify">Los ejercicios aeróbicos y anaeróbicos son dos tipos de ejercicios que se diferencian en la forma en que el cuerpo produce energía. Los ejercicios aeróbicos son aquellos que se realizan a una intensidad moderada y durante un período prolongado de tiempo, como correr o nadar. Estos ejercicios utilizan oxígeno para producir energía y son beneficiosos para el sistema cardiovascular y respiratorio [a]. Por otro lado, los ejercicios anaeróbicos son aquellos que se realizan a una alta intensidad y durante un corto período de tiempo, como levantar pesas o hacer sprints. Estos ejercicios no utilizan oxígeno para producir energía y son beneficiosos para el desarrollo muscular [b].<br>
-La señal ECG es una herramienta útil para evaluar la salud del corazón y detectar posibles problemas cardíacos. Durante el ejercicio, la señal ECG puede mostrar cambios en la frecuencia cardíaca y la amplitud de las ondas [c]. En general, los ejercicios aeróbicos son más beneficiosos para la salud cardiovascular y respiratoria, mientras que los ejercicios anaeróbicos son más beneficiosos para el desarrollo muscular [a][b]. </p>
+<p align="justify">Los ejercicios aeróbicos y anaeróbicos son dos tipos de ejercicios que se diferencian en la forma en que el cuerpo produce energía. Los ejercicios aeróbicos son aquellos que se realizan a una intensidad moderada y durante un período prolongado de tiempo, como correr o nadar. Estos ejercicios utilizan oxígeno para producir energía y son beneficiosos para el sistema cardiovascular y respiratorio. Por otro lado, los ejercicios anaeróbicos son aquellos que se realizan a una alta intensidad y durante un corto período de tiempo, como levantar pesas o hacer sprints. Estos ejercicios no utilizan oxígeno para producir energía y son beneficiosos para el desarrollo muscular [7].</p>
 
 ## **Objetivos** <a name="id1"></a>
 ---
@@ -143,7 +142,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
 <p align="center"><img src="/Imagenes/entregable4/Post_ejercicio_señal.png" width="600" height="300"></p>
 <p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Basal 2 Freq_response.png" width="600" height="300"></p>
 
-### **Señal del Promsim4 (dispositivo patron)** <a name="id9"></a>
+### **Señal del Promsim4 (dispositivo de metrología que genera una señal patrón)** <a name="id9"></a>
 #
 |                 **Simulación**                 | **Toma ** |
 |:------------------------------------------:|:---------:|
@@ -162,4 +161,5 @@ Se posicionaron los electrodos en base las guías mencionadas:
 [4] Ministerio de Salud, “GUÍA DE PROCEDIMIENTO ASISTENCIAL: TOMA DE ELECTROCARDIOGRAMA DEL HOSPITAL NACIONAL HIPOLITO UNANUE” Abr. 2022. Disponible en: https://www.gob.pe/institucion/hnhu/normas-legales/3304579-192-2022-hnhu-dg </p>
 [5] “VICERRECTORADO DE INVESTIGACIÓN, INNOVACIÓN Y TRANSFERENCIA DE TECNOLOGÍA.” Accessed: Apr. 12, 2023. [Online]. Available: http://repositorio.espe.edu.ec/xmlui/bitstream/handle/21000/21202/T-ESPE-042196.pdf?sequence=1&isAllowed=y </p>
 [6] J. Hall. (). Guyton & Hall. Tratado de fisiología médica Ed.14 por Hall, John - 9788413820132 - Journal. Available: https://www.edicionesjournal.com/Papel/9788413820132/Guyton+++Hall++Tratado+de+fisiología+médica+Ed+14. </p>
+[7]	“La diferencia entre ejercicio aeróbico y anaeróbico”, Eufic.org. [En línea]. Disponible en: https://www.eufic.org/es/vida-sana/articulo/la-diferencia-entre-ejercicio-aerobico-y-anaerobico/. [Consultado: 13-abr-2023]. </p>
 ‌
