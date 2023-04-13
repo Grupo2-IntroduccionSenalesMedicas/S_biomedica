@@ -169,7 +169,7 @@ Inmediatamente, después de la actividad física de 5 minutos, el intervalo R-R 
 
 * Para el uso de electrodos de superficie se deben considerar las características eléctricas de la piel. Tras el ploteo de las señales se pudo observar que el mal acoplamiento electrodo-piel o la impedancia de este órgano nos brinda resultados de baja calidad. Durante este laboratorio se trabajó en el análisis de señales de ECG de un estudiante que padecía una condición de la piel, por lo que este factor ha sido influyente en la obtención de señales.
 
-* Así mismo, factores como interferencias provenientes de la red eléctrica terminan contaminando la señal ECG y para ello se aplican las distintas herramientas de filtrado.
+* Así mismo, factores como interferencias provenientes de la red eléctrica terminan contaminando la señal ECG y para ello existen distintas herramientas de filtrado. Gracias al acondicionamiento propio del BITalino, el análisis de las señales ECG pudieron ser analizadas el uso de un filtro alguno.
 
 ---
 ## **Referencias** <a name="id11"></a>
