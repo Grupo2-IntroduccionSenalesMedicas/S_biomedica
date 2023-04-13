@@ -25,10 +25,10 @@ Fecha: 12-04-2023
 * Enfermedad de las arterias coronarias
 * Enfermedades cardiovasculares
 
-<p align="justify"> En base a lo mencionado anteriormente,el presente laboratorio presenta el uso de la placa de desarrollo Bitalino para obtener señales de electrocardiograma (ECG) de interés. La placa Bitalino es una herramienta innovadora que nos permitirá registrar y analizar la actividad eléctrica del corazón de forma no invasiva y en tiempo real.<br>
+<p align="justify"> En base a lo mencionado anteriormente,el presente laboratorio presenta el uso de la placa de desarrollo Bitalino para obtener señales de electrocardiograma (ECG) de interés. La placa Bitalino es una herramienta innovadora que nos permitirá registrar y analizar la actividad eléctrica del corazón de forma no invasiva y en tiempo real.</p>
 A través de esta experiencia práctica, se espera  aprender sobre la obtención y análisis de señales ECG, así como familiarizarse con los procedimientos y protocolos de utilización de electrodos ECG.</p>
 
-### Señal de ECG </p>
+### Señal de EKG </p>
 Con respecto a la teoría de una señal de ECG, se puede diferenciar entre 3 fases:
 
 <p align="center"><img src="/Imagenes/entregable4/du.png" width="600" height="400"></p>
@@ -36,18 +36,17 @@ Con respecto a la teoría de una señal de ECG, se puede diferenciar entre 3 fas
 <p align="center">Figura 1. Intervalos y segmentos de ECG.[5] </p>
 
 ### ELECTROCARDIOGRAMA</p>
-
-<p align="justify"> Es la representación visual de la actividad eléctrica del corazón en función del tiempo, que se obtiene, desde la superficie corporal, en el pecho, con un electrocardiógrafo en forma de cinta continua.
+Es la representación visual de la actividad eléctrica del corazón en función del tiempo, que se obtiene, desde la superficie corporal, en el pecho, con un electrocardiógrafo en forma de cinta continua.
 
 Dicha actividad eléctrica está registrada hasta con 12 derivaciones, lo cual permite reconstruir mejor la actividad cardiaca en el plano frontal y horizontal [6].
-Las desviaciones para el plano frontal son las derivadas de extremidades estándar (I, II, III) y las derivaciones de extremidades aumentadas (aVR, aVL, aV) </p>
+Las desviaciones para el plano frontal son las derivadas de extremidades estándar (I, II, III) y las derivaciones de extremidades aumentadas (aVR, aVL, aV) 
 Extremidades estándar (I, II, III): 
 * I ⇒ Mano derecha (-) y  la mano izquierda(+)
 * II ⇒ Mano derecha (-) y Pierna izquierda(+)
-* III ⇒Mano izquierda(-) y pierna izquierda(+) 
+* III ⇒Mano izquierda(-) y pierna izquierda(+) </p>
 
-Derivaciones de extremidades aumentadas (aVR, aVL, aVF):<br>
-<p align="justify">Consta de 3 conexiones, dos de ellas van al terminal negativo del EGK, mediante una resistencia eléctrica y la otra al terminal positivo: </p>
+Derivaciones de extremidades aumentadas (aVR, aVL, aVF):</p>
+Consta de 3 conexiones, dos de ellas van al terminal negativo del EGK, mediante una resistencia eléctrica y la otra al terminal positivo:
 Si el terminal positivo es:
 * En el brazo derecho ⇒  aVR
 * En el brazo izquierdo  ⇒ aVL 
@@ -55,10 +54,7 @@ Si el terminal positivo es:
 <p align="center"><img src="/Imagenes/entregable4/deri.png" width="300" height="300"></p>
 <p align="center">Figura 2. Derivaciones.[6] </p>
 
-### Ejercicios
 
-<p align="justify">Los ejercicios aeróbicos y anaeróbicos son dos tipos de ejercicios que se diferencian en la forma en que el cuerpo produce energía. Los ejercicios aeróbicos son aquellos que se realizan a una intensidad moderada y durante un período prolongado de tiempo, como correr o nadar. Estos ejercicios utilizan oxígeno para producir energía y son beneficiosos para el sistema cardiovascular y respiratorio [a]. Por otro lado, los ejercicios anaeróbicos son aquellos que se realizan a una alta intensidad y durante un corto período de tiempo, como levantar pesas o hacer sprints. Estos ejercicios no utilizan oxígeno para producir energía y son beneficiosos para el desarrollo muscular [b].<br>
-La señal ECG es una herramienta útil para evaluar la salud del corazón y detectar posibles problemas cardíacos. Durante el ejercicio, la señal ECG puede mostrar cambios en la frecuencia cardíaca y la amplitud de las ondas [c]. En general, los ejercicios aeróbicos son más beneficiosos para la salud cardiovascular y respiratoria, mientras que los ejercicios anaeróbicos son más beneficiosos para el desarrollo muscular [a][b]. </p>
 
 
 ## **Objetivos** <a name="id1"></a>
@@ -72,14 +68,10 @@ Los objetivos del laboratorio son:
 ## **Materiales y equipos** <a name="id2"></a>
 ---
 
-<div align="center">
-
 |  **Modelo**  | **Descripción** | **Cantidad** |
 |:------------:|:---------------:|:------------:|
 | (R)EVOLUTION |   Kit BITalino  |       1      |
 |       -      |      Laptop     |       1      |
-
-</div>
 
 ## **Procedimiento** <a name="id3"></a>
 
@@ -89,9 +81,9 @@ Los objetivos del laboratorio son:
      <p align="center">Figura 2. Colocación de electrodos para el plomo I: IN+ (rojo) e IN-(negro) en las muñecas y REF (blanco) en la cresta ilíaca [3].
 
 3. Registro de la señal ECG: Se grabó la señal en 3 momentos
-     * Estado basal: Evaluar el estado de reposo
-     * Respiración prolongada: Evaluar al mantener la respiración por 10 segundos y el estado basal
-     * Ejercicio intenso: Evaluar luego de 5 minutos de burpees
+     * Estado basal
+     * Respiración prolongada: 10 segundos de inspiración y 10 segundos de espiración
+     * Ejercicio intenso: lectura posterior 4 minutos de burpees
 
 https://user-images.githubusercontent.com/43428232/231537596-8f684d32-26c2-4d7b-a5d4-7bdbe838e545.mp4
 
@@ -120,35 +112,25 @@ Se posicionaron los electrodos en base las guías mencionadas:
      
 |                 **Modelo**                 | **Video** |
 |:------------------------------------------:|:---------:|
-|                **Estado Basal**                |<video src="https://user-images.githubusercontent.com/128627001/231584957-8ee3fbcc-b6b3-440b-9237-7660d613ff81.mp4"></video>|
-| **Manteniendo la respiración por 10 segundos** |<video src="https://user-images.githubusercontent.com/128627001/231585634-4ff1e093-c272-44b3-9570-a781d223fcda.mp4"></video>|
-|                **Reposo basal**                |<video src="https://user-images.githubusercontent.com/128627001/231586327-8ea808a1-fc5f-4bc7-bb96-a590a6cf875a.mp4"></video>|
-|       **Después de la actividad física**       |<video src="https://user-images.githubusercontent.com/128627001/231586016-d47e613a-6b33-4284-9bc8-8974b8fd2e24.mp4"></video>|
+|                **Estado Basal**                |<img src="/Imagenes/entregable4/deri.png" width="300" height="300"></p>|
+| **Manteniendo la respiración por 10 segundos** |<img src="/Imagenes/entregable4/deri.png" width="300" height="300"></p>|
+|                **Reposo basal**                |<img src="/Imagenes/entregable4/deri.png" width="300" height="300"></p>|
+|       **Después de la actividad física**       |<img src="/Imagenes/entregable4/deri.png" width="300" height="300"></p>|
      
-### **Ploteo de la señal en OpenSignal** <a name="id7"></a>
-#
-     a)   Estado basal
-     b)   Manteniendo la respiración por 10 segundos
-     c)   Reposo basal
-     d)   Después de una actividad física
-     
-### **Archivos** <a name="id8"></a>
-#
 ### **Ploteo de la señal en Python** <a name="id9"></a>
-
+#
      a)   Estado basal
-<p align="center"><img src="/Imagenes/entregable4/Basal1_señal.png" width="600" height="300"></p>
-<p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Basal 1 Freq_response.png" width="600" height="300"></p>
      b)   Manteniendo la respiración por 10 segundos
-<p align="center"><img src="/Imagenes/entregable4/Respiración_señal.png" width="600" height="300"></p>
-<p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Respiracion Freq_response.png" width="600" height="300"></p>
-<p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Respiracion Amplitudes_Analysis Raw_Signal.png" width="600" height="300"></p>
      c)   Reposo basal
-<p align="center"><img src="/Imagenes/entregable4/Basal2_señal.png" width="600" height="300"></p>
-<p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Post-ejercicio Freq_response.png" width="600" height="300"></p>
      d)   Después de una actividad física
-<p align="center"><img src="/Imagenes/entregable4/Post_ejercicio_señal.png" width="600" height="300"></p>
-<p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Basal 2 Freq_response.png" width="600" height="300"></p>
+### **Señal del Promsim4 (dispositivo patron)** <a name="id9"></a>
+#
+|                 **Simulación**                 | **Toma ** |
+|:------------------------------------------:|:---------:|
+|<img src="/Imagenes/entregable4/deri.png" width="300" height="300">|<img src="/Imagenes/entregable4/deri.png" width="300" height="300">|
+| **Manteniendo la respiración por 10 segundos** |<img src="/Imagenes/entregable4/deri.png" width="300" height="300">|
+|                **Reposo basal**                |<img src="/Imagenes/entregable4/deri.png" width="300" height="300"></p>|
+|       **Después de la actividad física**       |<img src="/Imagenes/entregable4/deri.png" width="300" height="300"></p>|
      
 ## **Conclusiones** <a name="id10"></a>
 ---
