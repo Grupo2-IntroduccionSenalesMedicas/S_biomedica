@@ -25,7 +25,7 @@ Fecha: 12-04-2023
 * Enfermedad de las arterias coronarias
 * Enfermedades cardiovasculares
 
-<p align="justify"> En base a lo mencionado anteriormente,el presente laboratorio presenta el uso de la placa de desarrollo Bitalino para obtener señales de electrocardiograma (ECG) de interés. La placa Bitalino es una herramienta innovadora que nos permitirá registrar y analizar la actividad eléctrica del corazón de forma no invasiva y en tiempo real.</p>
+<p align="justify"> En base a lo mencionado anteriormente,el presente laboratorio presenta el uso de la placa de desarrollo Bitalino para obtener señales de electrocardiograma (ECG) de interés. La placa Bitalino es una herramienta innovadora que nos permitirá registrar y analizar la actividad eléctrica del corazón de forma no invasiva y en tiempo real.<br>
 A través de esta experiencia práctica, se espera  aprender sobre la obtención y análisis de señales ECG, así como familiarizarse con los procedimientos y protocolos de utilización de electrodos ECG.</p>
 
 ### Señal de ECG </p>
@@ -36,23 +36,29 @@ Con respecto a la teoría de una señal de ECG, se puede diferenciar entre 3 fas
 <p align="center">Figura 1. Intervalos y segmentos de ECG.[5] </p>
 
 ### ELECTROCARDIOGRAMA</p>
-Es la representación visual de la actividad eléctrica del corazón en función del tiempo, que se obtiene, desde la superficie corporal, en el pecho, con un electrocardiógrafo en forma de cinta continua.
+
+<p align="justify"> Es la representación visual de la actividad eléctrica del corazón en función del tiempo, que se obtiene, desde la superficie corporal, en el pecho, con un electrocardiógrafo en forma de cinta continua.
 
 Dicha actividad eléctrica está registrada hasta con 12 derivaciones, lo cual permite reconstruir mejor la actividad cardiaca en el plano frontal y horizontal [6].
-Las desviaciones para el plano frontal son las derivadas de extremidades estándar (I, II, III) y las derivaciones de extremidades aumentadas (aVR, aVL, aV) 
+Las desviaciones para el plano frontal son las derivadas de extremidades estándar (I, II, III) y las derivaciones de extremidades aumentadas (aVR, aVL, aV) </p>
 Extremidades estándar (I, II, III): 
 * I ⇒ Mano derecha (-) y  la mano izquierda(+)
 * II ⇒ Mano derecha (-) y Pierna izquierda(+)
-* III ⇒Mano izquierda(-) y pierna izquierda(+) </p>
+* III ⇒Mano izquierda(-) y pierna izquierda(+) 
 
-Derivaciones de extremidades aumentadas (aVR, aVL, aVF):</p>
-Consta de 3 conexiones, dos de ellas van al terminal negativo del EGK, mediante una resistencia eléctrica y la otra al terminal positivo:
+Derivaciones de extremidades aumentadas (aVR, aVL, aVF):<br>
+<p align="justify">Consta de 3 conexiones, dos de ellas van al terminal negativo del EGK, mediante una resistencia eléctrica y la otra al terminal positivo: </p>
 Si el terminal positivo es:
 * En el brazo derecho ⇒  aVR
 * En el brazo izquierdo  ⇒ aVL 
 * En la pierna izquierda  ⇒ aVF (La señal es invertida)
 <p align="center"><img src="/Imagenes/entregable4/deri.png" width="300" height="300"></p>
 <p align="center">Figura 2. Derivaciones.[6] </p>
+
+### Ejercicios
+
+<p align="justify">Los ejercicios aeróbicos y anaeróbicos son dos tipos de ejercicios que se diferencian en la forma en que el cuerpo produce energía. Los ejercicios aeróbicos son aquellos que se realizan a una intensidad moderada y durante un período prolongado de tiempo, como correr o nadar. Estos ejercicios utilizan oxígeno para producir energía y son beneficiosos para el sistema cardiovascular y respiratorio [a]. Por otro lado, los ejercicios anaeróbicos son aquellos que se realizan a una alta intensidad y durante un corto período de tiempo, como levantar pesas o hacer sprints. Estos ejercicios no utilizan oxígeno para producir energía y son beneficiosos para el desarrollo muscular [b].<br>
+La señal ECG es una herramienta útil para evaluar la salud del corazón y detectar posibles problemas cardíacos. Durante el ejercicio, la señal ECG puede mostrar cambios en la frecuencia cardíaca y la amplitud de las ondas [c]. En general, los ejercicios aeróbicos son más beneficiosos para la salud cardiovascular y respiratoria, mientras que los ejercicios anaeróbicos son más beneficiosos para el desarrollo muscular [a][b]. </p>
 
 
 ## **Objetivos** <a name="id1"></a>
@@ -83,9 +89,9 @@ Los objetivos del laboratorio son:
      <p align="center">Figura 2. Colocación de electrodos para el plomo I: IN+ (rojo) e IN-(negro) en las muñecas y REF (blanco) en la cresta ilíaca [3].
 
 3. Registro de la señal ECG: Se grabó la señal en 3 momentos
-     * Estado basal
-     * Respiración prolongada: 10 segundos de inspiración y 10 segundos de espiración
-     * Ejercicio intenso: lectura posterior 4 minutos de burpees
+     * Estado basal: Evaluar el estado de reposo
+     * Respiración prolongada: Evaluar al mantener la respiración por 10 segundos y el estado basal
+     * Ejercicio intenso: Evaluar luego de 5 minutos de burpees
 
 https://user-images.githubusercontent.com/43428232/231537596-8f684d32-26c2-4d7b-a5d4-7bdbe838e545.mp4
 
