@@ -129,7 +129,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
 ### **Archivos** <a name="id8"></a>
 #
 ### **Ploteo de la señal en Python** <a name="id9"></a>
-#
+
      a)   Estado basal
 <p align="center"><img src="/Imagenes/entregable4/Basal1_señal.png" width="600" height="300"></p>
 <p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Basal 1 Freq_response.png" width="600" height="300"></p>
