@@ -124,7 +124,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
 
 ### **Archivos** <a name="id8"></a>
 #
-- [Documentos (.txt)]([https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/Programación/Laboratorio4](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/tree/main/Programación/Laboratorio%204))
+- [Documentos (.txt)](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/tree/main/Programación/Laboratorio%204)
 - [Programa de ploteo](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/blob/main/Programación/Laboratorio%204/SignalPlot.ipynb)
 - [Programa de ploteo en Google Colab]([https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/blob/main/Programación/Laboratorio%204/SignalPlot.ipynb](https://colab.research.google.com/drive/1u2PKFSx2E9Nheg8XYQldKUHyYO6rB3Q5?usp=sharing)) 
      
