@@ -55,8 +55,6 @@ Si el terminal positivo es:
 <p align="center">Figura 2. Derivaciones.[6] </p>
 
 
-
-
 ## **Objetivos** <a name="id1"></a>
 ---
 Los objetivos del laboratorio son:
@@ -68,10 +66,14 @@ Los objetivos del laboratorio son:
 ## **Materiales y equipos** <a name="id2"></a>
 ---
 
+<div align="center">
+
 |  **Modelo**  | **Descripción** | **Cantidad** |
 |:------------:|:---------------:|:------------:|
 | (R)EVOLUTION |   Kit BITalino  |       1      |
 |       -      |      Laptop     |       1      |
+
+</div>
 
 ## **Procedimiento** <a name="id3"></a>
 
