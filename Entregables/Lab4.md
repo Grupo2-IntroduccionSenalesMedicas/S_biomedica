@@ -131,9 +131,13 @@ Se posicionaron los electrodos en base las guías mencionadas:
 ### **Ploteo de la señal en Python** <a name="id9"></a>
 #
      a)   Estado basal
+     <p align="center"><img src="/Imagenes/entregable4/Basal1_señal.png" width="600" height="300"></p>
      b)   Manteniendo la respiración por 10 segundos
+     <p align="center"><img src="/Imagenes/entregable4/Respiración_señal.png" width="600" height="300"></p>
      c)   Reposo basal
+     <p align="center"><img src="/Imagenes/entrgable4/Basal2_señal.png" width="600" height="300"></p>
      d)   Después de una actividad física
+     <p align="center"><img src="/Imagenes/entrgable4/Post_ejercicio_señal.png" width="600" height="300"></p>
      
 ## **Conclusiones** <a name="id10"></a>
 ---
