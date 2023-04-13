@@ -92,7 +92,7 @@ https://user-images.githubusercontent.com/43428232/231537596-8f684d32-26c2-4d7b-
 
  
 ## **Resultados** <a name="id4"></a>
-<p align="justify">Antes de proceder a la lectura de los resultados cabe mencionar que el sujeto al que se le tomaron las medidas tiene problemas... (aqui explican lo q sea que tenga carlos xd)</p>
+<p align="justify">Antes de proceder con la lectura de los resultados cabe mencionar que el sujeto de estudio, el cual se sometió a diferentes estados de actividad y reposo, tiene una condición la piel que genera ciertas perturbaciones en la señal que se deben tomar en cuenta.</p>
 
 ### **Conexión usada** <a name="id5"></a>
 #
@@ -129,6 +129,8 @@ Se posicionaron los electrodos en base las guías mencionadas:
      
 ### **Ploteo de la señal en Python** <a name="id9"></a>
 <p align="justify">Se ha realizado un ploteo de las señales en python para poder analizar segmentos específicos. Para poder calcular los latidos por minuto (lpm) y compararlos con el dispositivo patron, se calculó el intervalo R-R en las señales. En un electrocardiograma con ritmo regular el cálculo es simple, solo hay que dividir 6000 entre la frecuencia cardiaca. Además, se permite observar las frecuencias de la señal.</p>
+La señales se sometieron a un filtrado pasa baja y el efecto que se obtuvo fue mínimo, esto debido al existente acondicionamiento que integra el BITalino. Es por este motivo que el análisis realizado fue directamente de las señales sin procesado.
+
      a)   Estado basal</p>
 <p align="center"><img src="/Imagenes/entregable4/Basal1_señal.png" width="600" height="300"></p>
 <p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Basal 1 Freq_response.png" width="600" height="300"></p>
