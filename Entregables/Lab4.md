@@ -124,11 +124,21 @@ Se posicionaron los electrodos en base las guías mencionadas:
      
 ### **Ploteo de la señal en Python** <a name="id9"></a>
 <p align="justify">Se ha realizado un ploteo de las señales en python para poder analizar segmentos especificos y hallar el Intervalo RR que... (aqui explicar pa q sirve ese intervalo). Además, se permite observar las frecuencias de la señal.</p>
-#
      a)   Estado basal
+<p align="center"><img src="/Imagenes/entregable4/Basal1_señal.png" width="600" height="300"></p>
+<p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Basal 1 Freq_response.png" width="600" height="300"></p>
      b)   Manteniendo la respiración por 10 segundos
+<p align="center"><img src="/Imagenes/entregable4/Respiración_señal.png" width="600" height="300"></p>
+<p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Respiracion Freq_response.png" width="600" height="300"></p>
+<p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Respiracion Amplitudes_Analysis Raw_Signal.png" width="600" height="300"></p>
      c)   Reposo basal
+<p align="center"><img src="/Imagenes/entrgable4/Basal2_señal.png" width="600" height="300"></p>
+<p align="center"><img src="/Imagenes/entregable4/Basal2_señal.png" width="600" height="300"></p>
+<p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Post-ejercicio Freq_response.png" width="600" height="300"></p>
      d)   Después de una actividad física
+<p align="center"><img src="/Imagenes/entrgable4/Post_ejercicio_señal.png" width="600" height="300"></p>
+<p align="center"><img src="/Imagenes/entregable4/Post_ejercicio_señal.png" width="600" height="300"></p>
+<p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Basal 2 Freq_response.png" width="600" height="300"></p>
 ### **Señal del Promsim4 (dispositivo patron)** <a name="id9"></a>
 #
 |                 **Simulación**                 | **Toma ** |
