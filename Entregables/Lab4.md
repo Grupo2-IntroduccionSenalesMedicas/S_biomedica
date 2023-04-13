@@ -10,8 +10,8 @@ Fecha: 12-04-2023
 5. [Resultados](#id4)\
      4.1 [Conexión usada](#id5)\
      4.2 [Video de la señal](#id6)\
-     4.4 [Archivos](#id8)\
-     4.5 [Ploteo de la señal en Python](#id9)
+     4.3 [Archivos](#id8)\
+     4.4 [Ploteo de la señal en Python](#id9)
 6. [Conclusiones](#id10)
 7. [Referencias](#id11)
 
