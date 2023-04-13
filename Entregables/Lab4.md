@@ -127,20 +127,24 @@ Se posicionaron los electrodos en base las guías mencionadas:
 - [Programa de ploteo en Google Colab](https://colab.research.google.com/drive/1u2PKFSx2E9Nheg8XYQldKUHyYO6rB3Q5?usp=sharing) 
      
 ### **Ploteo de la señal en Python** <a name="id9"></a>
-<p align="justify">Se ha realizado un ploteo de las señales en python para poder analizar segmentos especificos y hallar el Intervalo RR que... (aqui explicar pa q sirve ese intervalo). Además, se permite observar las frecuencias de la señal.</p>
+<p align="justify">Se ha realizado un ploteo de las señales en python para poder analizar segmentos especificos. Para poder calcular los lpm y compararlos con el dispositivo patron , se calculo el intervalo R-R en las señales. En un electrocardiograma con ritmo regular el cálculo es simple, solo hay que dividir 6000 entre la frecuencia cardiaca. Además, se permite observar las frecuencias de la señal.</p>
      a)   Estado basal
 <p align="center"><img src="/Imagenes/entregable4/Basal1_señal.png" width="600" height="300"></p>
 <p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Basal 1 Freq_response.png" width="600" height="300"></p>
+En estado basal, el usuario se encontraba en reposo por lo cuál el valor de R-R es 0,98s que equivale a 61 latidos por minuto que esta dentro del rango normal de palpitaciones cardiacas. 
      b)   Manteniendo la respiración por 10 segundos
 <p align="center"><img src="/Imagenes/entregable4/Respiración_señal.png" width="600" height="300"></p>
 <p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Respiracion Freq_response.png" width="600" height="300"></p>
 <p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Respiracion Amplitudes_Analysis Raw_Signal.png" width="600" height="300"></p>
+En este parámetro, el usuario contuvo la respiración durante 10 segundos por lo cuál el valor del intervalo R-R es de 0.9s que equivale a 67 latidos por minuto. 
      c)   Reposo basal
 <p align="center"><img src="/Imagenes/entregable4/Basal2_señal.png" width="600" height="300"></p>
 <p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Post-ejercicio Freq_response.png" width="600" height="300"></p>
+En este parámetro, se volvió a establecer al usuario en un estado basal después de haber inspirado y expirado por lo cuál, el valor del intervalo R-R es de 0.9s que equivale a 67 latidos por minuto.
      d)   Después de una actividad física
 <p align="center"><img src="/Imagenes/entregable4/Post_ejercicio_señal.png" width="600" height="300"></p>
 <p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Basal 2 Freq_response.png" width="600" height="300"></p>
+Inmediatamente, después de la actividad física de 5 minutos, el intervalo R-R es de 0.45 que equivale a 133 latidos por minuto. 
 
 ### **Señal del Promsim4 (dispositivo de metrología que genera una señal patrón)** <a name="id9"></a>
 #
