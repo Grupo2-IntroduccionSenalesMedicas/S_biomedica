@@ -161,5 +161,5 @@ Se posicionaron los electrodos en base las guías mencionadas:
 [4] Ministerio de Salud, “GUÍA DE PROCEDIMIENTO ASISTENCIAL: TOMA DE ELECTROCARDIOGRAMA DEL HOSPITAL NACIONAL HIPOLITO UNANUE” Abr. 2022. Disponible en: https://www.gob.pe/institucion/hnhu/normas-legales/3304579-192-2022-hnhu-dg </p>
 [5] “VICERRECTORADO DE INVESTIGACIÓN, INNOVACIÓN Y TRANSFERENCIA DE TECNOLOGÍA.” Accessed: Apr. 12, 2023. [Online]. Available: http://repositorio.espe.edu.ec/xmlui/bitstream/handle/21000/21202/T-ESPE-042196.pdf?sequence=1&isAllowed=y </p>
 [6] J. Hall. (). Guyton & Hall. Tratado de fisiología médica Ed.14 por Hall, John - 9788413820132 - Journal. Available: https://www.edicionesjournal.com/Papel/9788413820132/Guyton+++Hall++Tratado+de+fisiología+médica+Ed+14. </p>
-[7]	“La diferencia entre ejercicio aeróbico y anaeróbico”, Eufic.org. [En línea]. Disponible en: https://www.eufic.org/es/vida-sana/articulo/la-diferencia-entre-ejercicio-aerobico-y-anaerobico/. [Consultado: 13-abr-2023]. </p>
+[7]	“La diferencia entre ejercicio aeróbico y anaeróbico”, Eufic.org. [En línea]. [Online]. Available from: https://www.eufic.org/es/vida-sana/articulo/la-diferencia-entre-ejercicio-aerobico-y-anaerobico/. [Consultado: 13-abr-2023]. </p>
 ‌
