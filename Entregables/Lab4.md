@@ -28,7 +28,7 @@ Fecha: 12-04-2023
 <p align="justify"> En base a lo mencionado anteriormente,el presente laboratorio presenta el uso de la placa de desarrollo Bitalino para obtener señales de electrocardiograma (ECG) de interés. La placa Bitalino es una herramienta innovadora que nos permitirá registrar y analizar la actividad eléctrica del corazón de forma no invasiva y en tiempo real.</p>
 A través de esta experiencia práctica, se espera  aprender sobre la obtención y análisis de señales ECG, así como familiarizarse con los procedimientos y protocolos de utilización de electrodos ECG.</p>
 
-### Señal de EKG </p>
+### Señal de ECG </p>
 Con respecto a la teoría de una señal de ECG, se puede diferenciar entre 3 fases:
 
 <p align="center"><img src="/Imagenes/entregable4/du.png" width="600" height="400"></p>
