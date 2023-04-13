@@ -128,9 +128,9 @@ Se posicionaron los electrodos en base las guías mencionadas:
 |                 **Simulación**                 | **Toma ** |
 |:------------------------------------------:|:---------:|
 |**Simulación de 60lpm - estado basal** </p><img src="/Imagenes/entregable4/60lpm_toma1.jpg" width="300" height="300">|<img src="/Imagenes/entregable4/60lpm_toma11.jpg" width="300" height="300">|
-| **Manteniendo la respiración por 10 segundos** |<img src="/Imagenes/entregable4/deri.png" width="300" height="300">|
-|                **Reposo basal**                |<img src="/Imagenes/entregable4/deri.png" width="300" height="300"></p>|
-|       **Después de la actividad física**       |<img src="/Imagenes/entregable4/deri.png" width="300" height="300"></p>|
+| **Simulación de 120lpm - empieza a agitarse**</p><img src="/Imagenes/entregable4/120lpm_toma2.jpg" width="300" height="300">|<img src="/Imagenes/entregable4/120lpm_toma22.jpg" width="300" height="300">|
+|                **Simulación de 150lpm - haciendo ejercicio**</p><img src="/Imagenes/entregable4/150lpm_toma3.jpg" width="300" height="300">|<img src="/Imagenes/entregable4/150lpm_toma33.jpg" width="300" height="300"></p>|
+|       **Simulación de 90lpm - reponiendose**</p><img src="/Imagenes/entregable4/90lpm_toma4.jpg" width="300" height="300">      |<img src="/Imagenes/entregable4/90lpm_toma44.jpg" width="300" height="300"></p>|
      
 ## **Conclusiones** <a name="id10"></a>
 ---
