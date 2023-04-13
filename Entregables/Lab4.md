@@ -1,4 +1,4 @@
-# **LABORATORIO 4: – USO DE BiTalino PARA EMG y ECG**
+# **LABORATORIO 4: – USO DE BiTalino PARA ECG**
 Fecha: 12-04-2023
 
 
