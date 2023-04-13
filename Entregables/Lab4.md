@@ -124,7 +124,8 @@ Se posicionaron los electrodos en base las guías mencionadas:
 
 ### **Archivos** <a name="id8"></a>
 #
-
+- [Documentos (.txt)](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/Programación/Laboratorio4)
+- [Programa de ploteo]()
      
 ### **Ploteo de la señal en Python** <a name="id9"></a>
 <p align="justify">Se ha realizado un ploteo de las señales en python para poder analizar segmentos especificos y hallar el Intervalo RR que... (aqui explicar pa q sirve ese intervalo). Además, se permite observar las frecuencias de la señal.</p>
