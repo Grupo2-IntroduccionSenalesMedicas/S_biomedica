@@ -41,12 +41,11 @@ neuronas en el cerebro y la interacción de dichas neuronas produciendo señales
 -**Theta**: este es el ritmo provocado por la somnolencia y las primeras etapas del sueño, como N1 y N2. Es más prominente en las regiones frontocentrales de la cabeza y migra lentamente hacia atrás reemplazando el ritmo alfa debido a la somnolencia temprana. Los estados emocionales elevados también pueden mejorar el ritmo theta rítmico frontal en niños y adultos jóvenes. La actividad theta focal durante los estados de vigilia sugiere una disfunción cerebral focal.</p>
 -**Alfa**: el ritmo alfa dominante posterior está presente de forma característica en los registros de EEG normales despiertos en la región occipital de la cabeza. Es la característica definitoria del ritmo de fondo normal de la grabación de EEG de adultos. El ritmo posterior alcanza el rango alfa de 8 Hz a la edad de 3 años y no decae incluso hasta la novena década de vida en individuos sanos. En la población normal se observan variantes rápidas del ritmo alfa de fondo. La ralentización del ritmo alfa de fondo se considera un signo de disfunción cerebral generalizada.</p>
 -**Beta**:el ritmo Beta es el ritmo que se observa con mayor frecuencia en adultos y niños normales. Es más prominente en las regiones frontal y central de la cabeza y se atenúa a medida que avanza hacia atrás. La amplitud de la actividad beta suele ser de 10 a 20 microvoltios, que rara vez aumenta por encima de los 30 microvoltios. </p>
--**Gamma**:Se encuentra en al clasificación de ondas de alta frecuencia. La importancia de los ritmos gamma en una gran variedad de funciones cognitivas ha sido bien establecidaPueden ayudar en la detección temprana de desmielinización y otros trastornos de la integridad cortical.</p>
-[https://www.ncbi.nlm.nih.gov/books/NBK539805/#:~:text=However%2C%20the%20most%20frequently%20used,beta%20(13%20to%2030Hz).]
+-**Gamma**:Se encuentra en al clasificación de ondas de alta frecuencia. La importancia de los ritmos gamma en una gran variedad de funciones cognitivas ha sido bien establecidaPueden ayudar en la detección temprana de desmielinización y otros trastornos de la integridad cortical.[6]</p>
 
 <center><img src="https://i.imgur.com/VJE3Qq9.png" width="60%" /></center></p>
 
-<center>Figura 1. Clasificación de onda.[6]</center></p>
+<center>Figura 1. Clasificación de onda.[7]</center></p>
 
 ### Aplicaciones <a name="id"></a>
 
@@ -167,7 +166,8 @@ ___
 3.   BITalino, “BITalino HOME-GUIDE #3 ELECTROENCEPHALOGRAPHY (EEG) Exploring Brain signals” 2020 Accessed: Apr. 19, 2023. [Online]. Available from:https://bitalino.com/storage/uploads/media/homeguide3-eeg.pdf
 4.   D. De Electrotecnia, A. Noelia, and B. Cicchino, “UNIVERSIDAD NACIONAL DE LA PLATA FACULTAD DE INGENIERÍA Tesis presentada para la obtención del grado de MAGISTER EN INGENIERÍA.” Available: http://sedici.unlp.edu.ar/bitstream/handle/10915/32602/Documento_completo__.pdf?sequence=3&isAllowed=y
 5. D. De Electrónica, “UNIVERSIDAD DE ALCALÁ Tema 5 Electroencefalografía.” Available: http://www.hca.es/huca/web/enfermeria/html/f_archivos/electroencefalografia.pdf?fbclid=IwAR3phj1ifwaCuPO8-udtqTg3AEHP716M-DzemN_ohP1RP7v9dXYLeBK76wQ
-6. Priyanka A. Abhang, Bharti W. Gawali, Suresh C. Mehrotra, "Chapter 2 - Technological Basics of EEG Recording and Operation of Apparatus", Introduction to EEG- and Speech-Based Emotion Recognition, Academic Press, 2016, pp. 19-50, doi: 10.1016/B978-0-12-804490-2.00002-6.
+6. C. S. Nayak and A. C. Anilkumar, “EEG Normal Waveforms,” Nih.gov, Jan. 21, 2023. https://www.ncbi.nlm.nih.gov/books/NBK539805/#:~:text=However%2C%20the%20most%20frequently%20used,beta%20(13%20to%2030Hz) (accessed Apr. 19, 2023).
+7. Priyanka A. Abhang, Bharti W. Gawali, Suresh C. Mehrotra, "Chapter 2 - Technological Basics of EEG Recording and Operation of Apparatus", Introduction to EEG- and Speech-Based Emotion Recognition, Academic Press, 2016, pp. 19-50, doi: 10.1016/B978-0-12-804490-2.00002-6.
 ‌
 ‌
 
