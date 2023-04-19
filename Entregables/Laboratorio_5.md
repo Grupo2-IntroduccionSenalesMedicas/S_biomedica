@@ -3,15 +3,15 @@
 
 # **Tabla de contenidos**
 1. [Introducción al laboratorio](#id)
-    1.1 [¿Qué es EEG?](#id)</p>
-    1.2 [Aplicaciones](#id)</p>
+    1.1 [¿Qué es EEG?](#id)
+    1.2 [Aplicaciones](#id)
     1.3 [¿De qué forma obtenemos la señal?](#id)</p>
 2. [Objetivos](#id)
 3. [Materiales y equipos](#id)
 4. [Procedimiento](#id)
-    4.1 [Medición y Adquisición](#id)</p>
-    4.2 [Preprocesamiento](#id)</p>
-    4.3 [Canales y Análisis](#id)</p>
+    4.1 [Medición y Adquisición](#id)
+    4.2 [Preprocesamiento](#id)
+    4.3 [Canales y Análisis](#id)
 5. [Resultados](#id)
     5.1 [Archivos](#id)</p>
 6. [Conclusiones](#id)
