@@ -125,17 +125,17 @@ La adquisición y medición de señal EEG  en BITalino es un proceso que implica
     3. Colocar los electrodos húmedos con el debido gel en los pines de los sensores EEG 
     4. Colocar los electrodos instalados en la zona fp1 y fp2 de la cabeza del participante. Tener en cuenta las recomendaciones del tipo de electrodo detallado en la sección anterior
     5. Color el electrodo de referencia en la zona interoposterior de la oreja
-    6. Empezar con el procedimiento de registro
-    6.1 Registrar una línea base de señal con poco ruido y sin movimientos (respiración normal,sin movimientos oculares/ojos cerrados) durante 30 segundos.
-    6.2 Repetir un ciclo de OJOS ABIERTOS - OJOS CERRADOS cinco veces, manteniendo ambasfases durante cinco segundos.
-    6.3 Registre otra fase de referencia de 30 segundos (paso 1).
-    6.4 Que uno de tus compañeros lea en voz alta una serie de ejercicios matemáticos (verindicaciones abajo) y resuelve cada uno de ellos mentalmente enfocando tu mirada en unpunto específico para evitar artefactos.
+    6. Empezar con el procedimiento de registro</p>
+    6.1 Registrar una línea base de señal con poco ruido y sin movimientos (respiración normal,sin movimientos oculares/ojos cerrados) durante 30 segundos.</p>
+    6.2 Repetir un ciclo de OJOS ABIERTOS - OJOS CERRADOS cinco veces, manteniendo ambasfases durante cinco segundos.</p>
+    6.3 Registre otra fase de referencia de 30 segundos (paso 1).</p>
+    6.4 Que uno de tus compañeros lea en voz alta una serie de ejercicios matemáticos (verindicaciones abajo) y resuelve cada uno de ellos mentalmente enfocando tu mirada en unpunto específico para evitar artefactos.</p>
      ![](https://i.imgur.com/Ulv3Rrn.jpg)
-     6.5 Detenga la grabación y guarde sus datos
-    7. Como una adquisición extra de señales, seguir los siguientes pasos:
-    7.1 Vendar los ojos al sujeto de estudio por 30 segundos.
-    7.2 Usar una luz intermitente y ver la reacción de la vista del sujeto.
-    7.3 Recolectar las señales y guardar la información.
+     6.5 Detenga la grabación y guarde sus datos.</p>
+    7. Como una adquisición extra de señales, seguir los siguientes pasos:</p>
+    7.1 Vendar los ojos al sujeto de estudio por 30 segundos.</p>
+    7.2 Usar una luz intermitente y ver la reacción de la vista del sujeto.</p>
+    7.3 Recolectar las señales y guardar la información.</p>
 
 
 Cabe mencionar que el procedimiento se repitió en diferentes sujetos de estudio.
