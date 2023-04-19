@@ -116,11 +116,10 @@ Figura 2. Distribución de electrodos.
 2. **Protocolo de adquisición**
 La adquisición y medición de señal EEG  en BITalino es un proceso que implica la utilización de un dispositivo de adquisición de datos llamado BITalino y el conjunto de sensores EEG los cuales son capaces de adquirir señales bioeléctricas del cerebro y convertirlas en señales digitales que pueden ser analizadas por el software especializado OpenSignal. A continuación se detalla el procedimiento realizado para la adquisición y medición de la señal:
 
-    2.1 **Posición de electrodo bipolar (fp1-fp2)**
-    
+2.1 **Posición de electrodo bipolar (fp1-fp2)**
     ![Colocación de electrodos EEG del Bitalino (posición fp1,fp2 en sistema 10-20)](https://i.imgur.com/8IGiiIx.png)
     
-    2.2 **Adquisición de datos**
+2.2 **Adquisición de datos**
     1. Abrir el software OpenSignals y conectar el Bitalino
     2. Conectar el sensor EEG al canal especificado del Bitalino según la ficha técnica.
     3. Colocar los electrodos húmedos con el debido gel en los pines de los sensores EEG 
