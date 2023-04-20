@@ -156,12 +156,11 @@ ___
 2. Video de la señal
 
 
-Uploading Reposo.mp4…
 
 
 |                 **Fase**                 | **Video** |
 |:------------------------------------------:|:---------:|
-| **Fase de referencia de 30 segundos**          | |
+| **Fase de referencia de 30 segundos**          |<video src="Imagenes/entregable5/Reposo.mp4"></video>|
 | **Manteniendo la respiración por 10 segundos** ||
 |                **Reposo basal**                ||
 
