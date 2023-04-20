@@ -160,7 +160,7 @@ ___
 
 |                 **Fase**                 | **Video** |
 |:------------------------------------------:|:---------:|
-| **Fase de referencia de 30 segundos**          |<video src="Imagenes/entregable5/Reposo.mp4"></video>|
+| **Fase de referencia de 30 segundos**          |<src="Imagenes/entregable5/Reposo.mp4" type="video/mp4"></video>|
 | **Manteniendo la respiración por 10 segundos** ||
 |                **Reposo basal**                ||
 
