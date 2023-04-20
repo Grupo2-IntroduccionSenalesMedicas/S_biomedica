@@ -140,23 +140,28 @@ La adquisición y medición de señal EEG  en BITalino es un proceso que implica
 
 Cabe mencionar que el procedimiento se repitió en diferentes sujetos de estudio.
 
-### Canales y Análisis <a name="id"></a>
 
---- 
  
 ## **Resultados** <a name="id"></a>
 ___
-1. **Fotos de conexión usada**
+###1. **Fotos de conexión usada**
+<p align="center"><img src="/Imagenes/entregable5/IMG_20230419_112630.jpg" width=100%></p>
+<p align="center">Figura 4. Posición de los electrodos en el Bitalino (vista frontal)
+
+<p align="center"><img src="/Imagenes/entregable5/IMG_20230419_112617.jpg" width=100% ></p>
+
+<p align="center">Figura 5. Posición de los electrodos en el vitalino (vista lateral)
+
 <p align="center"><img src="/Imagenes/entregable5/IMG_20230419_115212.jpg" width="400" height="600"></p>
-<p align="center">Figura 4. Posición de los electrodos del ULTRACORTEX "MARK IV" (vista posterior)
+<p align="center">Figura 6. Posición de los electrodos del ULTRACORTEX "MARK IV" (vista posterior)
 
 <p align="center"><img src="/Imagenes/entregable5/IMG_20230419_115202.jpg" width="400" height="600"></p>
-<p align="center">Figura 5. Posición de los electrodos del ULTRACORTEX "MARK IV" (vista posterior)
+<p align="center">Figura 7. Posición de los electrodos del ULTRACORTEX "MARK IV" (vista posterior)
 
 
-2. Señal con MarckOpenBCI4
+###2. Señal con MarckOpenBCI4
 
-### **Videos con Ultracortex "Mark IV**
+####**Videos con Ultracortex "Mark IV**
 
 
 |                 **Fase**                 | **Video** |
@@ -167,7 +172,7 @@ ___
 |                **Respondiendo preguntas categoría compleja (parte 1)** |<video src="https://user-images.githubusercontent.com/128627001/233266949-0d0af3dc-0e56-472a-ab08-0d0c0a24689f.mp4">|
 |                **Respondiendo preguntas categoría compleja (parte 2)** |<video src="https://user-images.githubusercontent.com/128627001/233267165-a7fe473c-ae95-4366-bc09-a43da290e3de.mp4">|
 
-### **Gráficas del OpenBCI**
+#### **Gráficas del OpenBCI**
 
 
 
@@ -178,10 +183,10 @@ ___
 
 
 
-3. Señal con Bitalino
-### **Videos utilizando el Bitalino**
+###3. Señal con Bitalino
+#### **Videos utilizando el Bitalino**
 
-### **Análisis de las gráficas**
+#### **Análisis de las gráficas**
 <p align="center"><img src="/Imagenes/entregable5/S1.png" width="100%"></p>
 <p align="center"><img src="/Imagenes/entregable5/S2.png" width="100%"></p>
 <p align="center"><img src="/Imagenes/entregable5/S3.png" width="100%"></p>
