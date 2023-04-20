@@ -143,17 +143,17 @@ Cabe mencionar que el procedimiento se repitió en diferentes sujetos de estudio
 ___
 ### 1. **Fotos de conexión usada** <a name="id11"></a>
 <p align="center"><img src="/Imagenes/entregable5/IMG_20230419_112630.jpg" width=60%></p>
-<p align="center">Figura 8. Posición de los electrodos en el Bitalino (vista frontal)</p>
+<p align="center">Figura 8. Posición de los electrodos en el Bitalino (vista frontal).</p>
 
 <p align="center"><img src="/Imagenes/entregable5/IMG_20230419_112617.jpg" width=60% ></p>
 
-<p align="center">Figura 9. Posición de los electrodos en el vitalino (vista lateral)</p>
+<p align="center">Figura 9. Posición de los electrodos en el vitalino (vista lateral).</p>
 
 <p align="center"><img src="/Imagenes/entregable5/IMG_20230419_115212.jpg" width="400" height="600"></p>
-<p align="center">Figura 10. Posición de los electrodos del ULTRACORTEX "MARK IV" (vista posterior)</p>
+<p align="center">Figura 10. Posición de los electrodos del ULTRACORTEX "MARK IV" (vista posterior).</p>
 
 <p align="center"><img src="/Imagenes/entregable5/IMG_20230419_115202.jpg" width="400" height="600"></p>
-<p align="center">Figura 11. Posición de los electrodos del ULTRACORTEX "MARK IV" (vista posterior)</p>
+<p align="center">Figura 11. Posición de los electrodos del ULTRACORTEX "MARK IV" (vista posterior).</p>
 
 ### 2. **Señal con MarckOpenBCI4** <a name="id12"></a>
 
@@ -179,10 +179,10 @@ Podemos observar que el canal 5 y 6 contiene una mayor amplitud que el resto, es
 Un caso contrario ocurrió para el canal 1 y 2 donde se observa una mínima amplitud, estos corresponden al FP1-F3-C3 los cuáles se ubican en el lóbulo frontal izquierdo.</p>
 
 <p align="center"><img src="https://i.imgur.com/0MHKduk.png" width="70%"></p>
-<p align="center">Figura 12. "Explicación de lo que se encarga el hemisferio derecho e izquierdo. [10]"</p>
+<p align="center">Figura 12. Explicación de lo que se encarga el hemisferio derecho e izquierdo. [10]</p>
 
 <p align="center"><img src="https://i.imgur.com/I3K4YSs.jpg" width="100%"></p>   
-<p align="center">Figura 13. "Frecuencias de los 8 canales"</p>
+<p align="center">Figura 13. Frecuencias de los 8 canales.</p>
 
 ### 3. **Señal con Bitalino** <a name="id14"></a>
 ####  **Videos utilizando el Bitalino** <a name="id15"></a>
