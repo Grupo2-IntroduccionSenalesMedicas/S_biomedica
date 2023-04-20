@@ -144,7 +144,7 @@ Cabe mencionar que el procedimiento se repitió en diferentes sujetos de estudio
  
 ## **Resultados** <a name="id"></a>
 ___
-###1. **Fotos de conexión usada**
+### 1. **Fotos de conexión usada**
 <p align="center"><img src="/Imagenes/entregable5/IMG_20230419_112630.jpg" width=100%></p>
 <p align="center">Figura 4. Posición de los electrodos en el Bitalino (vista frontal)
 
@@ -159,7 +159,7 @@ ___
 <p align="center">Figura 7. Posición de los electrodos del ULTRACORTEX "MARK IV" (vista posterior)
 
 
-###2. Señal con MarckOpenBCI4
+### 2. Señal con MarckOpenBCI4
 
 ####**Videos con Ultracortex "Mark IV**
 
@@ -183,7 +183,7 @@ ___
 
 
 
-###3. Señal con Bitalino
+### 3. Señal con Bitalino
 #### **Videos utilizando el Bitalino**
 
 #### **Análisis de las gráficas**
