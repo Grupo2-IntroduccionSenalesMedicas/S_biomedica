@@ -153,13 +153,8 @@ ___
 <p align="center"><img src="/Imagenes/entregable5/IMG_20230419_115202.jpg" width="400" height="600"></p>
 <p align="center">Figura 5. Posición de los electrodos del ULTRACORTEX "MARK IV" (vista posterior)
 
-<p align="center"><img src="/Imagenes/entregable5/S1.png" width="100%"></p>
-<p align="center"><img src="/Imagenes/entregable5/S2.png" width="100%"></p>
-<p align="center"><img src="/Imagenes/entregable5/S3.png" width="100%"></p>
-<p align="center"><img src="/Imagenes/entregable5/S4.png" width="100%"></p>
-<p align="center"><img src="/Imagenes/entregable5/S5.png" width="100%"></p>
 
-2. Video de la señal
+2. Video de la señal en MarckOpenBCI4
 
 
 
@@ -183,17 +178,17 @@ ___
 
 
 
-
-4. Señal con MarckOpenBCI4
+3. Videos de la señal con Bitalino
     - 
+### **Análisis de las gráficas**
+<p align="center"><img src="/Imagenes/entregable5/S1.png" width="100%"></p>
+<p align="center"><img src="/Imagenes/entregable5/S2.png" width="100%"></p>
+<p align="center"><img src="/Imagenes/entregable5/S3.png" width="100%"></p>
+<p align="center"><img src="/Imagenes/entregable5/S4.png" width="100%"></p>
+<p align="center"><img src="/Imagenes/entregable5/S5.png" width="100%"></p>
 
 
 
-
-
-### Archivos <a name="id"></a>
-
----
 
 ## **Conclusiones** <a name="id"></a>
 ---
