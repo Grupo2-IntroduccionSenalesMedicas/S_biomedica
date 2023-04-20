@@ -147,8 +147,13 @@ Cabe mencionar que el procedimiento se repitió en diferentes sujetos de estudio
 ## **Resultados** <a name="id"></a>
 ___
 1. Fotos de conexión usada  
-    - 
-2. Señal con MarckOpenBCI4
+<p align="center"><img src="/Imagenes/entregable5/S1.png" width="100%"></p>
+<p align="center"><img src="/Imagenes/entregable5/S2.png" width="100%"></p>
+<p align="center"><img src="/Imagenes/entregable5/S3.png" width="100%"></p>
+<p align="center"><img src="/Imagenes/entregable5/S4.png" width="100%"></p>
+<p align="center"><img src="/Imagenes/entregable5/S5.png" width="100%"></p>
+
+3. Señal con MarckOpenBCI4
     - 
 
 ### Archivos <a name="id"></a>
