@@ -178,7 +178,12 @@ ___
 <p align="center"><img src="/Imagenes/FP1-FP3/3.jpg" width="100%"></p>
 <p align="center"><img src="/Imagenes/FP1-FP3/4.jpg" width="100%"></p>
 
+Si analizamos los canales, estos guardan relación con la ubicación 10/20 de un EEG, los canales que van del Fp1-F3-C3-P3-O1 corresponden al hemisferio izquierdo y los canales Fp2-F4-C4-P4-O2 al hemisferio derecho.
+Podemos observar que el canal 5 y 6 contiene una mayor amplitud que el resto, estos se encuentran ubicados en el lóbulo frontal derecho, cabe resaltar que el hemisferio derecho 
 
+
+izquierdo  lobulo frontal se encarga del pensamiento consciente, atención e inteligencia [https://my.clevelandclinic.org/health/articles/23073-cerebral-cortex], por ello en los ultimos segundos cuando se empezo a desarrollar la ronde de preguntas se ve un mayor incremento en la amplitud.</p> 
+Un caso contrario ocurrió para el canal 1 y 2 donde se observa una mínima amplitud, estos corresponden al FP1-F3-C3 los cuáles se ubican en el lóbulo frontal izquierdo
 
 ### 3. Señal con Bitalino
 ####  **Videos utilizando el Bitalino**
