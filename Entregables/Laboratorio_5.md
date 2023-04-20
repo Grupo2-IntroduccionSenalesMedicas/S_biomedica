@@ -43,15 +43,15 @@ neuronas en el cerebro y la interacción de dichas neuronas produciendo señales
 -**Beta**:el ritmo Beta es el ritmo que se observa con mayor frecuencia en adultos y niños normales. Es más prominente en las regiones frontal y central de la cabeza y se atenúa a medida que avanza hacia atrás. La amplitud de la actividad beta suele ser de 10 a 20 microvoltios, que rara vez aumenta por encima de los 30 microvoltios. </p>
 -**Gamma**:Se encuentra en al clasificación de ondas de alta frecuencia. La importancia de los ritmos gamma en una gran variedad de funciones cognitivas ha sido bien establecidaPueden ayudar en la detección temprana de desmielinización y otros trastornos de la integridad cortical.[6]</p>
 
-<center><img src="https://i.imgur.com/VJE3Qq9.png" width="60%" /></center></p>
+<p align="center"> <img src="https://i.imgur.com/VJE3Qq9.png" width="60%" /></p>
 
-<center>Figura 1. Clasificación de onda.[7]</center></p>
+<p align="center"> Figura 1. Clasificación de onda.[7]</center></p>
 
 ### Aplicaciones <a name="id"></a>
 
 ---
 <p align="justify"> Las ondas cerebrales pueden ser estudiadas gracias a la colocación específica de electrodos por métodos no invasivos e invasivos en el cuero cabelludo. Estos se utilizan para diagnosticar los trastornos como el Alzheimer Parkinson enfermedad mental, tumores cerebrales, demencia y epilepsia, trastornos y cambios en el patrón del sueño, etc. [2]</p>
-<center><img src="https://i.imgur.com/5Nirdvp.png" width="60%" /></center></p>
+<p align="center"><img src="https://i.imgur.com/5Nirdvp.png" width="60%" /></p>
 
 ### Tipos de medición de EEG <a name="id"></a>
 ___
@@ -60,8 +60,8 @@ Según la configuración del montaje de los electrodos, se pueden clasificar en 
 - Monopolar: En este tipo se registran las diferencias de potencial entre los electrodos ubicados en las zonas de interés y un electrodo de referencia. Este último se coloca generalmente en la oreja, la cual es una zona que refleja la menor actividad posible.
 - Bipolar: Los electrodos son situados en diferentes zonas de interés y se adquieren diferencias de potenciales entre ellos.
 - Laplaciana: Al igual que el primer tipo, se obtienen los valores con electrodos en zonas de interés (activos) y uno de referencia; sin embargo, la referencia viene a ser el promedio de varios electrodos posicionados alrededor del electrodo activo. Esto puede realizarse tanto de forma analógica como de forma digital.
-<center><img src="https://i.imgur.com/qgZ7UsC.jpg" width="60%" /></center></p>
-<center>Figura 2. Montaje para registro: (a) Monopolar (b) Bipolar.[5] </center></p>
+<p align="center"><img src="https://i.imgur.com/qgZ7UsC.jpg" width="60%" /></p>
+<p align="center">Figura 2. Montaje para registro: (a) Monopolar (b) Bipolar.[5]</p>
 
 
 ### ¿De qué forma obtenemos la señal? <a name="id"></a>
@@ -77,7 +77,7 @@ En el presente laboratorio se utilizará el Ultracortex Mark IV EEG
 
 ## **Materiales y equipos** <a name="id2"></a>
 
-<center>
+<p align="center">
     
 |  **Modelo**  | **Descripción** | **Cantidad** |
 |:------------:|:---------------:|:------------:|
@@ -87,15 +87,14 @@ En el presente laboratorio se utilizará el Ultracortex Mark IV EEG
 |      OpenBCI       |     OpenBCI Cyton 8-channel Board      |      1       |
 |      Inkafarma       |     Electrodos con gel      |      3       |
 
-</center>
 
 ## **Procedimiento** <a name="id"></a>
 
 ### Medición y Adquisición <a name="id"></a>
 De manera general, los métodos de adquisición de señales EEG diseñados en el presente laboratorio utilizarán el estándar de posicionamiento 10/20 el cual se describe a continuación:
 
-<center> Sistema 10/20 <img src="https://i.imgur.com/0O6KnqV.jpg" width="100%" />
-Figura 2. Distribución de electrodos.
+<p align="center">Sistema 10/20 <img src="https://i.imgur.com/0O6KnqV.jpg" width="100%" />
+<p align="center">Figura 2. Distribución de electrodos.
     
 [https://anestesiar.org/2012/electroencefalografia-en-cuidados-criticos/]</center>
 
@@ -161,7 +160,7 @@ ___
 
 ### 2. Señal con MarckOpenBCI4
 
-####**Videos con Ultracortex "Mark IV**
+#### **Videos con Ultracortex "Mark IV**
 
 
 |                 **Fase**                 | **Video** |
@@ -172,7 +171,7 @@ ___
 |                **Respondiendo preguntas categoría compleja (parte 1)** |<video src="https://user-images.githubusercontent.com/128627001/233266949-0d0af3dc-0e56-472a-ab08-0d0c0a24689f.mp4">|
 |                **Respondiendo preguntas categoría compleja (parte 2)** |<video src="https://user-images.githubusercontent.com/128627001/233267165-a7fe473c-ae95-4366-bc09-a43da290e3de.mp4">|
 
-#### **Gráficas del OpenBCI**
+####  **Gráficas del OpenBCI**
 
 
 
@@ -184,16 +183,17 @@ ___
 
 
 ### 3. Señal con Bitalino
-#### **Videos utilizando el Bitalino**
+####  **Videos utilizando el Bitalino**
 
-#### **Análisis de las gráficas**
+####  **Análisis de las gráficas**
 <p align="center"><img src="/Imagenes/entregable5/S1.png" width="100%"></p>
 <p align="center"><img src="/Imagenes/entregable5/S2.png" width="100%"></p>
 <p align="center"><img src="/Imagenes/entregable5/S3.png" width="100%"></p>
 <p align="center"><img src="/Imagenes/entregable5/S4.png" width="100%"></p>
 <p align="center"><img src="/Imagenes/entregable5/S5.png" width="100%"></p>
 
-
+En el Bitalino, al realizar la medición, trabajan con un sensor de EEG el cuál brinda la señal medida como la diferencia amplificada entre las dos señales de medición que se filtra con un paso de banda de 0,8-48Hz para eliminar la señales no deseadas.[3]
+Asimismo, al considerar la posición de los electrodos del Bitalino los cuales fueron en fp1 y fp2 y que de las 5 gráfica la que tiene mayor amplitud 
 
 
 ## **Conclusiones** <a name="id"></a>
