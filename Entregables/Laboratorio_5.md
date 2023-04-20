@@ -153,7 +153,19 @@ ___
 <p align="center"><img src="/Imagenes/entregable5/S4.png" width="100%"></p>
 <p align="center"><img src="/Imagenes/entregable5/S5.png" width="100%"></p>
 
-3. Señal con MarckOpenBCI4
+2. Video de la señal
+
+
+Uploading Reposo.mp4…
+
+
+|                 **Fase**                 | **Video** |
+|:------------------------------------------:|:---------:|
+| **Fase de referencia de 30 segundos**          | |
+| **Manteniendo la respiración por 10 segundos** ||
+|                **Reposo basal**                ||
+
+4. Señal con MarckOpenBCI4
     - 
 
 ### Archivos <a name="id"></a>
