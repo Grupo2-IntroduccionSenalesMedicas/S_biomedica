@@ -160,7 +160,7 @@ ___
 
 |                 **Fase**                 | **Video** |
 |:------------------------------------------:|:---------:|
-| **Fase de referencia de 30 segundos**          |<source="https://user-images.githubusercontent.com/128627001/233262542-abe3f2d1-9a1c-4e73-bcf2-d244204a3a26.mp4" type="video/mp4"></video>|
+| **Fase de referencia de 30 segundos**          |<video src="https://user-images.githubusercontent.com/128627001/233262542-abe3f2d1-9a1c-4e73-bcf2-d244204a3a26.mp4">|
 | **Manteniendo la respiración por 10 segundos** ||
 |                **Reposo basal**                ||
 
