@@ -154,9 +154,9 @@ ___
 <p align="center">Figura 5. Posición de los electrodos del ULTRACORTEX "MARK IV" (vista posterior)
 
 
-2. Video de la señal en MarckOpenBCI4
+2. Señal con MarckOpenBCI4
 
-
+### **Videos con Ultracortex "Mark IV**
 
 
 |                 **Fase**                 | **Video** |
@@ -167,6 +167,7 @@ ___
 |                **Respondiendo preguntas categoría compleja (parte 1)** |<video src="https://user-images.githubusercontent.com/128627001/233266949-0d0af3dc-0e56-472a-ab08-0d0c0a24689f.mp4">|
 |                **Respondiendo preguntas categoría compleja (parte 2)** |<video src="https://user-images.githubusercontent.com/128627001/233267165-a7fe473c-ae95-4366-bc09-a43da290e3de.mp4">|
 
+### **Gráficas del OpenBCI**
 
 
 
@@ -177,9 +178,9 @@ ___
 
 
 
+3. Señal con Bitalino
+### **Videos utilizando el Bitalino**
 
-3. Videos de la señal con Bitalino
-    - 
 ### **Análisis de las gráficas**
 <p align="center"><img src="/Imagenes/entregable5/S1.png" width="100%"></p>
 <p align="center"><img src="/Imagenes/entregable5/S2.png" width="100%"></p>
