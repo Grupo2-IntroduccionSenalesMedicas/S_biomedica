@@ -25,6 +25,7 @@
 ## **Introducción al laboratorio** <a name="id0"></a>
 
 <p align="center"> <img src="https://i.imgur.com/Uup0v26.png" width="50%" /></p>
+<p align="center"> Figura 1. Actividad cerebral.[7]</p>
 
 ### ¿Qué es EEG? <a name="id1"></a>
 <p align="justify"> El electroencefalograma (EEG) es un procedimiento de estudio de actividad electrica cerebral producida por la interfaz de
@@ -49,12 +50,13 @@ neuronas en el cerebro y la interacción de dichas neuronas produciendo señales
 -**Gamma**:Se encuentra en al clasificación de ondas de alta frecuencia. La importancia de los ritmos gamma en una gran variedad de funciones cognitivas ha sido bien establecidaPueden ayudar en la detección temprana de desmielinización y otros trastornos de la integridad cortical.[6]</p>
 
 <p align="center"> <img src="https://i.imgur.com/VJE3Qq9.png" width="60%" /> </p>
-<p align="center"> Figura 1. Clasificación de onda.[7]</p>
+<p align="center"> Figura 2. Clasificación de onda.[7]</p>
 
 ### Aplicaciones <a name="id2"></a>
 ---
 <p align="justify"> Las ondas cerebrales pueden ser estudiadas gracias a la colocación específica de electrodos por métodos no invasivos e invasivos en el cuero cabelludo. Estos se utilizan para diagnosticar los trastornos como el Alzheimer Parkinson enfermedad mental, tumores cerebrales, demencia y epilepsia, trastornos y cambios en el patrón del sueño, etc. [2]</p>
 <p align="center"> <img src="https://i.imgur.com/5Nirdvp.png" width="60%" /></p>
+<p align="center"> Figura 3. Aplicación clínica del EEG.</p>
 
 ### Tipos de medición de EEG <a name="id3"></a>
 ___
@@ -64,7 +66,7 @@ Según la configuración del montaje de los electrodos, se pueden clasificar en 
 - Bipolar: Los electrodos son situados en diferentes zonas de interés y se adquieren diferencias de potenciales entre ellos.
 - Laplaciana: Al igual que el primer tipo, se obtienen los valores con electrodos en zonas de interés (activos) y uno de referencia; sin embargo, la referencia viene a ser el promedio de varios electrodos posicionados alrededor del electrodo activo. Esto puede realizarse tanto de forma analógica como de forma digital.
 <p align="center"> <img src="https://i.imgur.com/qgZ7UsC.jpg" width="60%" /></p>
-<p align="center"> Figura 2. Montaje para registro: (a) Monopolar (b) Bipolar.[5]</p>
+<p align="center"> Figura 4. Montaje para registro: (a) Monopolar (b) Bipolar.[5]</p>
 
 
 ### ¿De qué forma obtenemos la señal? <a name="id4"></a>
@@ -97,7 +99,7 @@ En el presente laboratorio se utilizará el Ultracortex Mark IV EEG
 De manera general, los métodos de adquisición de señales EEG diseñados en el presente laboratorio utilizarán el estándar de posicionamiento 10/20 el cual se describe a continuación:
 
 <p align="center"> Sistema 10/20 <img src="https://i.imgur.com/0O6KnqV.jpg" width="100%" /> </p>
-<p align="center"> Figura 2. Distribución de electrodos. </p>
+<p align="center"> Figura 5. Distribución de electrodos. </p>
     
 <p align="center"> [https://anestesiar.org/2012/electroencefalografia-en-cuidados-criticos/]</p>
 
@@ -115,7 +117,7 @@ La adquisición y medición de señal EEG  en BITalino es un proceso que implica
 1. **Posición de electrodo bipolar (fp1-fp2)**
     <p align="center"> <img src="https://i.imgur.com/8IGiiIx.png" width="50%" /></p>
     
-    <p align="center"> Figura . Colocación de electrodos EEG del Bitalino. </p>
+    <p align="center"> Figura 6. Colocación de electrodos EEG del Bitalino. </p>
 
 2. **Adquisición de datos**
     1. Abrir el software OpenSignals y conectar el Bitalino
@@ -129,6 +131,7 @@ La adquisición y medición de señal EEG  en BITalino es un proceso que implica
         c. Registre otra fase de referencia de 30 segundos (paso 1).</p>
         d. Que uno de tus compañeros lea en voz alta una serie de ejercicios matemáticos (verindicaciones abajo) y resuelve cada uno de ellos mentalmente enfocando tu mirada en unpunto específico para evitar artefactos.</p>
         <p align="center"> <img src="https://i.imgur.com/Ulv3Rrn.jpg" width="100%" /></p>
+        <p align="center"> Figura 7. Preguntas de distinta complejidad. </p>
         e. Detenga la grabación y guarde sus datos.</p>
     7. Como una adquisición extra de señales, seguir los siguientes pasos:</p>
         a. Vendar los ojos al sujeto de estudio por 30 segundos.</p>
@@ -143,17 +146,17 @@ Cabe mencionar que el procedimiento se repitió en diferentes sujetos de estudio
 ___
 ### 1. **Fotos de conexión usada** <a name="id11"></a>
 <p align="center"><img src="/Imagenes/entregable5/IMG_20230419_112630.jpg" width=60%></p>
-<p align="center">Figura 4. Posición de los electrodos en el Bitalino (vista frontal)</p>
+<p align="center">Figura 8. Posición de los electrodos en el Bitalino (vista frontal)</p>
 
 <p align="center"><img src="/Imagenes/entregable5/IMG_20230419_112617.jpg" width=60% ></p>
 
-<p align="center">Figura 5. Posición de los electrodos en el vitalino (vista lateral)</p>
+<p align="center">Figura 9. Posición de los electrodos en el vitalino (vista lateral)</p>
 
 <p align="center"><img src="/Imagenes/entregable5/IMG_20230419_115212.jpg" width="400" height="600"></p>
-<p align="center">Figura 6. Posición de los electrodos del ULTRACORTEX "MARK IV" (vista posterior)</p>
+<p align="center">Figura 10. Posición de los electrodos del ULTRACORTEX "MARK IV" (vista posterior)</p>
 
 <p align="center"><img src="/Imagenes/entregable5/IMG_20230419_115202.jpg" width="400" height="600"></p>
-<p align="center">Figura 7. Posición de los electrodos del ULTRACORTEX "MARK IV" (vista posterior)</p>
+<p align="center">Figura 11. Posición de los electrodos del ULTRACORTEX "MARK IV" (vista posterior)</p>
 
 ### 2. **Señal con MarckOpenBCI4** <a name="id12"></a>
 
@@ -179,10 +182,10 @@ Podemos observar que el canal 5 y 6 contiene una mayor amplitud que el resto, es
 Un caso contrario ocurrió para el canal 1 y 2 donde se observa una mínima amplitud, estos corresponden al FP1-F3-C3 los cuáles se ubican en el lóbulo frontal izquierdo.</p>
 
 <p align="center"><img src="https://i.imgur.com/0MHKduk.png" width="70%"></p>
-<p align="center">Figura 8. "Explicación de lo que se encarga el hemisferio derecho e izquierdo [https://human-memory.net/left-and-right-hemisphere-of-the-brain/]"</p>
+<p align="center">Figura 12. "Explicación de lo que se encarga el hemisferio derecho e izquierdo [https://human-memory.net/left-and-right-hemisphere-of-the-brain/]"</p>
 
 <p align="center"><img src="https://i.imgur.com/I3K4YSs.jpg" width="100%"></p>   
-<p align="center">Figura 9. "Frecuencias de los 8 canales"</p>
+<p align="center">Figura 13. "Frecuencias de los 8 canales"</p>
 
 ### 3. **Señal con Bitalino** <a name="id14"></a>
 ####  **Videos utilizando el Bitalino** <a name="id15"></a>
