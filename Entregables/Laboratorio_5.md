@@ -147,10 +147,10 @@ Cabe mencionar que el procedimiento se repitió en diferentes sujetos de estudio
 ## **Resultados** <a name="id"></a>
 ___
 1. **Fotos de conexión usada**
-<p align="center"><img src="/Imagenes/entregable5/IMG_20230419_115212.jpg" width="600" height="300"></p>
+<p align="center"><img src="/Imagenes/entregable5/IMG_20230419_115212.jpg" width="400" height="600"></p>
 <p align="center">Figura 4. Posición de los electrodos del ULTRACORTEX "MARK IV" (vista posterior)
 
-<p align="center"><img src="/Imagenes/entregable5/IMG_20230419_115202.jpg" width="400" height="300"></p>
+<p align="center"><img src="/Imagenes/entregable5/IMG_20230419_115202.jpg" width="400" height="600"></p>
 <p align="center">Figura 5. Posición de los electrodos del ULTRACORTEX "MARK IV" (vista posterior)
 
 <p align="center"><img src="/Imagenes/entregable5/S1.png" width="100%"></p>
