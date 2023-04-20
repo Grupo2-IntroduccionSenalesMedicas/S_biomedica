@@ -218,9 +218,9 @@ Las ondas beta se generan en las regiones posterior y frontal. se correlacionan 
 4.   D. De Electrotecnia, A. Noelia, and B. Cicchino, “UNIVERSIDAD NACIONAL DE LA PLATA FACULTAD DE INGENIERÍA Tesis presentada para la obtención del grado de MAGISTER EN INGENIERÍA.” Available: http://sedici.unlp.edu.ar/bitstream/handle/10915/32602/Documento_completo__.pdf?sequence=3&isAllowed=y</p>
 5. D. De Electrónica, “UNIVERSIDAD DE ALCALÁ Tema 5 Electroencefalografía.” Available: http://www.hca.es/huca/web/enfermeria/html/f_archivos/electroencefalografia.pdf?fbclid=IwAR3phj1ifwaCuPO8-udtqTg3AEHP716M-DzemN_ohP1RP7v9dXYLeBK76wQ</p>
 6. C. S. Nayak and A. C. Anilkumar, “EEG Normal Waveforms,” Nih.gov, Jan. 21, 2023. https://www.ncbi.nlm.nih.gov/books/NBK539805/#:~:text=However%2C%20the%20most%20frequently%20used,beta%20(13%20to%2030Hz) (accessed Apr. 19, 2023).</p>
-7. Priyanka A. Abhang, Bharti W. Gawali, Suresh C. Mehrotra, "Chapter 2 - Technological Basics of EEG Recording and Operation of Apparatus", Introduction to EEG- and Speech-Based Emotion Recognition, Academic Press, 2016, pp. 19-50, doi: 10.1016/B978-0-12-804490-2.00002-6.
-‌8. AnestesiaR, “Electroencefalografí­a en Cuidados Crí­ticos,” AnestesiaR, Sep. 28, 2012. https://anestesiar.org/2012/electroencefalografia-en-cuidados-criticos/ (accessed Apr. 20, 2023).
-‌9. “Cerebral Cortex: What It Is, Function & Location,” Cleveland Clinic, 2022. https://my.clevelandclinic.org/health/articles/23073-cerebral-cortex (accessed Apr. 20, 2023).
+7. Priyanka A. Abhang, Bharti W. Gawali, Suresh C. Mehrotra, "Chapter 2 - Technological Basics of EEG Recording and Operation of Apparatus", Introduction to EEG- and Speech-Based Emotion Recognition, Academic Press, 2016, pp. 19-50, doi: 10.1016/B978-0-12-804490-2.00002-6.</p>
+‌8. AnestesiaR, “Electroencefalografí­a en Cuidados Crí­ticos,” AnestesiaR, Sep. 28, 2012. https://anestesiar.org/2012/electroencefalografia-en-cuidados-criticos/ (accessed Apr. 20, 2023).</p>
+‌9. “Cerebral Cortex: What It Is, Function & Location,” Cleveland Clinic, 2022. https://my.clevelandclinic.org/health/articles/23073-cerebral-cortex (accessed Apr. 20, 2023).</p>
 ‌10. “Left and Right Hemisphere of the Brain | Functions & Characteristics,” The Human Memory, Oct. 29, 2019. https://human-memory.net/left-and-right-hemisphere-of-the-brain/ (accessed Apr. 20, 2023).
 ‌
 ‌
