@@ -173,10 +173,10 @@ ___
 
 ####  **Gráficas del OpenBCI**
 
-<p align="center"><img src="/Imagenes/FP1-FP3/1.jpg width="100%"></p>
-<p align="center"><img src="/Imagenes/FP1-FP3/2.jpg width="100%"></p>
-<p align="center"><img src="/Imagenes/FP1-FP3/3.jpg width="100%"></p>
-<p align="center"><img src="/Imagenes/FP1-FP3/4.jpg width="100%"></p>
+<p align="center"><img src="/Imagenes/FP1-FP3/1.jpg" width="100%"></p>
+<p align="center"><img src="/Imagenes/FP1-FP3/2.jpg" width="100%"></p>
+<p align="center"><img src="/Imagenes/FP1-FP3/3.jpg" width="100%"></p>
+<p align="center"><img src="/Imagenes/FP1-FP3/4.jpg" width="100%"></p>
 
 
 
