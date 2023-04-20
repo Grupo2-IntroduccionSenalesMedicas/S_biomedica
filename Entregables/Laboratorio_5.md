@@ -187,7 +187,13 @@ Un caso contrario ocurrió para el canal 1 y 2 donde se observa una mínima ampl
 
 ### 3. Señal con Bitalino
 ####  **Videos utilizando el Bitalino**
-
+|                 **Fase**                 | **Video** |
+|:------------------------------------------:|:---------:|
+| **Fase de referencia de 30 segundos**                     |<video src="https://user-images.githubusercontent.com/128627001/233433130-74e1f631-57b8-41d9-8dc4-dcd53a9f2d0f.mp4">|
+| **Realizando secuencia de OJOS ABIERTOS - OJOS CERRADOS** |<video src="https://user-images.githubusercontent.com/128627001/233433248-e4648f16-ceac-4c42-b650-0853c8717613.mp4">|
+|                **Respondiendo preguntas categoría simple** |<video src="https://user-images.githubusercontent.com/128627001/233433318-5b2c0ddb-5e23-4794-8f56-6cc35eefba0e.mp4">|
+|                **Respondiendo preguntas categoría compleja** |<video src="https://user-images.githubusercontent.com/128627001/233433394-42610a9a-4101-4d07-a59d-6cc748af243c.mp4">|
+|                **Reacción a la luz artificial** |<video src="https://user-images.githubusercontent.com/128627001/233433534-2aebb116-354d-4ba0-9717-40c2a81b055b.mp4">|
 ####  **Análisis de las gráficas**
 <p align="center"><img src="/Imagenes/entregable5/S1.png" width="100%"></p>
 <p align="center"><img src="/Imagenes/entregable5/S2.png" width="100%"></p>
