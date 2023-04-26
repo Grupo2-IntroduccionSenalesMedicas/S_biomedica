@@ -31,14 +31,14 @@
 </div>
 
 <p align="justify">
-<p align="center"><img src="/Imagenes/Bitalino/working1.jpeg" width="400" height="266"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/Bitalino/working1.jpeg" width="400" height="266"></p>
 </p>
 
 ## **RESULTADOS** <a name="id3"></a>
 ### **Conexión usada** <a name="id4"></a>
 Se utilizó la conexión EMG en la placa Bitalino utilizando el sensor EMG de 3 electrodos como se muestra a continuación.
 <p align="justify">
-<p align="center"><img src="/Imagenes/Bitalino/bit-con2.jpg" width="400" height="266"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/Bitalino/bit-con2.jpg" width="400" height="266"></p>
 </p>
 
 El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario de prueba. Para ello se utilizó la **Guía De Procedimiento de Electromiografía y velocidad de conducción de nervios periféricos** del año 2020 elaborada por el **Instituto Nacional del Niño de San Borja** para el Ministerio de Salud (MINSA).
@@ -49,7 +49,7 @@ El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario 
 <p align="justify">
 En la prueba 1 se tomo señales del reposo y contracción del dedo pulgar, teniendo la conexión de tierra en el dorso de la mano.Presione el icono de video rojo para acceder a la lista de reproducción de la primera prueba.<br>
 </p>
-<p align="center"><img src="/Imagenes/Bitalino/electrodos_dedo1.png" width="400" height="300"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/Bitalino/electrodos_dedo1.png" width="400" height="300"></p>
 
 <div align="center">
 
@@ -66,7 +66,7 @@ En la prueba 1 se tomo señales del reposo y contracción del dedo pulgar, tenie
 <p align="justify">
 En la prueba 2 se tomo señales del reposo y contracción del biceps, teniendo la conexión de tierra a la altura de la muñeca.Presione el icono de video rojo para acceder a la lista de reproducción de la segunda prueba<br>
 </p>
-<p align="center"><img src="/Imagenes/Bitalino/electrodos_brazo1.png" width="400" height="300"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/Bitalino/electrodos_brazo1.png" width="400" height="300"></p>
 
 <div align="center">
 
@@ -79,7 +79,7 @@ En la prueba 2 se tomo señales del reposo y contracción del biceps, teniendo l
 <p align="justify">
 En la prueba 3 se tomo señales del reposo y contracción del músculo gastrocnemio, teniendo la conexión de tierra en la parte anterior de la tibia.Presione el icono de video rojo para acceder a la lista de reproducción de la tercera prueba<br>
 </p>
-<p align="center"><img src="/Imagenes/Bitalino/electrodos_pantorrilla1.png" width="400" height="300"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/Bitalino/electrodos_pantorrilla1.png" width="400" height="300"></p>
 
 <div align="center">
 
@@ -96,20 +96,20 @@ En la prueba 3 se tomo señales del reposo y contracción del músculo gastrocne
 La primera prueba se realizo con el dedo pulgar en el cuál se tomaron muestras del dedo en reposo, contra fuerza y en posición de pinza con el dedo índice.
 </p>
 - Señal de dedo con contrafuerza:
-<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_dedo_contrafuerza.jpg" width="800" height="500"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/Bitalino/EMG_Python_dedo_contrafuerza.jpg" width="800" height="500"></p>
 - Señal de dedo en posición de pinza:
-<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_dedo_pinza.jpg" width="800" height="500"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/Bitalino/EMG_Python_dedo_pinza.jpg" width="800" height="500"></p>
 
 En la segunda prueba se realizó con el biceps del brazo el cual se sometio a contra fuerza y contracción máxima.
 </p>
 - Señal de biceps en contracción:
-<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_biceps_contraccion.jpg" width="800" height="500"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/Bitalino/EMG_Python_biceps_contraccion.jpg" width="800" height="500"></p>
 - Señal de biceps con contrafuerza:
-<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_biceps_contrafuerza.jpg" width="800" height="500"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/Bitalino/EMG_Python_biceps_contrafuerza.jpg" width="800" height="500"></p>
 
 En la tercera prueba, el usuario estuvo en posición sentado y parado, y de las dos formas se sometió a contracción el músculo gastrocnemio.
 </p>
 - Señal de contracción del gastrocnemio en posición parado:
-<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_pantorrilla_parado.jpg" width="800" height="500"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/Bitalino/EMG_Python_pantorrilla_parado.jpg" width="800" height="500"></p>
 - Señal de contracción del gastrocnemio en posición sentado:
-<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_pantorrilla_sentado.jpg" width="800" height="500"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/Bitalino/EMG_Python_pantorrilla_sentado.jpg" width="800" height="500"></p>
