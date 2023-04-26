@@ -133,20 +133,20 @@ La señales se sometieron a un filtrado pasa baja y el efecto que se obtuvo fue 
 
      a)   Estado basal</p>
 <p align="center"><img src="/ISB/Laboratorios/Imagenes/entregable4/Basal1_señal.png" width="600" height="300"></p>
-<p align="center"><img src="/ISB/Laboratorios/Programación/Laboratorio 4/Imagenes/Basal 1 Freq_response.png" width="600" height="300"></p>
+<p align="center"><img src="/ISB/Laboratorios/Programación/ECG/Imagenes/Basal 1 Freq_response.png" width="600" height="300"></p>
 En estado basal, el usuario se encontraba en reposo por lo cuál el valor de R-R es 0.98s que equivale a 61 latidos por minuto que esta dentro del rango normal de palpitaciones cardiacas.</p>
      b)   Manteniendo la respiración por 10 segundos</p>
 <p align="center"><img src="/ISB/Laboratorios/Imagenes/entregable4/Respiración_señal.png" width="600" height="300"></p>
-<p align="center"><img src="/ISB/Laboratorios/Programación/Laboratorio 4/Imagenes/Respiracion Freq_response.png" width="600" height="300"></p>
-<p align="center"><img src="/ISB/Laboratorios/Programación/Laboratorio 4/Imagenes/Respiracion Amplitudes_Analysis Raw_Signal.png" width="600" height="300"></p>
+<p align="center"><img src="/ISB/Laboratorios/Programación/ECG/Imagenes/Respiracion Freq_response.png" width="600" height="300"></p>
+<p align="center"><img src="/ISB/Laboratorios/Programación/ECG/Imagenes/Respiracion Amplitudes_Analysis Raw_Signal.png" width="600" height="300"></p>
 En este parámetro, el usuario contuvo la respiración durante 10 segundos por lo cuál el valor del intervalo R-R es de 0.9s que equivale a 67 latidos por minuto.</p> 
      c)   Reposo basal</p>
 <p align="center"><img src="/ISB/Laboratorios/Imagenes/entregable4/Basal2_señal.png" width="600" height="300"></p>
-<p align="center"><img src="/ISB/Laboratorios/Programación/Laboratorio 4/Imagenes/Post-ejercicio Freq_response.png" width="600" height="300"></p>
+<p align="center"><img src="/ISB/Laboratorios/Programación/ECG/Imagenes/Post-ejercicio Freq_response.png" width="600" height="300"></p>
 En este parámetro, se volvió a establecer al usuario en un estado basal después de haber inspirado y expirado por lo cuál, el valor del intervalo R-R es de 0.9s que equivale a 67 latidos por minuto.</p>
      d)   Después de una actividad física</p>
 <p align="center"><img src="/ISB/Laboratorios/Imagenes/entregable4/Post_ejercicio_señal.png" width="600" height="300"></p>
-<p align="center"><img src="/ISB/Laboratorios/Programación/Laboratorio 4/Imagenes/Basal 2 Freq_response.png" width="600" height="300"></p>
+<p align="center"><img src="/ISB/Laboratorios/Programación/ECG/Imagenes/Basal 2 Freq_response.png" width="600" height="300"></p>
 Inmediatamente, después de la actividad física de 5 minutos, el intervalo R-R es de 0.45 que equivale a 133 latidos por minuto.</p> 
 
 ### **Señal del Promsim4 (dispositivo de metrología que genera una señal patrón)** <a name="id9"></a>
