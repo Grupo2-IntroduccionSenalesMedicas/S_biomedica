@@ -30,8 +30,8 @@ A través de esta experiencia práctica, se espera  aprender sobre la obtención
 ### Señal de ECG </p>
 Con respecto a la teoría de una señal de ECG, se puede diferenciar entre 3 fases:
 
-<p align="center"><img src="/Imagenes/entregable4/du.png" width="600" height="400"></p>
-<p align="center"><img src="/Imagenes/Bitalino/intervalos_ecg.png" width="600" height="400"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/entregable4/du.png" width="600" height="400"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/Bitalino/intervalos_ecg.png" width="600" height="400"></p>
 <p align="center">Figura 1. Intervalos y segmentos de ECG.[5] </p>
 
 ### Electrocardiograma
@@ -50,7 +50,7 @@ Si el terminal positivo es:
 * En el brazo derecho ⇒  aVR
 * En el brazo izquierdo  ⇒ aVL 
 * En la pierna izquierda  ⇒ aVF (La señal es invertida)</p>
-<p align="center"><img src="/Imagenes/entregable4/deri.png" width="300" height="300"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/entregable4/deri.png" width="300" height="300"></p>
 <p align="center">Figura 2. Derivaciones.[6] </p>
 
 ### Ejercicios
@@ -80,7 +80,7 @@ Los objetivos del laboratorio son:
 
 1. Preparación de la piel: se lavo con agua y jabón la zona en la que se colocaron los electrodos. Posteriormente, se seco cuidadosamente para eliminar todo residuo de agua
 2. Ubicación de los electrodos: para ello se uso la configuración bipolar [3]. Primero se colocaron los electrodos y luego se conectaron al BITalino
-     <p align="center"><img src="/Imagenes/Bit-ECG/UbicacionBitalino.png" width="600" height="300"></p>
+     <p align="center"><img src="/ISB/Laboratorios/Imagenes/Bit-ECG/UbicacionBitalino.png" width="600" height="300"></p>
      <p align="center">Figura 3. Colocación de electrodos para el plomo I: IN+ (rojo) e IN-(negro) en las muñecas y REF (blanco) en la cresta ilíaca [3].
 
 3. Registro de la señal ECG: Se grabó la señal en 3 momentos
@@ -99,10 +99,10 @@ https://user-images.githubusercontent.com/43428232/231537596-8f684d32-26c2-4d7b-
 <p align="justify">Para la conexión de electrodos al cuerpo utilizamos la guía proporcionada por el propio Bitalino de nombre: "BITalino HOME-GUIDE #2 ELECTROCARDIOGRAPHY (ECG) Exploring Cardiac Signals at the Skin Surface" y a su vez la “GUÍA DE PROCEDIMIENTO ASISTENCIAL: TOMA DE ELECTROCARDIOGRAMA DEL HOSPITAL NACIONAL HIPOLITO UNANUE”.</p>
 
 Se posicionaron los electrodos en base las guías mencionadas:
-<p align="center"><img src="/Imagenes/Bitalino/pos_electrodos.png" width="600" height="300"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/Bitalino/pos_electrodos.png" width="600" height="300"></p>
 <p align="center">Figura 4. Posición de los electrodos.
 
-<p align="center"><img src="/Imagenes/Bitalino/conexión_bitalino.jpg" width="400" height="300"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/Bitalino/conexión_bitalino.jpg" width="400" height="300"></p>
 <p align="center">Figura 5. Conexión con el Bitalino.
      
 ### **Video de la señal** <a name="id6"></a>
@@ -132,21 +132,21 @@ Se posicionaron los electrodos en base las guías mencionadas:
 La señales se sometieron a un filtrado pasa baja y el efecto que se obtuvo fue mínimo, esto debido al existente acondicionamiento que integra el BITalino. Es por este motivo que el análisis realizado fue directamente de las señales sin procesado.
 
      a)   Estado basal</p>
-<p align="center"><img src="/Imagenes/entregable4/Basal1_señal.png" width="600" height="300"></p>
-<p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Basal 1 Freq_response.png" width="600" height="300"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/entregable4/Basal1_señal.png" width="600" height="300"></p>
+<p align="center"><img src="/ISB/Laboratorios/Programación/Laboratorio 4/Imagenes/Basal 1 Freq_response.png" width="600" height="300"></p>
 En estado basal, el usuario se encontraba en reposo por lo cuál el valor de R-R es 0.98s que equivale a 61 latidos por minuto que esta dentro del rango normal de palpitaciones cardiacas.</p>
      b)   Manteniendo la respiración por 10 segundos</p>
-<p align="center"><img src="/Imagenes/entregable4/Respiración_señal.png" width="600" height="300"></p>
-<p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Respiracion Freq_response.png" width="600" height="300"></p>
-<p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Respiracion Amplitudes_Analysis Raw_Signal.png" width="600" height="300"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/entregable4/Respiración_señal.png" width="600" height="300"></p>
+<p align="center"><img src="/ISB/Laboratorios/Programación/Laboratorio 4/Imagenes/Respiracion Freq_response.png" width="600" height="300"></p>
+<p align="center"><img src="/ISB/Laboratorios/Programación/Laboratorio 4/Imagenes/Respiracion Amplitudes_Analysis Raw_Signal.png" width="600" height="300"></p>
 En este parámetro, el usuario contuvo la respiración durante 10 segundos por lo cuál el valor del intervalo R-R es de 0.9s que equivale a 67 latidos por minuto.</p> 
      c)   Reposo basal</p>
-<p align="center"><img src="/Imagenes/entregable4/Basal2_señal.png" width="600" height="300"></p>
-<p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Post-ejercicio Freq_response.png" width="600" height="300"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/entregable4/Basal2_señal.png" width="600" height="300"></p>
+<p align="center"><img src="/ISB/Laboratorios/Programación/Laboratorio 4/Imagenes/Post-ejercicio Freq_response.png" width="600" height="300"></p>
 En este parámetro, se volvió a establecer al usuario en un estado basal después de haber inspirado y expirado por lo cuál, el valor del intervalo R-R es de 0.9s que equivale a 67 latidos por minuto.</p>
      d)   Después de una actividad física</p>
-<p align="center"><img src="/Imagenes/entregable4/Post_ejercicio_señal.png" width="600" height="300"></p>
-<p align="center"><img src="/Programación/Laboratorio 4/Imagenes/Basal 2 Freq_response.png" width="600" height="300"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/entregable4/Post_ejercicio_señal.png" width="600" height="300"></p>
+<p align="center"><img src="/ISB/Laboratorios/Programación/Laboratorio 4/Imagenes/Basal 2 Freq_response.png" width="600" height="300"></p>
 Inmediatamente, después de la actividad física de 5 minutos, el intervalo R-R es de 0.45 que equivale a 133 latidos por minuto.</p> 
 
 ### **Señal del Promsim4 (dispositivo de metrología que genera una señal patrón)** <a name="id9"></a>
@@ -155,10 +155,10 @@ Inmediatamente, después de la actividad física de 5 minutos, el intervalo R-R 
 
 |                 **Simulación**                 | **Toma** |
 |:------------------------------------------:|:---------:|
-|**Simulación de 60lpm - estado basal** </p><img src="/Imagenes/entregable4/60lpm_toma1.jpg" width="300" height="300">|<img src="/Imagenes/entregable4/60lpm_toma11.jpg" width="300" height="300">|
-| **Simulación de 120lpm - empieza a agitarse**</p><img src="/Imagenes/entregable4/120lpm_toma2.jpg" width="300" height="300">|<img src="/Imagenes/entregable4/120lpm_toma22.jpg" width="300" height="300">|
-|                **Simulación de 150lpm - haciendo ejercicio**</p><img src="/Imagenes/entregable4/150lpm_toma3.jpg" width="300" height="300">|<img src="/Imagenes/entregable4/150lpm_toma33.jpg" width="300" height="300"></p>|
-|       **Simulación de 90lpm - reponiendose**</p><img src="/Imagenes/entregable4/90lpm_toma4.jpg" width="300" height="300">      |<img src="/Imagenes/entregable4/90lpm_toma44.jpg" width="300" height="300"></p>|
+|**Simulación de 60lpm - estado basal** </p><img src="/ISB/Laboratorios/Imagenes/entregable4/60lpm_toma1.jpg" width="300" height="300">|<img src="/ISB/Laboratorios/Imagenes/entregable4/60lpm_toma11.jpg" width="300" height="300">|
+| **Simulación de 120lpm - empieza a agitarse**</p><img src="/ISB/Laboratorios/Imagenes/entregable4/120lpm_toma2.jpg" width="300" height="300">|<img src="/ISB/Laboratorios/Imagenes/entregable4/120lpm_toma22.jpg" width="300" height="300">|
+|                **Simulación de 150lpm - haciendo ejercicio**</p><img src="/ISB/Laboratorios/Imagenes/entregable4/150lpm_toma3.jpg" width="300" height="300">|<img src="/ISB/Laboratorios/Imagenes/entregable4/150lpm_toma33.jpg" width="300" height="300"></p>|
+|       **Simulación de 90lpm - reponiendose**</p><img src="/ISB/Laboratorios/Imagenes/entregable4/90lpm_toma4.jpg" width="300" height="300">      |<img src="/ISB/Laboratorios/Imagenes/entregable4/90lpm_toma44.jpg" width="300" height="300"></p>|
 
 </div>
      
