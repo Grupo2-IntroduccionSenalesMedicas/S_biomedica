@@ -142,17 +142,17 @@ Cabe mencionar que el procedimiento se repitió en diferentes sujetos de estudio
 ## **Resultados** <a name="id10"></a>
 ___
 ### 1. **Fotos de conexión usada** <a name="id11"></a>
-<p align="center"><img src="/Imagenes/entregable5/IMG_20230419_112630.jpg" width=60%></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/entregable5/IMG_20230419_112630.jpg" width=60%></p>
 <p align="center">Figura 8. Posición de los electrodos en el Bitalino (vista frontal).</p>
 
-<p align="center"><img src="/Imagenes/entregable5/IMG_20230419_112617.jpg" width=60% ></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/entregable5/IMG_20230419_112617.jpg" width=60% ></p>
 
 <p align="center">Figura 9. Posición de los electrodos en el vitalino (vista lateral).</p>
 
-<p align="center"><img src="/Imagenes/entregable5/IMG_20230419_115212.jpg" width="400" height="600"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/entregable5/IMG_20230419_115212.jpg" width="400" height="600"></p>
 <p align="center">Figura 10. Posición de los electrodos del ULTRACORTEX "MARK IV" (vista posterior).</p>
 
-<p align="center"><img src="/Imagenes/entregable5/IMG_20230419_115202.jpg" width="400" height="600"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/entregable5/IMG_20230419_115202.jpg" width="400" height="600"></p>
 <p align="center">Figura 11. Posición de los electrodos del ULTRACORTEX "MARK IV" (vista posterior).</p>
 
 ### 2. **Señal con MarckOpenBCI4** <a name="id12"></a>
@@ -169,10 +169,10 @@ ___
 
 ####  **Gráficas del OpenBCI**
 
-<p align="center"><img src="/Imagenes/FP1-FP3/1.jpg" width="100%"></p>
-<p align="center"><img src="/Imagenes/FP1-FP3/2.jpg" width="100%"></p>
-<p align="center"><img src="/Imagenes/FP1-FP3/3.jpg" width="100%"></p>
-<p align="center"><img src="/Imagenes/FP1-FP3/4.jpg" width="100%"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/FP1-FP3/1.jpg" width="100%"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/FP1-FP3/2.jpg" width="100%"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/FP1-FP3/3.jpg" width="100%"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/FP1-FP3/4.jpg" width="100%"></p>
 
 <p align="justify">Si analizamos los canales, estos guardan relación con la ubicación 10/20 de un EEG, los canales que van del Fp1-F3-C3-P3-O1 corresponden al hemisferio izquierdo y los canales Fp2-F4-C4-P4-O2 al hemisferio derecho.
 Podemos observar que el canal 5 y 6 contiene una mayor amplitud que el resto, estos se encuentran ubicados en el lóbulo frontal derecho, cabe resaltar que el hemisferio derecho izquierdo  lobulo frontal se encarga del pensamiento consciente, atención e inteligencia [9], por ello en los ultimos segundos cuando se empezo a desarrollar la ronde de preguntas se ve un mayor incremento en la amplitud.</p> 
@@ -194,11 +194,11 @@ Un caso contrario ocurrió para el canal 1 y 2 donde se observa una mínima ampl
 |                **Respondiendo preguntas categoría compleja** |<video src="https://user-images.githubusercontent.com/128627001/233433394-42610a9a-4101-4d07-a59d-6cc748af243c.mp4">|
 |                **Reacción a la luz artificial** |<video src="https://user-images.githubusercontent.com/128627001/233433534-2aebb116-354d-4ba0-9717-40c2a81b055b.mp4">|
 ####  **Análisis de las gráficas** <a name="id16"></a>
-<p align="center"><img src="/Imagenes/entregable5/S1.png" width="100%"></p>
-<p align="center"><img src="/Imagenes/entregable5/S2.png" width="100%"></p>
-<p align="center"><img src="/Imagenes/entregable5/S3.png" width="100%"></p>
-<p align="center"><img src="/Imagenes/entregable5/S4.png" width="100%"></p>
-<p align="center"><img src="/Imagenes/entregable5/S5.png" width="100%"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/entregable5/S1.png" width="100%"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/entregable5/S2.png" width="100%"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/entregable5/S3.png" width="100%"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/entregable5/S4.png" width="100%"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/entregable5/S5.png" width="100%"></p>
 
 En el Bitalino, al realizar la medición, trabajan con un sensor de EEG el cuál brinda la señal medida como la diferencia amplificada entre las dos señales de medición que se filtra con un paso de banda de 0,8-48Hz para eliminar la señales no deseadas.[3]
 Asimismo, al considerar la posición de los electrodos del Bitalino los cuales fueron en fp1 y fp2, estas regiones están relacionadas con diversas funciones cognitivas y emocionales.
