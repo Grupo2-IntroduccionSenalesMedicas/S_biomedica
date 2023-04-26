@@ -80,54 +80,54 @@ El curso consta de 4 unidades las cuales se desarrollaran a lo largo del semestr
 - UNIDAD 4: Informática biomédica e introducción a la inteligencia artificial en señales biomédicas
 
 
-<p align="center"><img src="/Laboratorios/Imagenes/contenidos.png"  width="792" height="1426"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/contenidos.png"  width="792" height="1426"></p>
 
 ***
 
 # Integrantes<a name="id6"></a>
-<p align="center"><img src="/Laboratorios/Imagenes/FotoEquipo.jfif"  width="400" height="250"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/FotoEquipo.jfif"  width="400" height="250"></p>
 
 ## Fernando Guevara [fernando.guevara@upch.pe]
 <p align="justify">
 Soy Fernando Guevara Remón, soy estudiante de Ingeniería Biomédica. Mi área de interés es la biomecánica relacionada a la adquisición de  señales biomédicas y sus aplicaciones en entornos clínicos. En este momento espero aprender sobre el procesamiento de señales de electromiografía (EMG)  y electroencefalograma (EEG).
 </p>
 
-<p align="center"><img src="/Laboratorios/Imagenes/fernando.jpg"  width="200" height="266"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/fernando.jpg"  width="200" height="266"></p>
 
 ## Sandra Mozombite [sandra.mozombite@upch.pe]
 <p align="justify">
 Soy Sandra Mozombite Shishco, estudiante de 8vo ciclo de Ingeniería Biomédica. Me interesa el área de Ingeniería Clínica, en especial la Instrumentación Biomédica. Encuentro al estudio de señales biomédicas en conjunto con inteligencia artificial como una herramienta clave en el diseño de dispositivos. Además, quisiera poder involucrarme en el planeamiento de servicios clínicos para cuidados prenatales y neonatales.
 </p>
 
-<p align="center"><img src="/Laboratorios/Imagenes/sandra.jpg"  width="150" height="266"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/sandra.jpg"  width="150" height="266"></p>
 
 ## Carlos Pariona [carlos.pariona@upch.pe]
 <p align="justify">
 ¡Hola! Soy Carlos, ingeniero industrial a punto de terminar una segunda carrera en ingeniería biomédica. Mi principal interés de investigación está en el campo de la ciencia de datos y el procesamiento de señales e imágenes, y estto y apasionado por las matemáticas detrás de las tecnologías que generan conocimiento a partir de datos. Además, soy un entusiasta de la fabricación digital ("Maker") y tengo experiencia en el campo de la impresión 3D y la electrónica.
 </p>
 
-<p align="center"><img src="/Laboratorios/Imagenes/carlos.jpg"  width="200" height="266"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/carlos.jpg"  width="200" height="266"></p>
 
 ## Luis Barreto [luis.barreto@upch.pe]
 <p align="justify">
 Mi nombre es Luis Eduardo Barreto Espinosa, soy estudiante de 7mo ciclo en la carrera de ingeniería biomédica, interesado en las ramas de ingeniería de tejidos e Ingeniería de señales imágenes biomédicas, en esta oportunidad soy parte del equipo 2, interesado en la adquisición de señales, mi área de interés son las señales de electroencefalograma.
 </p>
 
-<p align="center"><img src="/Laboratorios/Imagenes/luis.jpg"  width="200" height="250"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/luis.jpg"  width="200" height="250"></p>
 
 ## Carla Solis [carla.solis@upch.pe]
 <p align="justify">
 Mi nombre es Carla Alexandra Solis Bocanegra, soy estudiante del 7mo ciclo de la carrera de ingeniería biomédica. Estoy interesada en el área de Biomecánica y rehabilitación. Me considero una persona responsable, dedicada e innovadora. En este curso busco aprender sobre el procesamiento de señales.
 </p>
 
-<p align="center"><img src="/Laboratorios/Imagenes/carla.jpg"  width="200" height="266"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/carla.jpg"  width="200" height="266"></p>
 
 ## Daniela Sandoval [daniela.sandoval@upch.pe]
 <p align="justify">
 Mi nombre es Daniela Mareli Sandoval Reyes, soy estudiante de 7mo ciclo en la carrera de ingeniería biomédica,  con interés en consolidar el conocimiento adquirido mediante la práctica especialmente en el campo de Ingeniería Clínica con temas relacionados a metrología y calibración. Me considero una persona proactiva, comprometida a alcanzar nuevas metas en el ámbito de salud con miras al desarrollo del país, honesta, responsable, analítica y dispuesta a trabajar en equipo para lograr objetivos laborales y personales. 
 </p>
 
-<p align="center"><img src="/Laboratorios/Imagenes/dani.jpg"  width="200" height="236"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/dani.jpg"  width="200" height="236"></p>
 
 ***
 
