@@ -14,7 +14,6 @@
   5.3 [Señales crudas y filtradas para cada campo](#id11)\
   5.3 [Comparación de señal cruda vs filtrada](#id12)\
   5.4 [Archivos](#id13)
-6. [Conclusiones](#id14)
 7. [Referencias](#id15)
 ***
 ## **Introducción al laboratorio** <a name="id0"></a>
@@ -142,8 +141,6 @@ Estas pueden afectar en mayor medida a la morfología de las señales ECG, hasta
 [3. Código de programación del filtrado](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/blob/main/ISB/Laboratorios/Programación/Filtering/FilteringSignals.ipynb)</p>
 [4. Código de programación del filtrado en Google Colab](https://colab.research.google.com/drive/15u-UyS5ebRgpkwa1JFneBlgCbcg1GJKp?usp=sharing)</p>
 
-## **Conclusiones** <a name="id14"></a>
-- 
 
 ## **Referencias** <a name="id15"></a>
 1. “A-15 Dispositivos y Circuitos Electrónicos II Ingeniería Electrónica Filtros Activos.” Available: https://www.fceia.unr.edu.ar/dce2/Files/Apuntes/FILTROS ACTIVOS - Notas de Clase (v-2019-1).pdf
