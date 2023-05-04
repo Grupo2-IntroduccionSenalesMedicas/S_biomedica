@@ -133,6 +133,9 @@ Estas pueden afectar en mayor medida a la morfología de las señales ECG, hasta
 ![](https://i.imgur.com/KNOYBls.png)
 
 
+Gracias a los ceros y polos se puede analizar las propiedades del filtro, como la **estabilidad**, un filtro es estable cuando todos sus polos se encuentran dentro del círculo unitario, para el filtro FIR, como no tiene polos, la estabilidad está garantizada. Asimismo, en el caso del Butterworth, todos sus polos se encuentran dentro del círculo. Además, se puede analizar la **respuesta en frecuencia** ya que como nos encontramos en el plano Z, al reemplazarlo por e^jw en la función de transferencia, el w tiene la posiblidad de variar entre 0 a 2*pi en el circulo unitario.Para los FIR , los ceros determinan las frecuencias, si estan cerca de la circunferencia, hay atenuación en la frecuencia, en cambio en los IIR, los polos y ceros afectan, a mayor cercanía, existe un menor decaimiento en la banda de detención. Finalmente, la **fase** también puede ser analizada, en el caso del Butterworth no sería lineal debido a la presencia de polos y ceros, en cambio como en el filtro FIR, los ceros estan distribuidos simétricamnte, sí es lineal. 
+
+
 ### **Archivos**<a name="id13"></a>
 [1. Carpeta de las señales ECG crudas](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/tree/main/ISB/Laboratorios/Programación/Filtering/Señales%20ECG)</p>
 [2. Dataset de las señales](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/blob/main/ISB/Laboratorios/Programación/Filtering/Dataset.mat)</p>
