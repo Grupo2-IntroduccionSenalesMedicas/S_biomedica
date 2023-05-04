@@ -47,8 +47,6 @@ Para diseñar los filtros FIR se tienen que truncar la serie infinita de los coe
 | Hamming   | ![](https://i.imgur.com/N0hAKWC.png)|
 | Blackman  | ![](https://i.imgur.com/K0880MV.png)|
 
-http://www3.fi.mdp.edu.ar/tds/material/10-Filtros%20FIR.pdf (no puedo citar, mi extensión no me deja)
-
 
 |FIR [4]|IIR [4]|
 |:-----------:|:-----:|
