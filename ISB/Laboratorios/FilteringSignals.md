@@ -43,10 +43,10 @@ Para diseñar los filtros FIR se tienen que truncar la serie infinita de los coe
 ### **Filtros con método de Ventana [3]**<a name="id3"></a>
 |Nombre de Ventana|Visualización|
 |:-----------:|:-----:|
-|  Rectangular|![](https://i.imgur.com/BRLbDjX.png)|
+|  Rectangular|![](https://i.imgur.com/vt37r8m.png)|
 | Bartlett |![](https://i.imgur.com/8j29Ywr.png)|
-| Hanning  |  ![](https://i.imgur.com/GSevUQP.png)|
-| Hamming   | ![](https://i.imgur.com/prxc8xD.png)|
+| Hanning  |  ![](https://i.imgur.com/XEfC7ty.png)|
+| Hamming   | ![](https://i.imgur.com/N0hAKWC.png)|
 | Blackman  | ![](https://i.imgur.com/K0880MV.png)|
 
 http://www3.fi.mdp.edu.ar/tds/material/10-Filtros%20FIR.pdf (no puedo citar, mi extensión no me deja)
@@ -95,10 +95,17 @@ Estas pueden afectar en mayor medida a la morfología de las señales ECG, hasta
 |1|Laptop|Visualización y procesamiento de las señales ECG con lenguaje de programación|
 
 ## **Procedimiento** <a name="id7"></a>
-1. 
+![image](https://user-images.githubusercontent.com/89613626/236114903-32c95bae-bf80-449a-9e81-2670ac2eac00.png)
+![image](https://user-images.githubusercontent.com/89613626/236114984-5fe67267-0711-43aa-95b8-e58823a83684.png)
+![image](https://user-images.githubusercontent.com/89613626/236114799-cf5e53da-1eb2-453a-b786-91548de66eb6.png)
 ![](https://i.imgur.com/rQqMmE6.png)
-![](https://i.imgur.com/qZ7ecgt.png)
+![image](https://user-images.githubusercontent.com/89613626/236115067-03ef9069-6e4c-46a4-86aa-1a87fe88aa5f.png)
 
+![](https://i.imgur.com/qZ7ecgt.png)
+![image](https://user-images.githubusercontent.com/89613626/236115136-8534d717-311a-436b-bca9-f277cf296b44.png)
+![image](https://user-images.githubusercontent.com/89613626/236115171-caa5e832-f6bf-404e-83ee-b34546bf4334.png)
+![image](https://user-images.githubusercontent.com/89613626/236115217-5bca25fd-108d-4059-bbf6-51d51fb468e1.png)
+![image](https://user-images.githubusercontent.com/89613626/236115392-c709a827-2421-48c3-9bbe-1302421d8727.png)
 
 ## **Resultados** <a name="id8"></a>
 
