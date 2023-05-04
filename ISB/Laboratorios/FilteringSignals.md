@@ -13,7 +13,7 @@
   5.2 [Filtro FIR generado: Método Hamming](#id10)\
   5.3 [Señales crudas y filtradas para cada campo](#id11)\
   5.3 [Comparación de señal cruda vs filtrada](#id12)\
-  5.4 [Archivos](#id13)\
+  5.4 [Archivos](#id13)
 6. [Conclusiones](#id14)
 7. [Referencias](#id15)
 ***
