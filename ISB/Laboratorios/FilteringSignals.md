@@ -32,9 +32,8 @@ Dentro de los analógicos podemos diferenciar los pasivos (filtros en escalera R
 | Chebyshev  |  Consiguen una caída más abrupta a frecuencias bajas en base a permitir un rizado de la respuesta.Por otro lado, tiene sobrepasamientos y oscilaciones ante entrada de pulsos    |
 | Elíptico   |  Estos filtros presentan fase menos lineal. Consiguen estrechar la zona de transición permitindo un rizado constante en las bandas  | 
 
-
-![](https://i.imgur.com/IjRexVv.png)
-<p align="center">Fig 1. Filtros analógicos [3] [Guía]</p>
+<p align="center"> <img src="https://i.imgur.com/IjRexVv.png" width="60%" /></p>
+<p align="center"> Fig 1. Filtros analógicos.[3] </p>
 
 Un filtro digital es un sistema LTI que modifica el espectro en frecuencia de la señal de entrada según la función de trasnferencia. La clasificación según el tipo de respuesta ante entrada unitaria es : FIR (finite impulse responde) que se caracterizan por ser no recursivos , e IIR (infite impulse responde) que tienen retroalimentación en la señal de salida.
 Cabe resaltar que para el diseño de filtros digitales **IIR** se basa en la utilización de filtros analógicos. 
@@ -130,10 +129,10 @@ Estas pueden afectar en mayor medida a la morfología de las señales ECG, hasta
 | Post ejercicio  |![](https://i.imgur.com/uZv9cIg.png)|![](https://i.imgur.com/tkdYgEs.png)|![](https://i.imgur.com/Ru5IPIx.png)|
 
 ### **Comparación de señal cruda vs filtrada**<a name="id12"></a>
-**1. Filtrado IIR**
+**1. Filtrado IIR**</p>
 ![](https://i.imgur.com/mqTBK28.png)
 
-**2. Filtrado FIR**
+**2. Filtrado FIR**</p>
 ![](https://i.imgur.com/KNOYBls.png)
 
 
