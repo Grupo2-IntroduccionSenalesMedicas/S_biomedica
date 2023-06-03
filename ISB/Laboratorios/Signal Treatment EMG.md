@@ -6,16 +6,16 @@
 
 ### **Código**<a name="id0"></a>
 <p align="justify">Importación de librerías, voltios DC y diseño de filtro pasa bandas:</p>
-<p align="center"><img src="/ISB/Laboratorios/Imagenes/E10 código/cod1.png"></p>
-<p align="center"><img src="/ISB/Laboratorios/Imagenes/E10 código/cod2.png"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/E10 Código/cod1.png"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/E10 Código/cod2.png"></p>
 <p align="justify">Extracción de características:</p>
-<p align="center"><img src="/ISB/Laboratorios/Imagenes/E10 código/cod3.png"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/E10 Código/cod3.png"></p>
 <p align="justify">Ploteo de la señal EMG cruda:</p>
-<p align="center"><img src="/ISB/Laboratorios/Imagenes/E10 código/cod4.png"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/E10 Código/cod4.png"></p>
 <p align="justify">Eliminación de línea base y filtrado:</p>
-<p align="center"><img src="/ISB/Laboratorios/Imagenes/E10 código/cod5.png"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/E10 Código/cod5.png"></p>
 <p align="justify">Ploteo de la señal EMG filtrada:</p>
-<p align="center"><img src="/ISB/Laboratorios/Imagenes/E10 código/cod6.png"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/E10 Código/cod6.png"></p>
 
 ### **Ploteo de señal EMG cruda y filtrada**<a name="id1"></a>
 ![image](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/assets/89613626/696376e4-fe0b-47e6-aad1-a361cc11a041)
