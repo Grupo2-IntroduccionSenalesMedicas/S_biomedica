@@ -1,4 +1,4 @@
-# **ENTREGABLE 10: ADQUISICIÓN DE SEÑALES Y GRAFICACIÓN EN ARDUINO**
+# **ENTREGABLE 10: Análisis básico de señal EMG**
 ### **Archivos**<a name="id1"></a>
 [1. Carpeta de archivos requeridos](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/tree/main/ISB/Laboratorios/Programación/Signal%20treatment/Tratamiento%20EMG)</p>
 [2. Señal electromiográfica de bíceps en txt](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/blob/main/ISB/Laboratorios/Programación/Signal%20treatment/Tratamiento%20EMG/Biceps%20-%20Carlos.txt)</p>
