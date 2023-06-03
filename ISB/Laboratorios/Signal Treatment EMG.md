@@ -6,16 +6,16 @@
 
 ### **Código**<a name="id0"></a>
 <p align="justify">Importación de librerías, voltios DC y diseño de filtro pasa bandas:</p>
-![image](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/assets/89613626/e1b42fb4-8d7e-4f43-a1d9-758bdaf87c44)
-![image](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/assets/89613626/378af8f6-d4d1-41bb-8198-e3bf0f2514c3)
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/E10 código/cod1.png"></p>
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/E10 código/cod2.png"></p>
 <p align="justify">Extracción de características:</p>
-![image](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/assets/89613626/c5b4f0de-ee01-4b12-ba92-15b2b069adb2)
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/E10 código/cod3.png"></p>
 <p align="justify">Ploteo de la señal EMG cruda:</p>
-![image](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/assets/89613626/dadb34a0-fd27-4f0d-97f4-d9cef6f4567e)
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/E10 código/cod4.png"></p>
 <p align="justify">Eliminación de línea base y filtrado:</p>
-![image](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/assets/89613626/4e35e01b-c60d-4266-8ba8-f4eeb211881c)
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/E10 código/cod5.png"></p>
 <p align="justify">Ploteo de la señal EMG filtrada:</p>
-![image](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/assets/89613626/5be73541-24c9-4baf-9aa9-3880605c0ab0)
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/E10 código/cod6.png"></p>
 
 ### **Ploteo de señal EMG cruda y filtrada**<a name="id1"></a>
 ![image](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/assets/89613626/696376e4-fe0b-47e6-aad1-a361cc11a041)
