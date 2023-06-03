@@ -18,9 +18,9 @@
 <p align="center"><img src="/ISB/Laboratorios/Imagenes/E10 Código/cod6.png"></p>
 
 ### **Ploteo de señal EMG cruda y filtrada**<a name="id1"></a>
-![image](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/assets/89613626/696376e4-fe0b-47e6-aad1-a361cc11a041)
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/E10 Código/SEÑAL EMG CRUDA.png"></p>
 <p align="center"> Fig 1. Señal EMG original</p>
-![image](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/assets/89613626/7a5c787f-8524-49fe-82bb-05db801ced7b)
+<p align="center"><img src="/ISB/Laboratorios/Imagenes/E10 Código/SEÑAL EMG FILTRADA.png"></p>
 <p align="center"> Fig 2. Señal EMG filtrada</p>
 
 ### **Archivos**<a name="id2"></a>
