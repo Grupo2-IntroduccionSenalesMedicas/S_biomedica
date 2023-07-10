@@ -10,7 +10,7 @@ Characterization and differentiation of electromyographic signals acquired with 
 
 # Resumen <a name="id1"></a>
 <p align="justify">
-Una señal biomédica 
+El presente estudio de investigación biomédica tiene como objetivo comparar las señales electromiográficas obtenidas a través de ejercicios de esfuerzo físico,con el uso de la plataforma de bioseñales BiTalino, en población universitaria. La data recolectada contribuirá como información para validar la implementación de la plataforma  de bioseñales “Bitalino” específicamente en el sensor de electromiograma con enfoque de enseñanza. Se espera encontrar un margen de diferenciación entre diferentes señales electromiográficas provenientes de 27 personas (9 personas con el síndrome de SHA, 9 personas con hipertrofia y 9 personas sin ninguna de las condiciones anteriores como grupo de control).
 </p>
 
 ***
