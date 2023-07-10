@@ -1,4 +1,4 @@
-**Caracterización y diferenciación de señales electromiográficas adquiridas con la plataforma BITalino en universitarias peruanas**</p>
+# **Caracterización y diferenciación de señales electromiográficas adquiridas con la plataforma BITalino en universitarias peruanas**</p>
 **BITalino**
 <p align="justify">
 En este proyecto se empleó un estudio con diseño experimental para investigar la actividad electromiográfica en sujetos durante determinadas tareas motoras. Para la adquisición de las señales electromiográficas, se utilizó el sistema BITalino, el cual ofrece una plataforma versátil para el registro de señales biológicas. <br>
